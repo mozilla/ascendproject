@@ -1,9 +1,10 @@
 # Site settings
 title: Ascend Project
 email: info@ascendproject.org
-description: "Providing support for people who are systemically underrepresented in tech to make a technical contribution to an Open Source project."
-baseurl: "/ascendproject"
+description: "Mentoriship and barrier-removing accelerator program designed to explicitly invite, include, and support adults learners in making technical contributions to Open Source software."
+baseurl: ""
 url: "http://ascendproject.org"
+github: "http://github.com/mozilla/ascendproject"
 
 # Build settings
 markdown: kramdown
