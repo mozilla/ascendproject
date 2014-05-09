@@ -1,0 +1,10 @@
+# Site settings
+title: Ascend Project
+email: info@ascendproject.org
+description: "Providing support for people who are systemically underrepresented in tech to make a technical contribution to an Open Source project."
+baseurl: "/ascendproject"
+url: "http://ascendproject.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
