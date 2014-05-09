@@ -2,9 +2,31 @@
 layout: post
 title:  "About Ascend"
 date:   2014-05-09 14:23:14
-categories: update
+categories: [update, sticky]
 ---
+
+# Explicit Invitation
+
+> You are invited to apply for this project if any of the following applies to you: you are looking to break the cycle of living paycheck to paycheck, you feel like there's more for you to learn and push yourself to try in life, you are a person of color, you identify as LGBTQ, circumstances have not made it possible for you to start on or complete a 4 year college degree and you are not currently pursuing one, or for any reason you want to work with technology but have felt like it wasn't inviting or available to you up until now.
 
 The Ascend Project is a 6 week, full time course that removes many barriers and allows participants time and support as they focus on learning typical open source practices: IRC, bug trackers, code review, committing patches, and the larger opportunities available to users & developers of the open web. The curriculum will focus on setting people up to succeed, getting hooked on solving problems with code, and being a part of a bigger community with a mission for global good. The intention is to provide a counter the manner in which many populations are either completely ignored, or sometimes pushed away from participation in computer science and open source contributions when it costs too much to join in.
 
-This site is served and hosted on GitHub so that all the materials, as they are being developed, can be available for viewing/inpuut/contribution.  Please get in touch if you'd like to know more.
+This site is served and hosted on the [Ascend Project GitHub repo][ascend-gh] so that all the materials, as they are being developed, can be available for viewing/inpuut/contribution.  If you are interested in contributing, please take a look at the [Issue Tracker][ascend-issues] and get in touch.
+
+## Community Planning Meetings
+
+We will be starting a public call for community planning around this first pilot, please stay tuned for call in details and link to notes.
+
+## Upcoming deadlines
+
+### Pilot 1: Portland, OR
+* May 12, 2014: Open the Call for Applications (Round 1)
+* June 13, 2014: Applications closed
+
+
+### Pilot 2: New Orleans, LA
+* Planned for January/February 2015
+* Need to confirm location
+
+[ascend-gh]: https://github.com/mozilla/ascendproject
+[ascend-issues]: https://github.com/mozilla/ascendproject/issues
