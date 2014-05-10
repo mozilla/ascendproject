@@ -349,6 +349,15 @@ footer {
   color: #aaa;
 }
 
+footer#credit hr {
+  line-height: 2px;
+  color: #2879d0;
+}
+
+footer p {
+  text-align: center;
+}
+
 footer a {
   color: #666;
 }
