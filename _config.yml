@@ -4,6 +4,7 @@ email: info@ascendproject.org
 description: "Mentorship and barrier-removing accelerator program designed to explicitly invite, include, and support adult learners in making a first technical contribution to Open Source software."
 baseurl: ""
 url: "http://ascendproject.org"
+homeurl: "/about/"
 github: "http://github.com/mozilla/ascendproject"
 
 # Build settings
