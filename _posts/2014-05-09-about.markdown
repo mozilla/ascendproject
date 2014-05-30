@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "About Ascend"
+title:  "Introducing Ascend"
 date:   2014-05-09 14:23:14
-categories: [update, sticky]
+categories: [update]
 ---
 
-# Explicit Invitation
+## Explicit Invitation
 
 > You are invited to apply for this project if any of the following applies to you: you are looking to break the cycle of living paycheck to paycheck, you feel like there's more for you to learn and push yourself to try in life, you are a person of color, you identify as LGBTQ, circumstances have not made it possible for you to start on or complete a 4 year college degree and you are not currently pursuing one, or for any reason you want to work with technology but have felt like it wasn't inviting or available to you up until now.
 

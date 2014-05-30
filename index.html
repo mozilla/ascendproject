@@ -6,7 +6,7 @@ title: Ascend Project - Home
 <div id="home">
   <div id="sticky">
     {% for post in site.posts %}
-      {% for cat in post.categories %} <!-- roll through this pages categories to find if it is sticky -->
+      {% for cat in post.categories %}
         {% if cat == 'sticky' %}
           {{ post.content }}
           <hr />
@@ -14,10 +14,13 @@ title: Ascend Project - Home
       {% endfor %}
     {% endfor %}
   </div>
-  <h2>Recent Updates</h2> 
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <span>{{ post.date | date_to_string }}</span> &raquo;
+        
+        {{ post.content }}
+      
+    {% endfor %}
   </ul>
 </div>
