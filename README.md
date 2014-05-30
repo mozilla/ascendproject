@@ -1,14 +1,14 @@
-# Architect theme
+# Welcome to the Ascend Project
 
-This is the raw HTML and styles that are used for the *Architect* theme on [GitHub Pages](http://pages.github.com/).
+This repo will hold all the material for:
 
-![](http://cl.ly/image/1x0Q3213330G/content)
+* Website
+* Participant blog posts
+* Organizer blog posts
+* Curriculum
+* Planning and development of future instances
+* who knows what else?
 
-# Using with Jekyll
+The point is to have all of this in the open and available to anyone who wants to see it, contribute to it, test it, or fork it.
 
-If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-architect-theme
-
-# License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
+Check out the homepage for more informtation.
