@@ -34,12 +34,25 @@
         </section>
 
         <aside id="sidebar">
+          <nav class="nav-primary" role="navigation">
+            <ul>
+                {% for link in site.navigation %}
+                {% if page.url == link.url %}
+                <li class="active">
+                {% else %}
+                <li>
+                {% endif %}
+                    <a href="{{link.url}}">{{link.title}}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </nav>
 
-          The Ascend Project is generously funded by:
-          <a href="http://mozilla.org"><img src="{{ site.baseurl }}/images/mozilla_wordmark_small.png" /></a>
-
-          <p>All content for this site lives on <a href="{{ site.github }}">GitHub</a>, suggestions & bug reports welcomed.</p>
-
+          <div class="sponsor">
+            <p>The Ascend Project is generously funded by:</p>
+            <a href="http://mozilla.org"><img src="{{ site.baseurl }}/images/mozilla_wordmark_small.png" /></a>
+            <p>All content for this site lives on <a href="{{ site.github }}">GitHub</a>, suggestions & bug reports welcomed.</p>
+          </div>
         </aside>
       </div>
     </div>
