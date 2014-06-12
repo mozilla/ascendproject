@@ -11,4 +11,4 @@ This repo will hold all the material for:
 
 The point is to have all of this in the open and available to anyone who wants to see it, contribute to it, test it, or fork it.
 
-Check out the homepage for more informtation.
+Check out the homepage for more information.
