@@ -20,7 +20,7 @@ Now that the applications are kicked off, here's what's next:
 
 * Looking for volunteers to spread the word on the ground in Portland (see [volunteers](/volunteers/))
 * Getting posters & flyers printed and distributed
-* Launching some press materials and looking for opportunities to talk up the project
+* Looking for opportunities to talk about the project
 * Keynoting at Open Source Bridge about the project and looking for contributors & mentors at the conference
 * Processing applications and making sure people get office hours if they need them
 * Setting up office hours with the Portland Space
