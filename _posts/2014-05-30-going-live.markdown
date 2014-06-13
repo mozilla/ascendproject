@@ -7,7 +7,7 @@ categories: [update]
 
 ## And we're off!
 
-Today the first inquiry from the site came in.  Things are getting **very** real now. The application form is up on the site, and we’ll start talking with press, making social media pushes, and getting flyers & posters distributed in Portland next week.
+Today the first inquiry from the site came in.  Things are getting **very** real now. The application form is up on the site, so now it's time for social media pushes and getting flyers & posters distributed in Portland in the coming weeks. If you are in Portland and have a place for a poster to go up, or cards to be placed out where potential applicants might see them - please reach out!  
 
 Here's what I've learned so far in getting to this point:
 
