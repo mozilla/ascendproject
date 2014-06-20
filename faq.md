@@ -4,6 +4,8 @@ title: FAQ
 permalink: /faq/
 ---
 
+If this document does not address your question, please get in touch with
+the Contact link at the top of the page
 
 For Participants
 ----------------
