@@ -23,5 +23,7 @@ navigation:
   url: /application/index.html
 - title: Volunteers
   url: /volunteers/index.html
+- title: FAQ
+  url: /faq/index.html
 #- title: Press
 #  url: /press/index.html
