@@ -165,12 +165,13 @@ Who are the instructors, mentors, staff? Place where I can see them?
 
 	Course Staff: Lukas Blakk, other in-class mentors to be announced closer to start
 
-	Curriculum Mentors: Greg Wilson, David Humphrey, Mozilla WebMakers,
+	Curriculum Advisory: Greg Wilson, David Humphrey, Mozilla WebMakers,
 	and community members who have experience fostering cultural diversity 
 	as well as training/understanding in privilege and systemic oppressions
 
-	Community Mentors: Tracy Gray, Marina Zhurakhinskaya, Sumana Harihareswara,
-	more as needed through outreach and requests in mailing groups
+	Community Advisory:  Helping with language and cultural awarenss in
+	project communications: Tracy Gray, Marina Zhurakhinskaya, Sumana Harihareswara,
+	Dino Anderson and others through outreach and requests in mailing groups
 
 Most learning happens at Mozilla, where else will some of the learning take place?
 
