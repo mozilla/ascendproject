@@ -30,6 +30,12 @@ footer, header, hgroup, menu, nav, section {
 body {
   line-height: 1;
 }
+
+strong {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 ol, ul {
   list-style: none;
 }
@@ -198,10 +204,10 @@ ul, ol, dl {
 hr {
   height: 1px;
   line-height: 1px;
-  margin-top: 1em;
-  padding-bottom: 1em;
+  margin-top: 2px;
+  padding-bottom: 2px;
   border: none;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  background: #2879d0 0 0 no-repeat;
 }
 
 table {
