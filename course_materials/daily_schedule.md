@@ -5,25 +5,11 @@ Daily Schedule
 
 9:30am - 10am:  Checkin
 
-10am - 11am:  Course Material:  Technical
-
-11am - 11:15am:  Break
-
-11:15am - 12:15am:  Course Material:  Technical
+10am - 12:15pm:  Course Material:  Core Skills
 
 12:15 - 12:45pm:  Lunch
 
-12:45pm - 1:45pm:  Course Material:  Web Literacy
-
-1:45pm - 2pm:  Break
-
-2pm - 3pm: Course Material:  Business Skills & Community
-
-3pm - 3:15pm: Break
-
-3:15pm - 4:15pm: Self-directed time on contribution(s)
-
-4:15 - 4:30pm:  Break
+12:45pm - 4:30pm:  Open project time, self-directed, team/group activities
 
 4:30pm - 5pm:  Checkout, goal of the day, what's tomorrow?
 
