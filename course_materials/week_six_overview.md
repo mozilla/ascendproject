@@ -7,11 +7,10 @@ Goals:
 
 * Committing a patch to production code
 * What's next?
-* Applying for Ascend
+** Applying for OPW, local internships
+
 * How to stay involved
-** Mailing lists, being a mentor, staying in #ascend
+** Mailing list, being a mentor, staying in #ascend
 * Portfolio/Resume work time -- put in what you've done here
-* Badges for your path
-* Blog post
-* Web Literacy Module
-* Business basics (with Kronda or other?)
+* Badges of your path
+* Blog post reflecting back on the whole 6 weeks
