@@ -25,3 +25,11 @@ navigation:
   url: /volunteers/index.html
 - title: FAQ
   url: /faq/index.html
+
+
+# Test Blogs
+participants:
+- title: Lukas
+  url: /lukas/index.html
+- title: Kronda
+  url: /kronda/index.html
