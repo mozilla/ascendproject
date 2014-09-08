@@ -30,10 +30,6 @@
       image: "carmen_cordis.jpg"
       bio: "Carmen Cordis is an enthusiastic wordsmith, choral singer, and lover of languages living in Portland, Oregon.  A lifelong learner, Carmen also finds inspiration in art history as a mirror of cultural development and a window through time.  As a writer and linguist, Carmen specializes in Classical Latin (12+ years of learning) and Ancient Greek (7+ years of learning).  She thoroughly enjoys translating, tracing word origins, and looking for patterns across multiple languages throughout history. Carmen also completed a B.A. program in Classics and Classical Humanities at the University of Wisconsin-Madison.  Her love of learning, asking questions, and encouraging students has driven her to pursue even more learning and teaching opportunities for personal and social enrichment. <br /><br />  Carmen has experience as an academic tutor, educator, and published author.  She has lived and worked as an animal caretaker, a member of multiple choirs, and a vegetarian.  She has participated in and assisted in leading advocacy trainings, workshops, fundraising, and community events in support of queer and trans* social justice, women’s empowerment, and communities of color.  Her work also includes advocacy focused on housing disparities, domestic violence, behavioral health, and public health. <br /> <br /> Carmen loves gaming, and has eagerly begun to learn computer coding skills (like JavaScript, HTML, CSS, and Ruby) in order to explore and create connections between programming, gaming, and teaching.  She also writes poetry and prose inspired by her Classical background.  In her writing, she expresses emotions and experiences by using words as vivid pictures.  Carmen hopes to publish more of her writings on a broad scale, and travel the world to experience more wonders.  In addition to teaching, she would love to work in a museum as a researcher or docent, as a game designer, and as a programmer.  Her favorite color is purple (yay!) and she probably drinks too much coffee!  :)"
     -
-      name: "Mary Anne Thygesen"
-      role: "participant"
-      bio: "I have a hard time writing short bios. For starters, my favorite color is purple. I make most of my own clothes. I am in aurora chorus, second soprano."
-    -
       name: "Peri Ahmadi"
       role: "participant"
       bio: "Two truths and a lie: <ol><li>I've always been into horseback riding though I don't have much time for it nowadays.</li><li> I've been vegan for 10 years.</li><li> I play guitar.</li></ol>"
@@ -92,6 +88,10 @@
       name: "Adam Okoye"
       bio: "Adam Okoye is a 27 year old Portland native. Having always been interested in technology he started taking apart computers in elementary school and taught himself HTML in middle school. Adam also is a flutist and studied music and German at Sarah Lawrence College. In his spare time Adam studies languages, knits, and spins yarn."
       role: "participant"
+    -
+      name: "Mary Anne Thygesen"
+      role: "participant"
+      bio: "I have a hard time writing short bios. For starters, my favorite color is purple. I make most of my own clothes. I am in aurora chorus, second soprano."
     -
       name: "Sofie Amine"
       role: "participant"

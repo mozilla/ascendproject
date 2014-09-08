@@ -25,20 +25,35 @@ disruptive in class to the point of being asked to leave, or doesn't
 participate in the day's work there will be no honorarium paid for that day.
 
 To complete the course with full participation, resulting in the laptop being
-given to the participant, there must be no unscheduled absences.
+given to the participant, there must be no unscheduled absences, no more than 10
+days of absence overall, and any emergency absences/lateness must follow 
+the established process.
 
-A scheduled absences must:
+A scheduled absence must:
 
 * be pre-arranged with the course leader
-* be made before the absence occurs
-* have provided the participant with a notice of adjustment to the honorarium based on the following:
+* before 5pm end of class the day before the absence occurs
+* have confirmation from course leader in email to the participant with the
+adjustment to the honorarium based on the following:
+** no penalty for 1/4 day or less absence when needed for appointments with care 
+providers or other wellness needs (includes commute time)
 ** 1/2 day absence = 1/2 daily honorarium
 ** more than 1/2 day absence = no honorarium
-** no penalty for an hour absence for appointments with care providers or other wellness needs
+
+In case of emergency or 'out of your control' absence/lateness:
+* Call/text the course leader to let them know the situation and whether to expect you that day
+
+PHONE NUMBER #1 ____________________________
+
+
+PHONE NUMBER #2 ____________________________
+
+* The honorarium will be adjusted according to the above schedule
+* Emergency/unexpected absence for more than 1/2 the day will result in no honorarium that day
 
 As much as possible, these should be minimal and pre-arranged 
-before the course begins.  Any absences during the course that are unplanned 
-and result in missing class time will result in no honorarium for that day.
+before the course begins.  Any absences during the course that are unscheduled 
+and/or result in missing class time will result in no honorarium for that day.
 
 Any extra-curricular activities that take place outside of the 9am-5pm window
 are not part of this attendance policy, they are optional, and do not 
