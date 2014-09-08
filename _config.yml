@@ -17,8 +17,8 @@ navigation:
   url: /about/index.html
 - title: Blog
   url: /index.html
-- title: Participants
-  url: /application/index.html
+- title: Portland Ascend
+  url: /participants/portland/index.html
 - title: Course Materials
   url: /course_materials
 - title: Volunteers
@@ -26,6 +26,11 @@ navigation:
 - title: FAQ
   url: /faq/index.html
 
+# Links we don't need right now
+#- title: Apply
+#	url: /apply/index.html
+#- title: Info For Participants
+#	url: /application/index.html
 
 # Test Blogs
 participants:

@@ -2,7 +2,9 @@ Attendance Policy
 =================
 
 
-Excellent attendance is an expectation of all Ascend Project participants. 
+Excellent attendance is an expectation of all Ascend Project participants
+and is required in order to be gifted the laptop that participants use
+during the the program at it's completion. 
 
 Daily attendance over the 6 weeks of the program is the key to building 
 a community presence and connecting with mentors in order to complete 
@@ -16,18 +18,31 @@ There is an honorarium for each full day of attendance, which is defined as:
 	fully in the daily material as well as being a respectful and supportive
 	member in your cohort in order to build a solid team.
 
-Attendance will be recorded at 9am every day and if absent, there will 
-be no honorarium paid for that day. 
+Attendance will be recorded between 9am-9:30am every morning as computers
+are signed out to each person for the day and then again at 5pm when the 
+computers are returned. If someone is absent, misses sign in/out, is 
+disruptive in class to the point of being asked to leave, or doesn't 
+participate in the day's work there will be no honorarium paid for that day.
 
-Scheduled absences can be arranged for personal reasons at the 
-discretion of the course leader-mentors, with proper communication from
-the participant, depending on circumstances.  These should be pre-arranged 
+To complete the course with full participation, resulting in the laptop being
+given to the participant, there must be no unscheduled absences.
+
+A scheduled absences must:
+
+* be pre-arranged with the course leader
+* be made before the absence occurs
+* have provided the participant with a notice of adjustment to the honorarium based on the following:
+** 1/2 day absence = 1/2 daily honorarium
+** more than 1/2 day absence = no honorarium
+** no penalty for an hour absence for appointments with care providers or other wellness needs
+
+As much as possible, these should be minimal and pre-arranged 
 before the course begins.  Any absences during the course that are unplanned 
 and result in missing class time will result in no honorarium for that day.
 
 Any extra-curricular activities that take place outside of the 9am-5pm window
 are not part of this attendance policy, they are optional, and do not 
-impact the participant's honorariums.
+impact participant honorariums.
 
 
 Acknowledgment of for the Attendance Policy
@@ -37,10 +52,11 @@ I have read and been informed about the content, requirements, and
 expectations of the attendance policy for Ascend Project participants. 
 I have received a copy of the policy and agree to abide by the policy 
 guidelines as a condition of my participation and my ability to receive 
-daily honorariums for said attendance.
+daily honorariums for said attendance as well as the laptop gifted
+at the end of the program on ____________________________.
 
 I understand that if I have questions, at any time, regarding the 
-attendance policy, I will consult with the project leader-mentors.
+attendance policy, I will consult with the project leaders.
 
 Please read the policy carefully to ensure that you understand the 
 policy before signing this document.
