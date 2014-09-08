@@ -26,15 +26,21 @@ title: Bio Page for Portland Ascend Participants
 					{% endif %}
 				</div>
 				
+			<div class="pic" style="display:inline">
+				{% if participant.image %}
+					<img src="/images/portland_participants/{{ participant.image }}" width="400" />
+				{% else %}
+				  <img src="/images/ascend_one_color_image_placeholder.png" width="150" />
+				 {% endif %}
+			</div>
+			
+			<div class="bio">
 			{% if participant.bio %}
-			<p><div class="pic" style="display:inline">
-					<a href="#"><img src="/images/{{ participant.image }}" width="150" /></a>
-			</div>{{ participant.bio }}</p>
+				{{ participant.bio }}
 			{% else %}
-			<p><div class="pic" style="display:inline">
-					<a href="#"><img src="/images/{{ participant.image }}" width="150" /></a>
-			</div>We need a bio for this person!</p>
+			  We're working on getting a bio written for this person, stay tuned.
 			{% endif %}
+		  </div>
 
 			{% if participant.badges %}
 				<div class="head"><h3>Badges(0)</h3></div>
