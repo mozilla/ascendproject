@@ -1,5 +1,5 @@
 ---
-  participants: 
+  participants:
     -
       name: "Jessica &#9731;"
       role: "participant"
@@ -27,7 +27,7 @@
       name: "Carmen Cordis"
       role: "participant"
       bio: "Carmen Cordis is an enthusiastic wordsmith, choral singer, and lover of languages living in Portland, Oregon.  A lifelong learner, Carmen also finds inspiration in art history as a mirror of cultural development and a window through time.  As a writer and linguist, Carmen specializes in Classical Latin (12+ years of learning) and Ancient Greek (7+ years of learning).  She thoroughly enjoys translating, tracing word origins, and looking for patterns across multiple languages throughout history. Carmen also completed a B.A. program in Classics and Classical Humanities at the University of Wisconsin-Madison.  Her love of learning, asking questions, and encouraging students has driven her to pursue even more learning and teaching opportunities for personal and social enrichment. <br /><br />  Carmen has experience as an academic tutor, educator, and published author.  She has lived and worked as an animal caretaker, a member of multiple choirs, and a vegetarian.  She has participated in and assisted in leading advocacy trainings, workshops, fundraising, and community events in support of queer and trans* social justice, women’s empowerment, and communities of color.  Her work also includes advocacy focused on housing disparities, domestic violence, behavioral health, and public health. <br /> <br /> Carmen loves gaming, and has eagerly begun to learn computer coding skills (like JavaScript, HTML, CSS, and Ruby) in order to explore and create connections between programming, gaming, and teaching.  She also writes poetry and prose inspired by her Classical background.  In her writing, she expresses emotions and experiences by using words as vivid pictures.  Carmen hopes to publish more of her writings on a broad scale, and travel the world to experience more wonders.  In addition to teaching, she would love to work in a museum as a researcher or docent, as a game designer, and as a programmer.  Her favorite color is purple (yay!) and she probably drinks too much coffee!  :)"
-      image: "carmen_cordis.jpg"    
+      image: "carmen_cordis.jpg"
     -
       name: "Peri Ahmadi"
       role: "participant"
@@ -37,7 +37,7 @@
       name: "Agustina &#9731;"
       role: "participant"
       bio: "I'm on the computer about 8 hours a day, either researching cool projects or playing video games. I feel at home on a command line and use linux as my primary OS. My favorite ice cream is cookie dough and I like the movie Be Kind Rewind."
-    - 
+    -
       name: "Mel Reslor;"
       bio: "Most significant work I've done is at KPFK, Los Angeles the 2nd Pacifica radio station. A free-form non-commercial radio station where I worked in the subscriptions office but got training in their apprentice program. From there I started recording events, interviews and producing programs. Many of the topics were on health and public affairs (speaking events, politics, government corruption). <br /><br />In Oregon my interests include gardening/permaculture, off-grid-living and just about anything odd.  To a lesser extent I have volunteered and worked at KBOO, a local public radio station.  Former techno geek, 'cuz right now I can barely adjust the audio on my computer.   I did own a portable TRS-80 that printed on paper rolls using color ink pens and ran on the BASIC program.<br /><br /> If my friends read this they would say, 'You forgot to mention you ride an old bike and your car is more worn out than the bike!' I do hope to own an electric vehicle someday."
       image: "mel_reslor.jpg"
@@ -62,7 +62,7 @@
     -
       name: "Amanda Houle"
       role: "participant"
-      image: "amanda_houle.jpg"      
+      image: "amanda_houle.jpg"
       bio: " I remember Logo in middle school!  Oh what fun.  After one year as an engineering major in college, I decided that I wasn't super excited about the boys club (we were still teenagers) and left tech altogether.  Fast forward almost 20 years later (OMG!), after a successful yoga teaching 'career' covering Asia and Europe, I have a small daughter to role model for.  I think the US is a better place for both of us to blossom into the powerful women that we will become and back in tech is where I want to be.  Here's to hoping that those tech-related neurons in my brain will still fire!"
     -
       name: "Barbara Miller"
@@ -70,8 +70,9 @@
       image: "barbara_miller.jpg"
       bio: "Two truths and a lie: <ul><li>Last year as a volunteer I finished updating a non-profit's Drupal site.</li><li>This summer I've been paid to update some 2003 Visual Basic code.</li><li>I not only took this photo, I grew these wonderful daffodils.</li></ul>"
     -
-      name: "David &#9731;"
+      name: "David Hinojosa"
       role: "participant"
+      image: "david_hinojosa.jpg"
       bio: "David is a 20 something year old who's making it up as he goes. He likes long walks on the beach, cotton candy, and cold weather."
     -
       name: "Zeus &#9731;"
