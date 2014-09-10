@@ -9,20 +9,24 @@
       role: "participant"
       bio: "Becky Scheffler: I have lived all over Oregon and finally feel like Portland may be our forever city.  I enjoy hiking, camping, crabbing and also Minecrafting with my kiddos. I am excited to jump into the Ascend program and the programming world! "
     -
-      name: "J.D. &#9731;"
+      name: "J.D. West"
       role: "participant"
+      image: "jd_west.jpg"
       bio: "​Hi i'm James West, I prefer to go by J.D I am 22 years old and moved to Portland from Austin, Texas a few months ago. I create super awesome dance music on a old Gameboy in my spare time."
     -
       name: "Lisa &#9731;"
       role: "participant"
       bio: "Lisa Hewus Fresh is a wife and mother of five who has recently (and very happily) relocated to beautiful North Portland from ridiculously hot Arizona. Lisa previously did technical support and was the chief of operations for a privately owned ISP and is now focusing on learning to program. She loves to read and collect books she intends to read someday. She also loves gardening and playing the drums."
     -
-      name: "Nina &#9731;"
+      name: "Nina Alcaras"
       role: "participant"
+      image: "nina_alcaras.jpg"
+      bio: "having a good day"
     -
-      name: "Carmen &#9731;"
+      name: "Carmen Cordis"
       role: "participant"
       bio: "Carmen Cordis is an enthusiastic wordsmith, choral singer, and lover of languages living in Portland, Oregon.  A lifelong learner, Carmen also finds inspiration in art history as a mirror of cultural development and a window through time.  As a writer and linguist, Carmen specializes in Classical Latin (12+ years of learning) and Ancient Greek (7+ years of learning).  She thoroughly enjoys translating, tracing word origins, and looking for patterns across multiple languages throughout history. Carmen also completed a B.A. program in Classics and Classical Humanities at the University of Wisconsin-Madison.  Her love of learning, asking questions, and encouraging students has driven her to pursue even more learning and teaching opportunities for personal and social enrichment. <br /><br />  Carmen has experience as an academic tutor, educator, and published author.  She has lived and worked as an animal caretaker, a member of multiple choirs, and a vegetarian.  She has participated in and assisted in leading advocacy trainings, workshops, fundraising, and community events in support of queer and trans* social justice, women’s empowerment, and communities of color.  Her work also includes advocacy focused on housing disparities, domestic violence, behavioral health, and public health. <br /> <br /> Carmen loves gaming, and has eagerly begun to learn computer coding skills (like JavaScript, HTML, CSS, and Ruby) in order to explore and create connections between programming, gaming, and teaching.  She also writes poetry and prose inspired by her Classical background.  In her writing, she expresses emotions and experiences by using words as vivid pictures.  Carmen hopes to publish more of her writings on a broad scale, and travel the world to experience more wonders.  In addition to teaching, she would love to work in a museum as a researcher or docent, as a game designer, and as a programmer.  Her favorite color is purple (yay!) and she probably drinks too much coffee!  :)"
+      image: "carmen_cordis.jpg"    
     -
       name: "Peri &#9731;"
       role: "participant"
@@ -32,8 +36,9 @@
       role: "participant"
       bio: "I'm on the computer about 8 hours a day, either researching cool projects or playing video games. I feel at home on a command line and use linux as my primary OS. My favorite ice cream is cookie dough and I like the movie Be Kind Rewind."
     - 
-      name: "Mel &#9731;"
+      name: "Mel Reslor;"
       bio: "Most significant work I've done is at KPFK, Los Angeles the 2nd Pacifica radio station. A free-form non-commercial radio station where I worked in the subscriptions office but got training in their apprentice program. From there I started recording events, interviews and producing programs. Many of the topics were on health and public affairs (speaking events, politics, government corruption). <br /><br />In Oregon my interests include gardening/permaculture, off-grid-living and just about anything odd.  To a lesser extent I have volunteered and worked at KBOO, a local public radio station.  Former techno geek, 'cuz right now I can barely adjust the audio on my computer.   I did own a portable TRS-80 that printed on paper rolls using color ink pens and ran on the BASIC program.<br /><br /> If my friends read this they would say, 'You forgot to mention you ride an old bike and your car is more worn out than the bike!' I do hope to own an electric vehicle someday."
+      image: "mel_reslor.jpg"
       role: "participant"
     -
       name: "Candida &#9731;"
@@ -52,13 +57,15 @@
       role: "participant"
       bio: "Born in Michigan and now a naturalized Portlander, Virginia is a fun-loving adventure seeker with a liberal arts degree from Portland State, currently conquering a career change from admin support to tech/programming. She'll tell you all about it at karaoke night."
     -
-      name: "Amanda &#9731;"
+      name: "Amanda Houle"
       role: "participant"
+      image: "amanda_houle.jpg"      
       bio: " I remember Logo in middle school!  Oh what fun.  After one year as an engineering major in college, I decided that I wasn't super excited about the boys club (we were still teenagers) and left tech altogether.  Fast forward almost 20 years later (OMG!), after a successful yoga teaching 'career' covering Asia and Europe, I have a small daughter to role model for.  I think the US is a better place for both of us to blossom into the powerful women that we will become and back in tech is where I want to be.  Here's to hoping that those tech-related neurons in my brain will still fire!"
     -
-      name: "Barbara &#9731;"
+      name: "Barbara Miller"
       role: "participant"
-      bio: "Two truths and a lie: <ol><li>Last year as a volunteer I finished updating a non-profit's Drupal site.</li><li>This summer I've been paid to update some 2003 Visual Basic code.</li><li>I not only took this photo, I grew these wonderful daffodils.</li></ol>"
+      image: "barbara_miller.jpg"
+      bio: "Two truths and a lie: <ul><li>Last year as a volunteer I finished updating a non-profit's Drupal site.</li><li>This summer I've been paid to update some 2003 Visual Basic code.</li><li>I not only took this photo, I grew these wonderful daffodils.</li></ul>"
     -
       name: "David &#9731;"
       role: "participant"
@@ -66,6 +73,7 @@
     -
       name: "Zeus &#9731;"
       role: "participant"
+      image: "zeus_intuivo.jpg"
       bio: "Igniting coding with a smile and cup of coffee."
     -
       name: "Adam &#9731;"
@@ -76,5 +84,6 @@
       role: "participant"
       bio: "I have a hard time writing short bios. For starters, my favorite color is purple. I make most of my own clothes. I am in aurora chorus, second soprano."
     -
-      name: "Sofie &#9731;"
+      name: "Sofie Adler"
       role: "participant"
+      image: "SAdler.jpg"
