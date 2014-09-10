@@ -77,7 +77,8 @@
     -
       name: "Zeus &#9731;"
       role: "participant"
-      bio: " I see programming as a set place where puzzles are solved with words, a smile, and cup of coffee ."
+      image: "zeus_intuivo.jpg"
+      bio: "Igniting coding with a smile and cup of coffee."
     -
       name: "Adam Okoye"
       image: "adam_okoye.jpg"
