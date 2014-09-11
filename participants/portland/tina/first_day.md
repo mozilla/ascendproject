@@ -1,0 +1,25 @@
+# Ascend Project First Day
+
+We opened new macbook airs.
+We did a strength finder exercise.
+monday meeting
+
+
+
+Getting right into it, the first day of Ascend was a bit of a blur.
+After some introductions we all got roped into attending Mozilla's weekly Monday meeting.
+The meeting was super casual with a bunch of Mozilla offices from around the globe all streaming to each other.
+I really liked how they incorporated a wiki for the meeting minutes.
+
+After the meeting we each got to open a new macbook air.
+I'm not big on Apple as a company nor their products, but I also have no reason to lament a gift horse!
+It's a solid piece of hardware, as most Apple products are, but there are some UI quirks that I'm not a fan of.
+"Natural" scrolling comes to mind.
+On a positive note: I really enjoy the fullscreen features combined with quick desktop switching.
+I can see that being super helpful for workflow.
+
+Once we all opened our laptops and got them up and running, we were had to do a strength finder exercise.
+It consisted of 117 (da chief) questions of the "Strongly agree - Neutral" scale.
+After analysis it came up that I'm strong at: Harmony, Ideation, Restorative, Analytical, and Responsibility.
+There's a part of me upset by them using different parts of speech, but I digress.
+Hopefully my strengths will help me succeed at this program.
