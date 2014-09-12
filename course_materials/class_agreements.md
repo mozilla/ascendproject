@@ -20,7 +20,7 @@ Class Agreements
 * Be open to creative ways of communication - listening, sharing
 * Ask for help
 * No feigning surprise
-* No taking ovr keyboards - "supportive presence"
+* No taking over keyboards - "supportive presence"
 * Always push yourself!
 * We all learn differently
 * Avoid "it's easy", "it's hard"
