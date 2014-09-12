@@ -1,11 +1,5 @@
 # Ascend Project First Day
 
-We opened new macbook airs.
-We did a strength finder exercise.
-monday meeting
-
-
-
 Getting right into it, the first day of Ascend was a bit of a blur.
 After some introductions we all got roped into attending Mozilla's weekly Monday meeting.
 The meeting was super casual with a bunch of Mozilla offices from around the globe all streaming to each other.
