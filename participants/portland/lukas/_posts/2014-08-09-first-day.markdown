@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Test participant blog"
+date:   2014-09-12 14:23:14
+categories: lukas
+draft: true
+---
+
+### To make the participant blogs work:
+
+* Create a `_posts` directory in your individual participants directory.
+* Create an `index.html` file in your individual participants directory.
+* Paste [this code](https://gist.github.com/shawnacscott/87920adff230fa37a61f) in, with your first name as the category in the appropriate place.
+* Every time you make a blog post, name it `YEAR-MONTH-DAY-title.markdown`, and paste this at the top of your file, filling in the appropriate info:
+
+~~~
+---
+layout: post
+title:  "Title of Your Post"
+date:   YEAR-MONTH-DAY
+categories: your-participant-name
+---
+~~~
