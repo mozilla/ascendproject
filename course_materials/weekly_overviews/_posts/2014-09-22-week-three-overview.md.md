@@ -1,8 +1,8 @@
-Week 3:
-=======
-
-
-
+---
+layout: post
+title:  "Week Three Overview"
+date:   2014-09-22
+---
 
 Goals:
 ------

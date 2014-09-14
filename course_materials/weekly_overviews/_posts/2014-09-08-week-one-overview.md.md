@@ -1,6 +1,8 @@
-Week 1
-======
-
+---
+layout: post
+title:  "Week One Overview"
+date:   2014-09-08
+---
 
 Day 1
 ------
@@ -14,7 +16,7 @@ AM:
 * Strength Finder exercise
 ** Do the quiz, get results
 
-PM: 
+PM:
 
 * Exploration our strengths
 ** Sharing strengths with group
@@ -24,7 +26,7 @@ PM:
 Day 2
 ------
 
-AM: 
+AM:
 
 * Checkin
 * Mozilla history (possibly show video)
@@ -79,4 +81,3 @@ Days 4 & 5
 ** MozMill
 ** Developer Tools
 ** Gaming/Graphics
-

@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://ascendproject.org"
 homeurl: "/about/"
 github: "http://github.com/mozilla/ascendproject"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
 markdown: kramdown
