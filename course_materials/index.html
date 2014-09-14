@@ -1,0 +1,44 @@
+---
+layout: blogs
+title: "Course Materials"
+---
+<h1>Course Materials</h1>
+
+<h2><a href="./policies/index.html">General Policies</a></h2>
+<div>
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% for cat in post.categories %}
+        {% if cat == 'policies' %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
+
+<h2><a href="./daily_agendas/index.html">Daily Agendas</a></h2>
+<div>
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% for cat in post.categories %}
+        {% if cat == 'daily_agendas' %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
+
+<h2><a href="./weekly_overviews/index.html">Weekly Overviews</a></h2>
+<div>
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% for cat in post.categories %}
+        {% if cat == 'weekly_overviews' %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>

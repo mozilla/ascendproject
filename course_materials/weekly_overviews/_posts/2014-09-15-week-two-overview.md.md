@@ -1,6 +1,8 @@
-Week 2
-======
-
+---
+layout: post
+title:  "Week Two Overview"
+date:   2014-09-15
+---
 
 Goals:
 ------

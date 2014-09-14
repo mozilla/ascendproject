@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Day Three Agenda"
+date:   2014-09-10
+---
+
 Agenda
 
 9-9:30 am :  Breakfast & computer sign out
@@ -16,6 +22,6 @@ LUNCH
 * Moar terminal/command line
 ** Man pages
 ** flags
-** --help 
+** --help
 * Set up multiple Firefox (Nightly, Aurora, Beta, Release)
 * Checkout
