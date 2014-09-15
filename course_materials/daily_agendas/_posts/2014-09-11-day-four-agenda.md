@@ -25,3 +25,5 @@ LUNCH
 * first_day folder pull requests to ascend repo
 ** Markdown investigation for styling
 * Checkout
+
+Note: For git review did a couple of peer instruction questions.

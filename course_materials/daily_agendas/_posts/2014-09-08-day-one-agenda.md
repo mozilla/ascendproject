@@ -6,19 +6,24 @@ date:   2014-09-08
 
 Agenda
 
-9-9:30 am :  Breakfast & computer sign out
+9-9:30 am :  Breakfast
 
-* Checkin
-* return signed attendance policy
-* final exercise for Strength Finder
-* Group exercise - go learn about a Mozilla tool/project/site & report back
-* Group presentations
+Morning:
 
+* Checkin & Introductions
+* Attendance Policy
+* W9, transit passes, receipts collecting, etc
+* Tour the office
+* Unbox the laptops, nametags, created
 
-LUNCH
+LUNCH & Mozilla Community Meeting
 
-* Individual exercise - make a contribution to Mozilla in 10 minutes
-* Debrief
-* Let's learn some git
-* Commit your first patch to ascendproject repo
+Afternoon:
+
+* Strength Finder quiz
+* Exploring results
 * Checkout
+
+Notes:  We did get through all this, though we ended up moving the physical tour
+to the end of the day.  The attendance policy discussion was very useful and resulted
+in an adjusted policy that everyone could get behind and was more explicit.

@@ -25,3 +25,6 @@ LUNCH
 ** --help
 * Set up multiple Firefox (Nightly, Aurora, Beta, Release)
 * Checkout
+
+Note:  time crunch with learning shell and git meant we moved the man pages
+and setting up multiple Firefox instances to the next day (day 4)

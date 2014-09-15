@@ -9,19 +9,18 @@ Agenda
 9-9:30 am :  Breakfast & computer sign out
 
 * Checkin
-* Moar git:
-** config setup with github accounts
-** ssh keys (generate & setup in github)
-** push to own fork
-** file an issue on the production repo
-** create pull request with the fix
-** see merge & request closed
+* return signed attendance policy
+* final exercise for Strength Finder
+* Group exercise - go learn about a Mozilla tool/project/site & report back
+* Group presentations
+
 
 LUNCH
 
-* Moar terminal/command line
-** Man pages
-** flags
-** --help
-* Set up multiple Firefox (Nightly, Aurora, Beta, Release)
+* Individual exercise - make a contribution to Mozilla in 10 minutes
+* Debrief
+* Let's learn some git
+* Commit your first patch to ascendproject repo
 * Checkout
+
+Note: we actually moved all the git stuff to day three due to time constraints

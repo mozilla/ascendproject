@@ -40,3 +40,9 @@ in Ascend, use one of the tools:
 * pull requests for new blog posts
 * Checkout (4pm) - early (4pm) for social hour with PDX office
 * Weekly stipend dispersal
+
+
+Notes:  We didn't have nearly enough time to spend on blogging, and webmaker
+respectively.  Should have sorted this week out a little more to have tighter
+command line/git lessons and then not do any of that on this day.  Also the stipend
+dispersal took another 30-40 minutes after being "done" for the day.
