@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Week One"
+date:   2014-Sept-12
+categories: amanda
+---
 <- Ascend ~ Week One in Review ~ ->
 
 ~~Community Building~~
@@ -14,10 +19,10 @@ Appreciate this community building and our collective agreements.  Can you find 
 
 From day one to day five, anxiety transforms into excitement, confidence and it's infectious!
 
-## GIT * GitHub * Presentations * Command_Line * Army of Awesome * Badges * Firefox Nightly * Aurora * Bash * Presentations * Web Literacy * WebMaker * MoPad / Etherpad * subl * Fair Trade Chocolate * A Cadillac of an espresso machine * Did I mention, Presentations? 
+## GIT * GitHub * Presentations * Command_Line * Army of Awesome * Mozilla Badges * Firefox Nightly * Aurora * Bash * Presentations * Web Literacy * WebMaker * MoPad / Etherpad * subl * Blog Posts * Twitter * Fair Trade Chocolate * A Cadillac of an espresso machine * Did I mention, Presentations? 
 
 Links the the week's works(-in-progress):
 
 Appmaker - [How I Got Here](https://far-mine-545.webmak.es/install/)
 GitHub - [Ascend Project](https://github.com/mozilla/ascendproject) 
-Badge - Removing Obstacles Reward (link not yet working)
+Badge - [Removing Obstacles Reward](https://badges.mozilla.org/en-US/badges/claim/f4jvup)
