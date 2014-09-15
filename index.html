@@ -16,11 +16,14 @@ title: Ascend Project - Home
   </div>
   <ul class="posts">
     {% for post in site.posts %}
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <span>{{ post.date | date_to_string }}</span> &raquo;
-        
-        {{ post.content }}
-      
+      {% unless post.categories contains "course_materials" %}
+
+          <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <span>{{ post.date | date_to_string }}</span> &raquo;
+
+          {{ post.content }}
+
+      {% endunless %}
     {% endfor %}
   </ul>
 </div>
