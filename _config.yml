@@ -32,10 +32,3 @@ navigation:
 #	url: /apply/index.html
 #- title: Info For Participants
 #	url: /application/index.html
-
-# Test Blogs
-participants:
-- title: Lukas
-  url: /lukas/index.html
-- title: Kronda
-  url: /kronda/index.html
