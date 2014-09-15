@@ -1,12 +1,9 @@
-
 ---
 layout: post
 title:  "First Week Recap"
 date:   2014-09-15
 categories: david
 ---
-
-#First Week Recap
 
 Man did we have a week, a lot of git hub stuff has been thrown around and it's been confusing for many people. I've been glad I could get help.
 Personally it hasn't been to hard on me, I knew most of the github stuff that we've doing so i could actually help the others around me which has felt nice.
