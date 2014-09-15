@@ -1,5 +1,9 @@
-Extra Curricular
-================
+---
+layout: post
+title:  "Extra Curricular"
+date:   2014-09-08
+permalink: extra_curricular
+---
 
 * Family night meet n greet
 * Hack n Splode (for women only?)

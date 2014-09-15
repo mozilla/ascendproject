@@ -1,5 +1,9 @@
-Class Agreements
-================
+---
+layout: post
+title:  "Class Agreements"
+date:   2014-09-08
+permalink: class_agreements
+---
 
 ### General Agreements:
 
