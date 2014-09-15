@@ -20,8 +20,9 @@ LUNCH & Mozilla Community Meeting
 
 Afternoon:
 
+* debrief about monday meeting
+* about:about -- know more about your Firefox
 * Find a bug you can reproduce
 * https://oneanddone.mozilla.org/en-US/tasks/available/?keyword=aurora
 * How to comment in and/or file bugs
 * QA Test Days
-* about:about -- know more about your Firefox

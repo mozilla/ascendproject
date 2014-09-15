@@ -1,10 +1,15 @@
-#First Week Recap
+---
+layout: post
+title:  "First Week Recap"
+date:   2014-09-15
+categories: david
+---
 
 Man did we have a week, a lot of git hub stuff has been thrown around and it's been confusing for many people. I've been glad I could get help.
 Personally it hasn't been to hard on me, I knew most of the github stuff that we've doing so i could actually help the others around me which has felt nice.
 This last day we had a maker party where we would have to make a thing on https://Webmaker.org and well it didn't quite go to plan to be honest.
 
-This is what I first made as I paniced
+This is what I first made as I panicked
 
 https://leakymilkstraw.makes.org/thimble/MjA4NjIwNzc0NA==/spongebob
 
@@ -15,3 +20,5 @@ But after I thought about it I began to think about what I taught my self when i
 https://leakymilkstraw.makes.org/thimble/LTIwNzQ1NDE4MjQ=/the-basic-principles-of-graphic-design
 
 This is what I made before time was up.
+
+----
