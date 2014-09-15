@@ -19,7 +19,7 @@ Ascend is currently very much in Beta and needs a lot of help to get off the gro
 * Write an article or blog about Ascend if you are a blogger/journalist
 * Test out the curriculum pages (when ready) and submit bugs or patches with fixes
 * Design help with course materials (when ready)
-* Be a helper for July drop-in 'office hours' for potential participants who need access to computers & internet
+* Be a helper for July drop-in 'office hours' for potential participants who need access to computers & internet. Make sure to read the [class agreements](../class_agreements) beforehand.
 * Site improvements always considered
 
 ## In-Class Helpers

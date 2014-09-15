@@ -1,3 +1,5 @@
 _site
+.gitignore
 .DS_Store
 *.sublime*
+.idea/*

@@ -1,6 +1,8 @@
-Week 6:
-=======
-
+---
+layout: post
+title:  "Week Six Overview"
+date:   2014-10-13
+---
 
 Goals:
 ------

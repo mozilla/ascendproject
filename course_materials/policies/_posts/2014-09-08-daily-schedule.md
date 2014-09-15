@@ -1,5 +1,9 @@
-Daily Schedule
-==============
+---
+layout: post
+title:  "Daily Schedule"
+date:   2014-09-08
+permalink: daily_schedule
+---
 
 9am - 9:30am: Breakfast
 
@@ -30,5 +34,3 @@ Two kinds of badges:
 
 * Created by Ascend leader-mentors to mark a specific skill
 * Created by participants to mark breakthroughs, creating a path for others to follow you
-
-
