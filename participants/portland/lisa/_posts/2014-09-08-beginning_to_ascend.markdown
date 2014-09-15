@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Beginning to Ascend"
+date:   2014-09-08
+categories: lisa 
+---
+
+#Beginning to Ascend
+
+I didn't sleep well last night. I'm sure it was my nervous excitement about starting the Ascend Project this morning. I was up early, showered and ready to go. We were supposed to be there at 09:00 but I was early. As I was walking to the Mozilla offices from the Max I ran into Kronda, a co-leader of the project. I seem to run into her often and I think it's great. She's great. She has a way of saying really powerful things in a really concise manner. I definitely hear her and her words lift me up. I'm thrilled she agreed to help with our cohort!
+
+We made our way up to the office and since I was early I jumped in and helped get things set up. The rest of my new cohort began to show up and mingle, make breakfast, coffee, tea...who knows? Mozilla is wonderfully generous and is providing us with a bounty of food and drinks. If they don't have something we feel we need to get through our day, Lukas will do her best to provide it for us.
+
+Once we were all fed and seated, Lukas went over how the AP would generally flow. We would start out with a morning check-in so that everyone could just let the rest of the group know how they were doing that day. It's a really good way to keep the communication open and to know if someone is having an off day and needs space or whatnot. We all did our check-ins and everyone was pretty happy and excited to be there. Dino re-introduced himself and went over his role as our logistical liaison. We then went over the attendance policy and came up with some changes and clarifications that would make things clear and fair for everyone.
+
+Then it was time to open our new computers! We eagerly unboxed them and began getting them powered up and set up. It was fun to hear the Mac users helping out the non-Mac users. The first thing I did was use Safari to download Firefox. It has been my browser of choice for many years. I then installed iTerm2 and Adium for irc. I'll get tmux tomorrow and grab my vim.rc as well.
+
+The person that runs the Mozilla office, I am horrible with names and have forgotten hers already, took over for a bit and went over office etiquette and then let us know that each Monday Mozilla has their All Hands meeting with all employees from each Mozilla office (with the exception of the Asian offices because of the time difference) and that we would be attending and perhaps participating in these. We took a quick break and then came back for the meeting. It was so interesting to see the various Mozilla spaces and to listen to the different projects people are working on. Everyone was very relaxed and friendly. It seems like a nice place to work and I guess we will be getting a taste of what that will be like over the next six weeks.
+
+After the meeting we had lunch and then everyone took the Strength Finder 2.0 quiz. It was very interesting! My top five strengths are input, learner, intellection, adaptability and positivity. We did some group exercises that involved mingling and discussing our thoughts and feelings regarding our strengths. Everything was very positive and confidence building. I think this was a great thing for me for sure because I tend to look at my weaknesses so that I can improve them. Dino made a great point about how we can also think about our strengths and how to improve those.
+
+We all did our check-outs and it was pretty evident that we were all still very excited but very tired! It was a long day full of a lot of information. This post is long and I definitely missed some of the other things we did so yes, we covered a lot of ground. Last but not least we got a tour of the rest of the office space and then we were free to go.
+
+I walked with a student who is here for the AP all the way from New York. She has never been to Portland and doesn't know anyone. She was unsure about how to get to her bus stop so I decided to walk with her and catch the Max at a different spot. We chatted while we walked and it turns out she was having major trouble with the electronic transit pass she purchased. This wouldn't be a big deal except she bought a one month pass for $100 and her application claimed she had no valid ticket. Yikes! We walked to Pioneer Square to see if the Trimet office was open but they were closed when we got there. I sat with her and we tried several things to try and get her ticket to show up but nothing worked. Luckily she had her receipt she could show until she gets this sorted out, hopefully tomorrow. We spent about two hours trying to work it out so I got home after 18:00 even though we were finished up one hour early at 16:00. A looooooong but wonderful day!
+
+Today I learned about my top five strengths. Fascinating. It was like reading a horoscope but one that actually applied to me.
