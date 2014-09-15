@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ascend Project First Week"
+date:   2014-09-12
+categories: tina
+---
+
 # Ascend Project First Week
 
 This first week of ascend has been a whole lot of config management.
