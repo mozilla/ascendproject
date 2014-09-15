@@ -48,20 +48,6 @@
             </ul>
           </nav>
 
-          <nav class="nav-participants" role="navigation">
-            <ul>
-                {% for link in site.participants %}
-                {% if page.url == link.url %}
-                <li class="active">
-                {% else %}
-                <li>
-                {% endif %}
-                    <a href="{{link.url}}">{{link.title}}</a>
-                </li>
-              {% endfor %}
-            </ul>
-          </nav>
-
           <div class="sponsor">
             <p>The Ascend Project is generously funded by:</p>
             <a href="http://mozilla.org"><img src="{{ site.baseurl }}/images/mozilla_wordmark_small.png" /></a>
