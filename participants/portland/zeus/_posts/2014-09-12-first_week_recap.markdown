@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "First Week Recap at Ascend Project"
+date:   2014-09-12
+categories: zeus
+---
+
+
+
 This Was Week was very intense. !!!
 =========
 
