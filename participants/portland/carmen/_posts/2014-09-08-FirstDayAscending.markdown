@@ -1,7 +1,9 @@
+---
 layout: post
 title:  "First Day **Ascending** the Spiral Staircase"
 date:   2014-09-08
 categories: carmen
+---
 
 # First Day **Ascending** the Spiral Staircase
 ## September 8, 2014
