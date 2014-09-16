@@ -5,7 +5,6 @@ date:   2014-09-15
 categories: lisa
 ---
 
-#Our Second Week Begins
 
 Monday morning rolled around pretty early. I think mostly because I was nervous about riding my bike to class with Kronda. Andrew checked it out for me yesterday and it checked out fine. I got my backpack all ready to go and off we went. Kronda guided us through our fairly quiet neighborhood. We meandered past beach school and up over the Going Street Bridge, down through the other half of Overlook and on to Interstate. So far it was pretty easy. We were able to fly down Interstate and make the light which was nice then we headed for the Broadway Bridge. There was a bit of a long incline and my legs were not thrilled. I just kept pedaling though and made it! Once we got over the Bridge and onto Broadway the rest was a breeze. It was so much easier and nicer than I had imagined.
 
