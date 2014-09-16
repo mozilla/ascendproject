@@ -5,7 +5,6 @@ date:  2014-09-09
 categories: lisa 
 ---
 
-#Plugging Along
 
 Day two of the Ascend Project was great as well. I am not used to having to be somewhere from 09:00 to 17:00 and I really do not want to be late so I caught the early Max just in case. Lukas was the only one at the office besides some Mozilla employees. She was setting out bagels and cream cheese for our breakfast so I grabbed one and had some tea. The other students began to arrive and everyone got some breakfast before we all got our computers and got seated. We did our morning check-ins and got our daily agenda.
 
