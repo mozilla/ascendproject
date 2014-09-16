@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "First week"
+date:   2014-09-15
+categories: your-participant-name
+---
+
 My first week
 =====
 
