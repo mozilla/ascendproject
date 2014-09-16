@@ -5,4 +5,25 @@ date:   2014-Sept-19
 categories: amanda
 ---
 
-Bugzilla
+<- Ascend ~ Week Two in Review ~ ->
+
+Bugzilla * Moztrap * CrashMe Addon * 
+
+Notes:
+
+	Report a Bug:
+
+	bugzilla.mozilla.org
+
+Find service that you want to report the bug
+Type short summary of the issue
+“find similar issues”
+- scroll through issues
+  If you don’t see your issue listed - continue on:
+
+Fill in report and “submit”
+
+Cmd + Shift + 3  [screenshot - all]
+Cmd + Shift + 4 [screen shot with specific area]
+Cmd + Shift + 4 and then hit [spacebar]
+
