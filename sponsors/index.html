@@ -1,0 +1,20 @@
+---
+layout: default
+title: Sponsors of the Portland Ascend Project
+---
+
+<p>Thank you so much to all the people who've given time, supplies, access to software/tools/materials for learning. You've made a difference in the learning experience and the reach of new voices in open source technology.</p>
+
+			{% for sponsor in site.data.portland.sponsors %}
+			<div id="sponsor">
+				
+				
+				<div class="data">
+					<h1><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></h1>
+					<a href="{{ sponsor.url }}"><img src="/images/sponsor_logos/{{ sponsor.logo }}" /></a>
+					<p>{{ sponsor.text }}</p>
+
+				</div>
+				
+			<hr />
+		{% endfor %}
