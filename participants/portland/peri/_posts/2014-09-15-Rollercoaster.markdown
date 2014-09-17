@@ -12,7 +12,7 @@ So the next day we're putting the previous day's work into practice and I rememb
 
 All in all it was a good week of solid productive work and I feel like I really am beginning to get a grasp on this. I did a few pulls from the gh repo. I started my first blog, and I got to make an [awesome gif from my fav movie about 'puters'](https://yt.makes.org/popcorn/29xl). I'm glad the people here are so helpful, understanding, and generally awesome. Oh and they've been feeding us really well. I think I've put on my freshman 5 already.
 
- Goals for next week:
+###Goals for next week:
 1. Get a pull request merged without a hitch
 2. Hit the gym and go for a couple runs 
 3. Keep up with the class
