@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Week 2"
+title:  "Week 2 in Review"
 date:   2014-Sept-19
 categories: amanda
 ---
-
-<- Ascend ~ Week Two in Review ~ ->
 
 Bugzilla * Moztrap * CrashMe Addon * 
 
@@ -13,7 +11,18 @@ Notes:
 
 	Report a Bug:
 
+	![Alt text][/images/2004_security_bug.jpg] "picture of a bug"
+
 	bugzilla.mozilla.org
+
+Is it a bug?  Here are some questions to ask yourself:
+* Can I reproduce it?
+	- every time OR intermittently
+		- if intermittently, can you state about how often?
+* Open a Clean Profile (if you haven't set up profiles, go here first)  ## put a link in here
+* Open a Clean Profile in other versions of Firefox.
+	- for example, if you are reproducing this bug in Firefox Nightly, try and see if you find the same bug in a new Firefox Aurora profile.  (This is called "Regression") ##put a link in here
+After you have completed these tests, head on over to [Bugzilla@Mozilla](https://bugzilla.mozilla.org/).  You'll need to create an account in Bugzilla and later, can sign in using your Persona Account.
 
 Find service that you want to report the bug
 Type short summary of the issue
