@@ -3,10 +3,3 @@ _site
 .DS_Store
 *.sublime*
 .idea/*
-.chats/*
-mozilla/*
-mozillas/*
-kronda/*
-ascend/*
-gh-pages/*
-
