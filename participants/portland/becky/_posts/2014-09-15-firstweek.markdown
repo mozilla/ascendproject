@@ -1,7 +1,9 @@
+---
 layout: post
 title:  "First Week"
 date:   2014-09-15
 categories: becky
+---
 
 
 Sept 12, 2014
