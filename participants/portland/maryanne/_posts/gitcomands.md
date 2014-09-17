@@ -1,3 +1,11 @@
+
+---
+layout: post
+title:  "Git Comands"
+date:   2014-09-15
+categories: maryanne
+---
+
 #Git Computer Commands
 
 A list that I wrote for myself to remember the order of git commands to be executed in a terminal 
