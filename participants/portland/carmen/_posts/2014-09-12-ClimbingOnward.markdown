@@ -1,10 +1,10 @@
+---
 layout: post
 title:  "Climbing Onward"
 date:   2014-09-12
 categories: carmen
+---
 
-#One Week Up the Stairs: **Climbing Onward**
-##September 12, 2014
 
 The first week of Ascend has been a **flood** of information, and we're learning as we go, but there's a lot of catching up to do!
 
