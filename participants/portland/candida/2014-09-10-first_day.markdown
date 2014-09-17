@@ -1,10 +1,9 @@
+---
 layout: post
 title:  "Zero to Portland"
 date:   2014-09-10
 categories: candida
-
-##Zero to Portland
-#Grow
+---
 
 My first day of the Ascend Project reaffirmed that I was about to experience a life-changing opportunity. I would have the time and support to link the loose ends that had characterized three years of informal learning in technology. I expected to dive right into code. That is not what we did.
 
