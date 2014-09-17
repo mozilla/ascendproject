@@ -10,6 +10,6 @@ categories: peri
 <p>...And I got home to an email from Kronda about how I needed to change the file and repush. ARRRGHHH! I dreamt about terminal commands, and in my dream I figured out exactly what I needed to do so I thought, "No big deal. I'll go in and have it finished in 5 minutes." Wrong. Amyhoo...8 hrs later and with significant help of a few others, I finally got it! The plus side to that ordeal was it forced me to really learn the stuff we'd done up to this point, and then some. This was probably my most productive and learning intensive workday so far. In the end, I'm actually glad I had that problem because I work best when problem-solving.</p>
 <p>All in all it was a good week of solid productive work and I feel like I really am beginning to get a grasp on this. I did a few pulls from the gh repo. I started my first blog. [And I got to make an awesome gif, from my fav movie about 'puters.'](https://yt.makes.org/popcorn/29xl) I'm glad the people here are so helpful, understanding, and generally awesome. Oh and they've been feeding us really well. I think I've put on my freshmen 5 already.</p>
 <p> Goals for next week:
--get a pull request merged without a hitch
--hit the gym and go for a couple runs 
--keep up with the class
+1. Get a pull request merged without a hitch
+2. Hit the gym and go for a couple runs 
+3. Keep up with the class
