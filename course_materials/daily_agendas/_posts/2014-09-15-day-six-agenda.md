@@ -23,3 +23,6 @@ Afternoon:
 * Fold over teaching - those who moved ahead (to QA stuff) taught the others
 * David presented on filing first bug
 * small group broke off and went to a SUMO design meeting (reporting back tomorrow)
+
+Notes:  The first bug was filed on this day - once MozTrap was introduced it seems
+to help with understanding what a bug is.
