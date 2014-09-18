@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "week two: mozmill automated test results"
+date:   2014-09-19
+categories: barbara
+---
+
+http://mozmill-crowd.blargon7.com/db/2f982f72826307fed840a3b11c3b775e
+
+created with this command...
+
+testrun_functional --report=http://mozmill-crowd.blargon7.com/db/ /Applications/FirefoxAurora.app 
+
