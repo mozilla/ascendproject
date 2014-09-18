@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 2 in Review - How to Report a Bug"
+title:  "Tutorial: How to Report a Bug"
 date:   2014-Sept-19
 categories: amanda
 ---
@@ -53,15 +53,4 @@ concise, descriptive language as you are guiding someone else on how to follow w
 
 - Fill in the whitebox for "What happened?"  Again, be clear on explaining what the actual results you attained.
 
-- Fill in the next whitebox for "What should have happened?."  
-
-Other fun things we worked on this week:
-
-[Bugzilla](https://bugzilla.mozilla.org/) * [Moztrap](https://moztrap.mozilla.org/runtests/) * [CrashMe Addon](https://code.google.com/p/crashme/) * [about:about](about:about) * [Persona Account](https://www.mozilla.org/en-US/persona/) * [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) * 
-
-Links:
-
-I ran some automation today!  [What to see?](mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3b84a1)
-My first bug report:  [on Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1068376)
-
-
+- Fill in the next whitebox for "What should have happened?." 
