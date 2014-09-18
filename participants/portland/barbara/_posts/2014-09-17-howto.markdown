@@ -13,7 +13,7 @@ get started
 
 1. Go to https://moztrap.mozilla.org/
 
-2. Sign in with your Persona account (it's a small text link towards the right).
+2. Sign in with your Persona account (it’s a small text link towards the right).
 
 3. Click Run Tests.
 
