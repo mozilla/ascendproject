@@ -1,4 +1,10 @@
 ---
+  sponsors:
+    -
+      name: "O'Reilly Media"
+      url: "http://oreilly.com/"
+      logo: "ORM_logo_box1_hex.jpg"
+      text: "Thank you for donating books and discount codes to the Portland Ascend project"
   participants:
     -
       name: "Jessica Canepa"

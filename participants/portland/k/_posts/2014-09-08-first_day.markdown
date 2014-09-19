@@ -1,1 +1,8 @@
+---
+layout: post
+title:  "First day"
+date:   2014-09-08
+categories: k
+---
+
 Our first day was fun. We learned alot about ourselves and others. Meeting a lot of new faces. It was a very nice day.
