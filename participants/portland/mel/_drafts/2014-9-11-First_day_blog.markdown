@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "First Week Blog"
+date:   2014-09-08
+categories: Mel
+---
+
 # Header
 ## Header
 <Title>
