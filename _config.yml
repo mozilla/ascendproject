@@ -26,6 +26,8 @@ navigation:
   url: /volunteers/index.html
 - title: FAQ
   url: /faq/index.html
+- title: Sponsors
+  url: /sponsors/index.html
 
 # Links we don't need right now
 #- title: Apply

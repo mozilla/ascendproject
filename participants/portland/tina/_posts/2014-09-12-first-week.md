@@ -1,4 +1,9 @@
-# Ascend Project First Week
+---
+layout: post
+title:  "Ascend Project First Week"
+date:   2014-09-12
+categories: tina
+---
 
 This first week of ascend has been a whole lot of config management.
 To say: we've all spent a lot of time getting situated and setting up our potential development environments.
@@ -9,7 +14,7 @@ We've taken a sizable chunk of time making sure our space is as we want it, in a
 I think it's pretty cool that a program like this would take the time to make sure that each participant can feel comfortable and safe in the program's environment.
 
 So far the hardest part has been these creative endeavors.
-Namely this blog post, the previous blog post, and [this intro page](https://tinahina.makes.org/thimble/LTIxNDE2NTA2ODg=/a-little-about-me) I made using [webmaker.org](http://www.webmaker.org).
+Namely this blog post, the previous blog post, and [this intro page](https://tinahina.makes.org/thimble/LTIxNDE2NTA2ODg=/a-little-about-me) I remixed using [webmaker.org](http://www.webmaker.org).
 I struggle when instructions aren't clear or I have to choose a creative direction and stick with it. Sorry.
 
 Never-the-less, I'm still excited about the next 5 weeks of Ascend!
