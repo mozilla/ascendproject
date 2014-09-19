@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second_Week.md"
+title:  "Second Week"
 date:   2014-09-18
 categories: eva
 ---
