@@ -42,7 +42,7 @@ Next we switch to the hotfix-2.0 branch by typing these lines into our terminal:
 
 Now we should be able to run automated tests by entering this in the terminal:  
 
->testrun_functional --report=http://mozmill-crowd.blargon7.com/db/ /Applications/FirefoxNightly.app
+>testrun_functional /Applications/FirefoxNightly.app/ --report=http://mozmill-crowd.blargon7.com/db/
 
 **Note:**  Our pathway (/Applications/FirefoxNightly.app) is specific for Macs using %path_to_firefox% (on Mac to .app)
 
