@@ -10,9 +10,9 @@ Day two of the Ascend Project was great as well. I am not used to having to be s
 
 We did a couple more Strength Finder exercises before moving on to a tech related exercise. It seemed pretty straight forward. We were put into groups of 3-4 people and then each group was given a Mozilla open source area to research. We had a list of questions we needed to research the answers to so our group of 4 got busy researching SUMO, the Mozilla support community.
 
-[caption id="attachment_99" align="aligncenter" width="168"]<a href="http://lisa.hewus.com/wp-content/uploads/2014/09/SUMO_questions.jpeg"><img class="size-medium wp-image-99" src="http://lisa.hewus.com/wp-content/uploads/2014/09/SUMO_questions-168x300.jpeg" alt="Research questions" width="168" height="300" /></a> Research questions[/caption]
+<a href="http://lisa.hewus.com/wp-content/uploads/2014/09/SUMO_questions.jpeg"><img class="size-medium wp-image-99" src="http://lisa.hewus.com/wp-content/uploads/2014/09/SUMO_questions-168x300.jpeg" alt="Research questions" width="168" height="300" /></a> 
 
-We all got busy on our research and wrote up nice posters with our answers because we figured we would have to present our findings to the class. This was true but what we didn't know was that it was going to be a tad bit more formal. But first lunch! It was another spectacular food choice thanks to Kat, the amazing woman who keeps the office running so well.
+We all worked together on our research and wrote up nice posters with our answers because we figured we would have to present our findings to the class. This was true but what we didn't know was that it was going to be a tad bit more formal. But first lunch! It was another spectacular food choice thanks to Kat, the amazing woman who keeps the office running so well.
 
 We did have to present our findings to the class but we had to stand at the podium with microphones to present AND the Mozilla employees were invited to come watch and ask questions! Ack! We were the second team so had to go up fairly soon and NOBODY wanted to do the talking. We stumbled through it quite poorly and it was really painful to watch everyone struggle so I just did the best I could which was not that great. Oh well. I did get up there, I did talk and I didn't die so....success!
 

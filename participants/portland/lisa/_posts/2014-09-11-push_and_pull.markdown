@@ -18,7 +18,8 @@ We then had the pleasure of meeting Chris Beard the CEO of Mozilla and Dave Slat
 
 I was a straggler trying to finish getting my blog posts pushed and get pull requests submitted before I left. My Andrew showed up so that we could head over to the Portland Perl Mongers meeting that evening. We had about an hour to kill so we walked over to Voo Doo and got a couple of vegan doughnuts. Fried dough with sugar is the best! It was such a beautiful evening so we decided to walk over to Free Geek for the meeting. It's only a couple of miles away so off we went. It was nice to talk about our days even though it was mostly me talking about mine. I picked Andrew's brain about Git and vented about a couple of my frustrations in class.
 
-![Walking across the Hawthorne Bridge looking at the I-5 Marquam Bridge and the new Tillikum Crossing Bridge beyond.] (/images/FromHawthorneBridge.jpg)
+<img src="images/FromHawthorneBridge.jpg" alt="View from Hawthorne Bridge" class="inline"/>
+Walking across the Hawthorne Bridge looking at the I-5 Marquam Bridge and the new Tillikum Crossing Bridge beyond.
 
 The meeting was typical. Someone was giving a talk about random and it was super boring but Andrew seemed interested and I love going with him regardless. After the meeting we all walked over to Lucky Lab, grabbed some food and had some lively discussions about a crapload of subjects. It was getting late and we were bussing it home so we said our goodbyes and RAN to the bus several blocks away. Apparently my schedule was off a bit and we ended up waiting around for about 5-6 minutes but I got to catch my breath. It was a pretty good day for the most part.
 
