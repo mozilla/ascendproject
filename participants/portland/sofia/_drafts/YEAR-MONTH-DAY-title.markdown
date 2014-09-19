@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Title of Your Post"
+date:   YEAR-MONTH-DAY
+categories: your-participant-name
+---
