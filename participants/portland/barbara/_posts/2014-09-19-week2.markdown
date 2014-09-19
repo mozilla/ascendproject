@@ -1,13 +1,22 @@
 ---
 layout: post
-title:  "week two: mozmill automated test results"
+title:  "week two"
 date:   2014-09-19
 categories: barbara
 ---
 
-http://mozmill-crowd.blargon7.com/db/2f982f72826307fed840a3b11c3b775e
+This week we got a local fork of the web site running on our machines, and we’ve tested, and tested some more, after a challenging install or two.
 
-created with this command...
+I've written a quick tutorial on using MozTrap to do manual testing.
 
-testrun_functional --report=http://mozmill-crowd.blargon7.com/db/ /Applications/FirefoxAurora.app 
+[how to moztrap](participants/portland/barbara/2014/09/17/how-to-moztrap/)
 
+Thursday afternoon ended with automated mozmill Firefox testing, and flying Firefox windows! 
+
+My test results:
+
+[http://mozmill-crowd.blargon7.com/db/2f982f72826307fed840a3b11c3b775e](http://mozmill-crowd.blargon7.com/db/2f982f72826307fed840a3b11c3b775e)
+
+created using this test command...
+
+`testrun_functional --report=http://mozmill-crowd.blargon7.com/db/ /Applications/FirefoxAurora.app`
