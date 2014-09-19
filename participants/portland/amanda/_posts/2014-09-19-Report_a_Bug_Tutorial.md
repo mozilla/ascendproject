@@ -8,9 +8,9 @@ categories: amanda
 Having issues with your Firefox browswer?  Want to help with the next version of Firefox?  Want to learn something fun and new? 
 
 
-	Report a Bug:
+Report a Bug:
 
-	![Alt text][/images/2004_security_bug.jpg] "picture of a bug"
+<img src="img/2004_security_bug.jpg" alt="Pic of a bug" style="width:304px;height:228px">
 
 
 ### Test your bug
@@ -30,27 +30,33 @@ Is it a bug?  Here are some questions to ask yourself:
 After you have completed these tests, head on over to [Bugzilla@Mozilla](https://bugzilla.mozilla.org/).  You'll need to create an account in Bugzilla and later, can sign in using your [Persona Account](https://support.mozilla.org/en-US/kb/what-is-persona-and-how-does-it-work).
 
 * Click on "File a Bug"
-![screen shot of bugzilla main page][/images/screen_shot_bugzilla.jpg] "screen shot bugzilla main page"
+
+<img src="img/Screen_Shot_Bugzilla.png" alt="screen shot of bugzilla main page" style="width:608px;height:456px">
 
 * Scroll down the list and find the service that you want to report a bug on (ie if you were using Nightly, then click on "Firefox" which is first on the list)
-![screen shot of step 1 of 3][/images/screen_shot_bugzilla_1_of_3.jpg] "screen shot bugzilla 1 of 3"
+
+<img src="img/screen_shot_bugzilla_1_of_3.png" alt="screen shot of bugzilla main page" style="width:608px;height:456px">
+
 
 * Type short summary of the issue in the white box just before hitting "find similar issues.”  You'll want to see if someone else has already filed this bug.
-![screen shot of step 2 of 3][/images/screen_shot_bugzilla_2_of_3]
-- scroll through issues
-![screen shot of step 2 of 3][/images/screen_shot_bugzilla_2_of_3_a]
 
-* If you don’t see your issue listed - continue on by clicking on the button "My issue is not listed(see previous screen shot)."
+<img src="img/screen_shot_bugzilla_2_of_3.png" alt="screen shot of step 2 of 3" style="width:608px;height:456px">
 
-* Fill in report.
-![screen shot of step 2 of 3][/images/screen_shot_bugzilla_3_of_3]
-- Your summary will already be entered from the previous screen.
+* scroll through issues
 
-- Check to make sure the Product category is still correct.
+<img src="img/screen_shot_bugzilla_2_of_3_a.png" alt="screen shot of step 2 of 3 part a" style="width:608px;height:456px">
 
-- Fill in the whitebox for "What did you do."  Try to clearly state the steps that you took to reproduce the bug.  Use
+* If you don’t see your issue listed, continue on by clicking on the button "My issue is not listed (see the above/previous screen shot)."
+* Fill in report
+  * Your summary will already be entered from the previous screen.
+  * Check to make sure the Product category is still correct.
+  * Fill in the whitebox for "What did you do."  
+    * Try to clearly state the steps that you took to reproduce the bug.  Use
 concise, descriptive language as you are guiding someone else on how to follow what you did.
+  * Fill in the whitebox for "What happened?"  
+    * Again, be clear on explaining what the actual results you attained.
+  * Fill in the next whitebox for "What should have happened?."
 
-- Fill in the whitebox for "What happened?"  Again, be clear on explaining what the actual results you attained.
+<img src="img/screen_shot_bugzilla_3_of_3.png" alt="screen shot of bugzilla filling out a report" style="width:608px;height:456px">
 
-- Fill in the next whitebox for "What should have happened?." 
+... this blog post links, etc to be tested and continued....
