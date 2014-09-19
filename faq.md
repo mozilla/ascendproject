@@ -133,7 +133,7 @@ Is this program college/university accredited?
 
 	No
 
-What accreditation so students receive?
+What accreditation do students receive?
 
 	None
 
