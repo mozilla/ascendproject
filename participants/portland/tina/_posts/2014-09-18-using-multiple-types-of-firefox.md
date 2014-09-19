@@ -59,4 +59,6 @@ Now you want to select the appropriate profile for the version of Firefox you're
 
 ### Conclusion
 
-And that's it! You can now open all 4 versions of Firefox at the same time!
+And that's it!
+You can now open all 4 versions of Firefox at the same time!
+Feel free to claim your badge [here](https://badges.mozilla.org/en-US/badges/claim/wnraer)!
