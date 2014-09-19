@@ -5,14 +5,6 @@ date:   2014-09-18
 categories: tina
 ---
 
-<!--
-1) profile manager
-2) download all firefoxes
-3) install all firefoxes
-4) run firefoxes with profiles
--->
-
-
 ## By Tina
 
 ###Overview
