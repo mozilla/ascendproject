@@ -48,3 +48,6 @@ You can browse themes on the Atom [website](https://atom.io/themes), as well as 
 and your Atom will load your theme.
 
 ![themes menu](https://ascendproject.org/participants/portland/david/images/themes2)
+
+
+If you completed these steps then you've earned yourself this [badge!](https://badges.mozilla.org/en-US/badges/claim/7kv3nw)
