@@ -59,4 +59,11 @@ concise, descriptive language as you are guiding someone else on how to follow w
 
 <img src="img/screen_shot_bugzilla_3_of_3.png" alt="screen shot of bugzilla filling out a report" style="width:608px;height:456px">
 
-... this blog post links, etc to be tested and continued....
+### Claim Your Badge!
+
+Congratulations, you have filed your first bug report!  Claim a badge from [Open Badges](http://badges.mozilla.org) with this code:  __mnnypu__
+or by following this link to [help clean with a bug report badge](https://badges.mozilla.org/en-US/badges/claim/mnnypu)
+
+
+<br>
+... this blog post and it's links, etc to be tested and continued....
