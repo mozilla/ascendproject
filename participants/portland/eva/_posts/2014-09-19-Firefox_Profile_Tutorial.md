@@ -40,7 +40,7 @@ You will see two additional check box options on this screen: <http://note.io/1w
 
 If you do select this option and want to access another profile, you will need to reopen the Profile Manager, following the above instructions. 
 
-
+Completed this tutorial? Then claim your badge [here](https://badges.mozilla.org/en-US/badges/badge/Taking-off-with-Firefox-Profiles/claims/1411407084.53-4389 "badge")
 
 
 [You can read more about Firefox profiles](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles/ "here") 
