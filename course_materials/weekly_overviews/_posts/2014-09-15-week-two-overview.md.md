@@ -32,4 +32,4 @@ Goals:
 * Week 2 blog posts (Thurs)
 ** Comment on each other's blog posts (Fri)
 
-* Building Firefox (if time permits)
+* Looking at a possible 'good-first-bug' together

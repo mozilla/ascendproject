@@ -1,4 +1,10 @@
-#Third Day's a Charm
+---
+layout: post
+title:  "Third Day's a Charm"
+date:  2014-09-10 
+categories: lisa 
+---
+
 
 My first days at the Ascend Project have been great and today was no exception. I arrived early as usual and grabbed an almond yogurt and some carrots for breakfast. Once everyone was there and had eaten we got right to check-ins. It seems everyone is doing well and we were all excited to learn more. 
 
