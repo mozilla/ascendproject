@@ -5,16 +5,8 @@ date:   2014-09-24
 categories: tina
 ---
 
-1015647
-941477
-875773
-992386
-1072371
-1068354
-
-
 So we're looking at bugs listed on [bugzilla](bugzilla.mozilla.org) as "good first bugs."
-I've found a few that I think seem interesting.
+I've found a few that I think seem interesting to work on.
 
 * [1015647](https://bugzilla.mozilla.org/show_bug.cgi?id=1015647) -
 This bug involves making some console output text copyable.
@@ -27,7 +19,7 @@ I would start by reading up on mozmill test documentation and then jump right in
 
 * [875773](https://bugzilla.mozilla.org/show_bug.cgi?id=875773) -
 Right now when a test to check if an addon is compatible with firefox will only return true or false.
-To fix it that return should be true or an error with some discription of why there is an error.
+To fix it that return should be true or an error with some description of why there is an error.
 So I'd have to read up on the different ways that an addon could fail compatibility tests.
 
 * [992386](https://bugzilla.mozilla.org/show_bug.cgi?id=992386) -
