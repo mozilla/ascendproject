@@ -1,0 +1,103 @@
+diff --git a/browser/base/content/tabbrowser.xml b/browser/base/content/tabbrowser.xml
+index b7f829c..1be89c4 100644
+--- a/browser/base/content/tabbrowser.xml
++++ b/browser/base/content/tabbrowser.xml
+@@ -1593,6 +1593,13 @@
+ 
+             this.tabContainer.appendChild(t);
+ 
++            // Start of move tab patch
++            // Get the index of the current tab
++            var newIndex;
++            oldIndex = this.mTabContainer.selectedIndex;
++            // The old index will be the one to the left
++            newIndex = oldIndex - 1;
++
+             // If this new tab is owned by another, assert that relationship
+             if (aOwner)
+               t.owner = aOwner;
+@@ -1705,6 +1712,9 @@
+             evt.initEvent("TabOpen", true, false);
+             t.dispatchEvent(evt);
+ 
++            // Making the move of the tab at the end of method
++            this.moveTabTo(t, newIndex);
++
+             // If we didn't swap docShells with a preloaded browser
+             // then let's just continue loading the page normally.
+             if (!docShellsSwapped && !uriIsAboutBlank) {
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..599efe8 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -42,14 +42,14 @@ can reach it easily. -->
+ <!ENTITY  unpinTab.accesskey                 "b">
+ <!ENTITY  moveToGroup.label                  "Move to Group">
+ <!ENTITY  moveToGroup.accesskey              "M">
+-<!ENTITY  moveToNewGroup.label               "New Group">
++<!ENTITY  moveToNewGroup.label               "Neu Group">
+ <!ENTITY  moveToNewWindow.label              "Move to New Window">
+ <!ENTITY  moveToNewWindow.accesskey          "W">
+ <!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
+ <!ENTITY  bookmarkAllTabs.accesskey          "T">
+ <!ENTITY  undoCloseTab.label                 "Undo Close Tab">
+ <!ENTITY  undoCloseTab.accesskey             "U">
+-<!ENTITY  closeTab.label                     "Close Tab">
++<!ENTITY  closeTab.label                     "Schlossen Tab">
+ <!ENTITY  closeTab.accesskey                 "c">
+ 
+ <!ENTITY  listAllTabs.label      "List all tabs">
+@@ -112,20 +112,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; enabled">
+ <!ENTITY syncStartPanel2.subTitle "&brandShortName; will begin syncing momentarily.">
+ <!ENTITY syncErrorPanel.heading "Cannot connect to &syncBrand.shortName.label;">
+-<!ENTITY syncErrorPanel.subTitle "Please sign in to resume syncing.">
++<!ENTITY syncErrorPanel.subTitle "Bitte sign in to resume syncing.">
+ <!ENTITY syncErrorPanel.signInButton.label "Sign In">
+ <!ENTITY syncErrorPanel.signInButton.accesskey "S">
+ 
+ 
+-<!ENTITY fullScreenMinimize.tooltip "Minimize">
++<!ENTITY fullScreenMinimize.tooltip "Make Tiny">
+ <!ENTITY fullScreenRestore.tooltip "Restore">
+-<!ENTITY fullScreenClose.tooltip "Close">
++<!ENTITY fullScreenClose.tooltip "Schlossen">
+ <!ENTITY fullScreenAutohide.label "Hide Toolbars">
+ <!ENTITY fullScreenAutohide.accesskey "H">
+ <!ENTITY fullScreenExit.label "Exit Full Screen Mode">
+ <!ENTITY fullScreenExit.accesskey "F">
+ <!ENTITY fullscreenAllowButton.label "Allow">
+-<!ENTITY fullscreenExitButton.label "Deny">
++<!ENTITY fullscreenExitButton.label "No.">
+ 
+ <!ENTITY fullscreenExitHint2.value "Press ESC at any time to exit.">
+ <!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+@@ -159,23 +159,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+ <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+ 
+-<!ENTITY backCmd.label                "Back">
+-<!ENTITY backButton.tooltip           "Go back one page">
++<!ENTITY backCmd.label                "Zuruck">
++<!ENTITY backButton.tooltip           "Go back ein page">
+ <!ENTITY forwardCmd.label             "Forward">
+ <!ENTITY forwardButton.tooltip        "Go forward one page">
+ <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+ <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+ <!ENTITY reloadCmd.label              "Reload">
+-<!ENTITY reloadButton.tooltip         "Reload current page">
++<!ENTITY reloadButton.tooltip         "Reload current Seite">
+ <!ENTITY stopCmd.label                "Stop">
+ <!ENTITY stopCmd.macCommandKey        ".">
+ <!ENTITY stopButton.tooltip           "Stop loading this page">
+ <!ENTITY goEndCap.tooltip             "Go to the address in the Location Bar">
+-<!ENTITY printButton.label            "Print">
++<!ENTITY printButton.label            "Drucken">
+ <!ENTITY printButton.tooltip          "Print this page">
+ 
+ <!ENTITY locationItem.title           "Location">
+-<!ENTITY searchItem.title             "Search">
++<!ENTITY searchItem.title             "Suchen">
+ 
+ <!-- Toolbar items --> 
+ <!ENTITY homeButton.label             "Home">
