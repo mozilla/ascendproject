@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Week One"
+date:   2014-Sept-12
+categories: amanda
+---
+<- Ascend ~ Week One in Review ~ ->
+
+~~Community Building~~
+
+* Meet and build the Team.
+* Find your individual strengths.
+* Examine and discuss your strengths.
+* Discuss some more and redefine those strengths and OWN them!
+* Commit one of those babies to the group.
+* Embrace each other.
+
+Appreciate this community building and our collective agreements.  Can you find this is a typical tech company/environment?  One could not only hope...and build.
+
+From day one to day five, anxiety transforms into excitement, confidence and it's infectious!
+
+## GIT * GitHub * Presentations * Command_Line * Army of Awesome * Mozilla Badges * Firefox Nightly * Aurora * Bash * Presentations * Web Literacy * WebMaker * MoPad / Etherpad * subl * Blog Posts * Twitter * Fair Trade Chocolate * A Cadillac of an espresso machine * Did I mention, Presentations? 
+
+Links the the week's works(-in-progress):
+
+Appmaker - [How I Got Here](https://far-mine-545.webmak.es/install/)
+GitHub - [Ascend Project](https://github.com/mozilla/ascendproject) 
+Badge - [Removing Obstacles Reward](https://badges.mozilla.org/en-US/badges/claim/f4jvup)

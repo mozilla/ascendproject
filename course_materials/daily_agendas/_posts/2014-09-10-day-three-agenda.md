@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day Three Agenda"
+title:  "Week 1 - Day Three Agenda"
 date:   2014-09-10
 ---
 
