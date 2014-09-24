@@ -5,9 +5,6 @@ date:   2014-09-08
 categories: carmen
 ---
 
-# First Day **Ascending** the Spiral Staircase
-## September 8, 2014
-
 People have often told me that computers were not for me.  I was not "that kind of person" and programming was "too intense" for me to understand.  Last week, I made a change in my life by believing that I could **learn** more, **do** more, **be** more, and **change** more.
 
 **I joined the Ascend Project.**
