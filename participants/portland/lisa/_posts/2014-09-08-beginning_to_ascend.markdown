@@ -1,4 +1,10 @@
-#Beginning to Ascend
+---
+layout: post
+title:  "Beginning to Ascend"
+date:   2014-09-08
+categories: lisa 
+---
+
 
 I didn't sleep well last night. I'm sure it was my nervous excitement about starting the Ascend Project this morning. I was up early, showered and ready to go. We were supposed to be there at 09:00 but I was early. As I was walking to the Mozilla offices from the Max I ran into Kronda, a co-leader of the project. I seem to run into her often and I think it's great. She's great. She has a way of saying really powerful things in a really concise manner. I definitely hear her and her words lift me up. I'm thrilled she agreed to help with our cohort!
 

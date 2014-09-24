@@ -8,12 +8,14 @@ title: Bio Page for Portland Ascend Participants
 
 			{% for participant in site.data.portland.participants %}
 			<div id="userBio">
-				
-				
+
+
 				<div class="data">
-					<h1>{{ participant.name }}</h1>
+					<h1>
+						<a href="{{ participant.blog_dir }}">{{ participant.name }}</a>
+					</h1>
 					<h3>{{ participant.homebase }}</h3>
-					
+
 					{% if participant.webpage %}
 					<h4><a href="{{ participant.webpage }}">{{ participant.webpage }}</a></h4>
 					{% endif %}
@@ -25,7 +27,7 @@ title: Bio Page for Portland Ascend Participants
 					</div>
 					{% endif %}
 				</div>
-				
+
 			<div class="pic" style="display:inline">
 				{% if participant.image %}
 					<img src="/images/portland_participants/{{ participant.image }}" width="400" />
@@ -33,7 +35,7 @@ title: Bio Page for Portland Ascend Participants
 				  <img src="/images/ascend_one_color_image_placeholder.png" width="150" />
 				 {% endif %}
 			</div>
-			
+
 			<div class="bio">
 			{% if participant.bio %}
 				{{ participant.bio }}
@@ -46,7 +48,7 @@ title: Bio Page for Portland Ascend Participants
 				<div class="head"><h3>Badges(0)</h3></div>
 				<div class="boxy">
 					<p>Keep working to unlock badges!</p>
-					
+
 					{% for badge in particpant.badges %}
 					<div class="badgeCount">
 						<a href="#"><img src="img/badge.png" /></a>
