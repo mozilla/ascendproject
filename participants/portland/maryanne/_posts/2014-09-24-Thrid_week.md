@@ -8,7 +8,7 @@ categories: maryanne
 
 #Third Week Middle of Light
 
-#*Bug That I like
+#*Bug That I like 1026796
 [Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1026796)
 
 	I picked this bug because it had a recent date of 2014 not 2008. The bug is listed as a good first bug. I have used SDK's and I like one's that work correctly. 
