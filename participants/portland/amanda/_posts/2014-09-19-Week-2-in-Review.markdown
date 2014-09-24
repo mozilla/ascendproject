@@ -15,13 +15,19 @@ I have to also speak a little about the space.  We have a great community space 
 
 Speaking of weight gain, perhaps all of the great food is counter balanced a bit by the following: 
 
-_I have officially joined the 6.1%_ (of Portlanders who bike to work!  Mozillians, make sure you sign in and log your miles here:  BTA's [Bike Commute Challenge](http://bikecommutechallenge.com/)  
+<strong>I have officially joined the 6.1%</strong>(of Portlanders who bike to work!  Mozillians, make sure you sign in and log your miles here:  BTA's [Bike Commute Challenge](http://bikecommutechallenge.com/)  
 
-Workwise, we've covered a lot this week.  I like to give a little taste of it in the lists below.  The rest of the time relegated to writing, I will be working on a tutorial for filing your first bug in Firefox.  Join in!
+Workwise, we've covered a lot this week.  I like to give a little taste of it in the lists below.  The rest of the time relegated to writing, I will be working on a tutorial for filing your first bug in Firefox.  This weekend, I look forward to setting up my new 1Password account - thank you @EvaCatHerder and [AgileBits](https://agilebits.com/).  
 
-![Heroes Wanted picture of fox](img/mobileHeroes2.jpg "Mobile Heroes")
+![pic of firefox fox](img/mobileHeroes2.jpg "pic of mobile heroes")
 
-Some topics covered this week: [Bugzilla](https://bugzilla.mozilla.org/) * [Moztrap](https://moztrap.mozilla.org/runtests/) * [CrashMe Addon](https://code.google.com/p/crashme/) * [about:about](about:about) * [Persona Account](https://www.mozilla.org/en-US/persona/) * [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) * jekyll server * omg Whimsical!!! * [Mozmill](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Mozmill) and Automated Testing *
+ <img src="img/mobileHeroes2.jpg" alt="pic of mobile heroes" class="inline"/> 
+
+ <img src="img/mobileHeroes2.jpg" alt="View from Hawthorne Bridge" class="inline"/>
+
+Join in!
+
+[Bugzilla](https://bugzilla.mozilla.org/) * [Moztrap](https://moztrap.mozilla.org/runtests/) * [CrashMe Addon](https://code.google.com/p/crashme/) * [about:about](about:about) * [Persona Account](https://www.mozilla.org/en-US/persona/) * [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) * jekyll server * 
 
 This week's links:
 
