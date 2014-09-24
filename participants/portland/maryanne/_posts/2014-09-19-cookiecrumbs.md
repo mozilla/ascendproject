@@ -23,12 +23,12 @@ categories: maryanne
 
 
 
-![#1]images/Screen Shot 2014-09-18 at 11.08.42 AM.png
-	![#1]images/Screen Shot 2014-09-18 at 11.10.22 AM.png
-	 ![#2]  images/Screen Shot 2014-09-18 at 11.11.22 AM.png
-	   ![#3]images/Screen Shot 2014-09-18 at 11.11.40 AM.png
-	  ![#4] images/Screen Shot 2014-09-18 at 11.12.35 AM.png
-	  ![#5] images/Screen Shot 2014-09-18 at 11.28.52 AM.png
+![alt text](images/Screen Shot 2014-09-18 at 11.08.42 AM.png)
+	![alt text](images/Screen Shot 2014-09-18 at 11.10.22 AM.png)
+	 ![alt text](images/Screen Shot 2014-09-18 at 11.11.22 AM.png)
+![alt text](images/Screen Shot 2014-09-18 at 11.11.40 AM.png)
+![alt text](images/Screen Shot 2014-09-18 at 11.12.35 AM.png)
+![alt text](images/Screen Shot 2014-09-18 at 11.28.52 AM.png)
 
 ![cake]participants/portland/maryanne/images/cake.png
 [cake badge]

@@ -4,13 +4,14 @@ title:  "Friday recap"
 date:   2014-09-19
 categories: maryanne
 ---
-#Friday September 19,2014
+#Friday September 19, 2014
+
 ##test test
 
 A week that tested my patience at times. *Arrrrggg*
 I would rather write blog posts in WordPress. Spell check is under view spell check. I crashed bugzilla. I dream in markdown.
 
-I just learned why my post aren't showing up. I need to rename all my files to 2014-09-19-titleof_post.md 
+I just learned why my post are not showing up. I need to rename all my files to 2014-09-19-title_of_post.md 
 
 ###I like atomated testing best.
 	These are the tests that I ran.
