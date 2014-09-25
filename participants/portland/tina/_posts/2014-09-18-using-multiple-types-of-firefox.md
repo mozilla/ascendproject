@@ -1,11 +1,10 @@
 ---
 layout: post
+author: Tina
 title:  "Using Multiple Types of Firefox"
 date:   2014-09-18
 categories: tina
 ---
-
-## By Tina
 
 ###Overview
 
