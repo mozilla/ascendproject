@@ -3,6 +3,7 @@ layout: post
 title:  "Second Week of Ascend"
 date:   2014-09-19
 categories: jessica
+author: Jessica Canepa
 --- 
 ###Testing, testing and more testing. 
 

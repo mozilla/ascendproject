@@ -3,6 +3,7 @@ layout: post
 title:  "MozMill Automated Tests Tutorial" 
 date:   2014-09-19
 categories: jessica
+author: Jessica Canepa
 --- 
 ##How to run automated tests using MozMill on a Mac
 

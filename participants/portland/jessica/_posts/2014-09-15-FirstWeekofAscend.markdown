@@ -3,6 +3,7 @@ layout: post
 title:  "First Week of Ascend"
 date:   2014-09-15
 categories: jessica
+author: Jessica Canepa
 --- 
 ###A whirlwind of account set up, supportive learning agreements and command-line tools
 
