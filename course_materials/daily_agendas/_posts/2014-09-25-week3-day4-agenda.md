@@ -4,12 +4,12 @@ title:  "Week 3 - Day Four Agenda"
 date:   2014-09-25
 ---
 
-
 Agenda
 
 9-10:30 am :  Breakfast
 
 * Checkin & Announcements
+* Patch your Bash! (see yaks etherpad)
 * Blog posts - check planet.mozilla.org find blog posts you enjoy (or find useful/informative) reading, share on Twitter (tag #ascendproject)
 * During the morning will go around and copy the VM to people's computers
 
