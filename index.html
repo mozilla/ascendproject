@@ -19,7 +19,7 @@ title: Ascend Project - Home
       {% unless post.categories contains "course_materials" %}
 
           <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-          <h2>By <a href="">{{ post.author }}</a></h2>
+          <h2>By <a href="{{ post.categories[0] }}/{{ post.categories[1] }}/{{ post.categories[2] }}">{{ post.author }}</a></h2>
           <span>{{ post.date | date_to_string }}</span> &raquo;
 
           {{ post.content }}
