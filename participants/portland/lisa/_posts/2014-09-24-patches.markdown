@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Patches"
+date:  2014-09-24
+categories: lisa
+---
+
+I was soooooo tired this morning but I got up and took a shower. That helped a lot and I was also very excited and nervous about my upcoming coaching meeting. It also helped that it was raining and there were no Max issues this morning so I made it to class early, just the way I like it.
+
+We did our check-ins and then went back to working on Wordpress for those who were still struggling. I was done with that so I started looking through bugs and checking the clock. I knew I wouldn't miss my coaching meeting but I was really anticipating it.
+
+Once people got done with Wordpress stuff and I believe building Firefox, Lukas started talking about bugs and how we could best search for them. She talked about what things we might consider when choosing a bug and then let us know that she wanted us picking a bug that was out of our comfort zone, one that we knew nothing about. I love this and it scares the shit out of me at the same time.
+
+I picked <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=589320" target="_blank">bug 589320</a> because it sounds interesting. It's some code that is no longer needed and needs to be audited and then removed if not needed. If I were to take on this bug I would first figure out where the code to be audited lives and read it over to see if I can understand it. I would also research the general functionality of printf() which is the code to be removed.
+
+I picked <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=671705" target="_blank">bug 671705</a> because it references regular expressions and I definitely want to learn more about those. They are kind of intimidating so tackling a bug like this might help me make friends with them. I'd also begin researching where this code lives and try to figure out what it does. I would reach out to the mentor as well since this bug has one assigned.
+
+I am interested in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=797711" target="_blank">bug 797711</a> because it seems as though I might be able to write the JavaScript this needs. Again I would have to look through the testing code.
+
+It was coaching time for me and lunchtime for everyone else. Katt, wonderful person that she is, didn't want me to miss out on lunch and brought me a plate of food. I'm going to miss her when this project is over! Bridge. Cross. Later.
+
+Anyway, my coaching experience isn't something I will be writing about but I will say this: I am thrilled with the coach that I have been matched with and I very much look forward to our meetings.
+
+Lunch/meeting was over and it was time to get back to the classroom. Barbara, had been working on a bug since late last week and had submitted a patch for it earlier this morning! She was nice enough to present to us her process. There were several questions asked and a bit of confusion about how the patch file was generated so that was discussed for a bit.
+
+Everyone must have built Firefox at some point because we were about to play with it. Lukas showed us an old blog post she wrote when she was first learning to program.  I'm not sure if it was her intent but it was great, for me at least, to catch a glimpse of where she was and where she is now. I think, as a beginner, I tend to forget that we all have to start at the beginning, even our kick-ass instructors. Her post was about how she had messed with the code in a local build of Firefox and then could see the results when she ran her modified version. She showed us the <a href="http://mxr.mozilla.org/" target="_blank">Mozilla Cross-reference</a> site which really simplifies searching the source code. She then showed us how to do these same things. First we messed with where new tabs are opened. We inserted some code in <span class="author-p-16583">tabbrowser.xml</span> that changed them from opening right of existing tabs to opening left. Then we ran our build to see the change we made. Nifty! Next we played with <span class="author-p-16583">browser.dtd</span> and changed one or some of the tooltip strings. We ran our build again and saw those changes as well. Finally we had to generate a patch file and push it up to github. I think this final step helped those who were still a bit confused about how that worked. I was unsure about generating my patch file because I had cloned a <a href="http://hg.mozilla.org/" target="_blank">Mercurial repo</a>. Lukas quickly told me how to do it though.
+
+I was feeling kind of blah after class so Wayne picked me up. I wanted to take a nap but Jayde needed some math help so I did that instead. She had to figure out the area of several random shapes using the formula for the area of a triangle. She thought this was the dumbest thing ever. I suppose I thought so as well at her age but math will always be there just waiting for her to see how beautiful and amazing it is. I didn't truly discover this until I studied calculus. It completely blew my mind to learn that the first derivative of position (with respect to time) is velocity, the second derivative is acceleration and the third is jerk. What?? Stupid, boring math can tell us stuff like THAT? Yes, yes you should go math now.
+
+Today I learned that generating patch files with Git is pretty much the same as Mercurial.
