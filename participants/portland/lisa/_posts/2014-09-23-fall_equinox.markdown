@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fall Equinox"
+author: Lisa Hewus Fresh
 date:  2014-09-23
 categories: lisa
 ---
