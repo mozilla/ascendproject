@@ -4,12 +4,21 @@ title:  "Week Four Overview"
 date:   2014-09-29
 ---
 
-* Meeting up with mentors
+Goals:
+-------
+
+* Finding mentors
 * Showing up
-* Strategies when dealing with a 'hard' place
-* Taking breaks
-* Small contributions
-** What could you do as 2 more contributions to Open Source (mozilla) in the next 6 months?
-* Creating & applying patches
-* Bugzilla -- ALL THE THINGS
-*
+* Strategies when dealing with hitting a 'hard' place
+* Creating, testing, applying patches
+
+* Overall contribution arc
+** How can you stay engaged with a project?
+** Are there several areas you can participate or do you like to hone in on one?
+** What could you do to contribute to Mozilla over the next 6 months?
+
+* Start having personal project time for working on the individual bug/project
+
+* OPW applications time
+
+* Speakers needed
