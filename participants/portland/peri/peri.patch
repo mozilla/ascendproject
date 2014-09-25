@@ -1,0 +1,15 @@
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..9661b1e 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+ 
+ <!ENTITY backCmd.label                "Back">
+-<!ENTITY backButton.tooltip           "Go back one page">
++<!ENTITY backButton.tooltip           "Go back 18 pages">
+ <!ENTITY forwardCmd.label             "Forward">
+ <!ENTITY forwardButton.tooltip        "Go forward one page">
+ <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+@@ -762,8 +762,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
+
