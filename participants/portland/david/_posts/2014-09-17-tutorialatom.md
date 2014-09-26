@@ -3,9 +3,7 @@ layout: post
 title:  "Guide to Customizing Atom"
 date:   2014-09-17
 categories: david
----
-####by David H
-
+author: David
 ---
 
 ##What is Atom?
