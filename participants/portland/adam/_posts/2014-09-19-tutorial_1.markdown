@@ -2,6 +2,7 @@
 layout: post
 title:  "Tutorial: How to install the Crash Me Firefox extension"
 date:   2014-09-19
+author: Adam
 categories: adam
 ---
 

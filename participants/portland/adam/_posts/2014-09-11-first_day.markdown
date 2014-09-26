@@ -2,6 +2,7 @@
 layout: post
 title:  "First day at Mozilla's Ascend Project"
 date:   2014-09-11
+author: Adam
 categories: adam
 ---
 
