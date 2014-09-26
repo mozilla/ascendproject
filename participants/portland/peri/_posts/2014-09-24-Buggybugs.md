@@ -3,6 +3,7 @@ layout: post
 title:  "Buggy Bugs"
 date:   2014-09-24
 categories: peri
+author: peri ahmadi
 ---
 Here comes the really scary stuff. This week we have to commence work on our final project for Ascend which is to submit a patch to an existing bug. We were given a set of criteria to search by, but ultimately can choose whichever bug we like, providing it's doable. 
 

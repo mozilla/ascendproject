@@ -3,6 +3,7 @@ layout: post
 title:  "Exterminate"
 date:   2014-09-17
 categories: peri
+author: peri ahmadi
 ---
 
 ##Feelin like a Dalek up in here.
