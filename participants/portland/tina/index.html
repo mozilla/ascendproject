@@ -9,6 +9,7 @@ title: "Tina's Blog"
       {% for cat in post.categories %}
         {% if cat == 'tina' %}
           <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+          <h2>By {{ post.author }}</h2>
           <span>{{ post.date | date_to_string }}</span> &raquo;
 
           {{ post.content }}

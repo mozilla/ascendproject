@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Never Enough Cooks in the Kitchen"
+author: Lisa Hewus Fresh
 date:  2014-09-16
 categories: lisa
 ---
