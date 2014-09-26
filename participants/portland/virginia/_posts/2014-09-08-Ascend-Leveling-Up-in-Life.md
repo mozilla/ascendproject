@@ -1,6 +1,9 @@
-# Day 1: Monday, Sept. 8
-###Ascend = Leveling Up in Life!
-
+---
+layout: post
+title:  "Ascend = Leveling Up in Life!"
+date:   2014-09-08
+categories: virginia
+---
 Last week, I left my admin job of 3.5 years in the insurance industry. Today, I began a new chapter that I hope will turn into a long and fulfilling career in tech. 
 
 I arrived, as I think we all did, bursting with excitement and nerves. First of all, the Mozilla office is lovely! There's a beautiful community space and a stocked kitchen, and Ascend provides us with breakfast and lunch each day. I feel incredibly fortunate to be here. 
