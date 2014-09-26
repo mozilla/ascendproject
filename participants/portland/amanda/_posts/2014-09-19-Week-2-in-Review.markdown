@@ -27,7 +27,7 @@ Workwise, we've covered a lot this week.  I like to give a little taste of it in
 
 Join in!
 
-[Bugzilla](https://bugzilla.mozilla.org/) * [Moztrap](https://moztrap.mozilla.org/runtests/) * [CrashMe Addon](https://code.google.com/p/crashme/) * [about:about](about:about) * [Persona Account](https://www.mozilla.org/en-US/persona/) * [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) * jekyll server * 
+[Bugzilla](https://bugzilla.mozilla.org/) * [Moztrap](https://moztrap.mozilla.org/runtests/) * [CrashMe Addon](https://code.google.com/p/crashme/) * [about:about](about:about) * [Persona Account](https://www.mozilla.org/en-US/persona/) * [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) * jekyll server * Add Ons - try [this!](https://github.com/bwinton/whimsy)
 
 This week's links:
 
