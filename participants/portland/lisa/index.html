@@ -9,6 +9,7 @@ title: "Fresh Code"
         {% for cat in post.categories %}
         {% if cat == 'lisa' %}
         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <h3>- Lisa Hewus Fresh</h3>
         <span>{{ post.date | date_to_string }}</span> &raquo;
          
         {{ post.content }}
