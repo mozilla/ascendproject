@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week One Done!"
+author: Lisa Hewus Fresh
 date: 2014-09-12  
 categories: lisa 
 ---
