@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kinda Wordepressing"
+author: Lisa Hewus Fresh
 date:   2014-09-22
 categories: lisa
 ---

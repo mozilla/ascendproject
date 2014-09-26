@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mozilla Cantina"
+author: Lisa Hewus Fresh
 date:   2014-09-19
 categories: lisa
 ---
