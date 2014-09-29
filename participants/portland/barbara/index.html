@@ -1,6 +1,7 @@
 ---
 layout: blogs
 title: "Barbara’s Ascend Project Blog"
+author: "Barbara Miller"
 ---
  
 <div>
@@ -9,6 +10,7 @@ title: "Barbara’s Ascend Project Blog"
 		{% for cat in post.categories %}
 			{% if cat == 'barbara' %}
 				<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                                <h3>Barbara Miller</h3>
 				<span>{{ post.date | date_to_string }}</span> &raquo;
 				 
 				{{ post.content }}
