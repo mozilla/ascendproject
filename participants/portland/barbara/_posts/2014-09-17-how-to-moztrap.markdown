@@ -2,6 +2,7 @@
 layout: post
 title:  "how to moztrap"
 date:   2014-09-17
+author: "Barbara Miller"
 categories: barbara
 ---
 

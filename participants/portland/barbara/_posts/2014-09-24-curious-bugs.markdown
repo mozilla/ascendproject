@@ -2,6 +2,7 @@
 layout: post
 title:  "curious bugs"
 date:   2014-09-24
+author: "Barbara Miller"
 categories: barbara
 ---
 
