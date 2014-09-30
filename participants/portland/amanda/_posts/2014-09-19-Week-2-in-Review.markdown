@@ -5,6 +5,8 @@ date:   2014-Sept-19
 categories: amanda
 ---
 
+<br>
+
 The pace is perfect for me.  I am observing the struggle of my ego - which had it's own expectations regarding what I'd have accomplished by now.  I know that it's deepening the knowledge by taking time to document our learning, reporting our successes, discussing how we're going and best of all - sharing what we've understood with each other.  One great thing about this group is that there aren't just a few people that "get" <i>everything</i> and fast.  Different people are able to grasp concepts at their individual pace and those who were being helped in the morning may be the ones that are helping in the afternoon.
   
 We are working on almost completely different things from what I did at code school.  Partly, I say this as there is not much to compare between the two programs.  In other words, for those who know that I went through the Fullstack Javascript track, whatever I'm writing about in this blog is NOT a comparison to what I've done before.  The GIT flow is slightly different which lends itself to broader understanding.
