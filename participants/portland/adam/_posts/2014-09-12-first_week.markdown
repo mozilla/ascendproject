@@ -2,6 +2,7 @@
 layout: post
 title:  "First Week - Finished!"
 date:   2014-09-12
+author: Adam
 categories: adam
 ---
 
