@@ -31,9 +31,10 @@ Click the "Create a profile" to the left and make one named "aurora", "nightly",
 
 It should look like this now! 
 
-<img src="https://www.evernote.com/shard/s146/res/6de1f25a-5a1a-4e96-955e-d06952c50568/skitch.png?resizeSmall&width=588">
+<img src="https://www.evernote.com/shard/s146/sh/c37ebda8-5091-4919-ac76-21c703cdd910/376ac1e8f4759e01dfcb2f42474208d7/deep/0/Firefox---Choose-User-Profile.png" alt="Firefox%20-%20Choose%20User%20Profile" />
 
 
 Happy testing!
 
+Also go claim your [badge](https://badges.mozilla.org/en-US/badges/claim/4wtvvr) (or Code: 4wtvvr) for all you've accomplished! 
 

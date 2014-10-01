@@ -21,9 +21,3 @@ The really cool [report!](http://mozmill-crowd.blargon7.com/#/functional/report/
 Friday we've been working on our blog posts and [tutorial](participants/portland/becky/2014/09/19/How_to_do_a_Thing/) and probably something exciting and new!
 
 
-
-
-
-
-
- 
