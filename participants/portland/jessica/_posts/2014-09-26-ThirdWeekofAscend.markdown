@@ -6,9 +6,13 @@ categories: jessica
 author: Jessica Canepa
 ---
 ###Venturing into the world of bugs 
+![FirefoxBug](https://github.com/jmarlena/ascendproject/participants/portland/jessica/images/firefoxbugillustration.jpg) 
 
+<img src= "images/firefoxillustration.jpg" alt="blah" />
 
-/Users/Canepa/Sites/ascendproject/participants/portland/jessica/images
+<img src="firefoxbugillustration.jpg" alt = "some text" >
+
+New Tools
 
 This week we explored how to find a good first bug, write tests to check it, etc. We also launched a local wordpress site and learned about some wordpress tools. 
 
