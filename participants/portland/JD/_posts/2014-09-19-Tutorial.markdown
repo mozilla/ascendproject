@@ -1,0 +1,22 @@
+~~~
+---
+layout: post
+title:  "Tutorial"
+date:   2014-Sep-19
+categories: J.D West
+---
+~~~
+
+
+So I'm going to show you how to use a Git Repository.
+So open up the Terminal and use this command to go to wherever your Git Repo is located 
+1.My command for example would be "cd ~/Sites/ascendproject"
+2.You then would type the command "Git Status" to see if you're up to date with the origin branch.
+3.If you aren't up to date you would pull from the repo so my command would be "git pull ascend"
+4. Once you are up to date with the origin branch and you'd like to add your own changes
+to the origin branch you would use the command "git commit" to save the changes.
+5.Then you would "git push ascend" so the file gets sent to the original branch.
+6. Then use "git status" to make sure all of the changes are correct and were sent to origin to be reviewed by the admins of the branch.
+
+That is my tutorial on how to use a Git repository.
+
