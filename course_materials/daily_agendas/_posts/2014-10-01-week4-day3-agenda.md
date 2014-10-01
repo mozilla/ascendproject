@@ -16,7 +16,7 @@ Agenda
 LUNCH
 
 1pm-3pm
-* Individual bug consultations & milestone check-ins
+* Individual bug consultations & milestone check-ins, 1:1
 3:30pm-4:15pm
 * Bash drills (see flash cards in resources)
 
