@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "My First Day"
+date:   2014-09-08
+categories: sofia
+---
+
+
+
+
+
 My First Day
 =====================
 

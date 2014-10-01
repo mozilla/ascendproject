@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "Week 1"
+date:   2014-09-12
+categories: sofia
+---
+
+
+
+
+
 My First Week
 ===============================
 ### The Mozilla Milieu
