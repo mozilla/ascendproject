@@ -3,6 +3,7 @@ layout: post
 title:  "Git Comands"
 date:   2014-09-15
 categories: maryanne
+author: Mary Anne Thygesen
 ---
 
 #Git Computer Commands

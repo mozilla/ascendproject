@@ -4,6 +4,7 @@ layout: post
 title:  "Cookie Crumbs"
 date:   2014-09-18
 categories: maryanne
+author: Mary Anne Thygesen
 ---
 
 #Cookie Crumbs
