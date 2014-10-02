@@ -1,0 +1,40 @@
+diff --git a/browser/base/content/tabbrowser.xml b/browser/base/content/tabbrowser.xml
+index 8798918..d78c213 100644
+--- a/browser/base/content/tabbrowser.xml
++++ b/browser/base/content/tabbrowser.xml
+@@ -1587,6 +1587,13 @@
+ 
+             this.tabContainer.appendChild(t);
+ 
++            // Start of move tab patch =jessica
++            // Get the index of the current tab
++            var newIndex;  
++            oldIndex = this.mTabContainer.selectedIndex;
++            // the new index will be one to the left
++            newIndex = oldIndex - 1;
++
+             // If this new tab is owned by another, assert that relationship
+             if (aOwner)
+               t.owner = aOwner;
+@@ -1698,6 +1705,8 @@
+             var evt = document.createEvent("Events");
+             evt.initEvent("TabOpen", true, false);
+             t.dispatchEvent(evt);
++                // Making the move of the tab at the end of method =jessica 
++            this.moveTabTo(t, newIndex);
+ 
+             // If we didn't swap docShells with a preloaded browser
+             // then let's just continue loading the page normally.
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..25f77e0 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -15,7 +15,7 @@
+                                                                 inside the private browsing mode -->
+ <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+ 
+-<!ENTITY appmenu.tooltip                     "Open menu">
++<!ENTITY appmenu.tooltip                     "Okrita menu">
+ <!ENTITY navbarOverflow.label                "More tools…">
+ 
+ <!-- Tab context menu -->

@@ -1,0 +1,23 @@
+0929  New Bug
+Bug 976220 - make addon version history wider; button causes cramped version notes 
+
+Status: 	NEW
+Whiteboard: 	[contribute][lang=css]
+Keywords: 	
+Product: 	addons.mozilla.org (show info)
+Component: 	Public Pages (show other bugs) (show info)
+Version: 	unspecified
+Platform: 	All All
+Importance: 	-- trivial (vote)
+Assigned To: 	David Larlet [:davidbgk]
+	
+Reported: 	2014-02-24 11:39 PST by Dave Garrett
+Modified: 	2014-02-28 08:22 PST (History)
+CC List:     clouserw@gmail.com,     david@larlet.fr
+
+Ignore Bug Mail: 	(never email 
+
+
+
+or another one:  template survey
+https://github.com/mozillafordevelopment/webmaker-app/issues/219
