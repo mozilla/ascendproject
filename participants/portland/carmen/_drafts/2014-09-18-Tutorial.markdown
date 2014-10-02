@@ -2,6 +2,7 @@
 layout: post
 title:  "Tutorial"
 date:   2014-09-18
+author: Carmen Cordis
 categories: carmen
 ---
 
@@ -19,9 +20,9 @@ The first step to using Git to contribute to your team is to understand some voc
 
 What is Git?  Here's a picture directly from the source, git-scm.com :
 
-![alt text](_images/git_scm_site.png)
+![alt text](images/git_scm_site.png)
 
-![alt text](_images/git_explanation.png)
+![alt text](images/git_explanation.png)
 
 Programmers (and people who use computers) make changes to files all the time.  When people work together, they're all making changes to files, and then those files will be combined into the team's project.  Git is a system designed to help people be more aware of how each team member changes the files.
 
