@@ -42,6 +42,4 @@ Different bugs are in different programming languages, so people with varying ex
 
 We also searched for bugs with the designation "steps wanted", which means that a team of people are working to reproduce the bug, so that it can be fixed through trial and error.
 
-
 + There's also a helpful page about [making contributions to Mozilla](http://whatcanidoformozilla.org) where you can review various ways to help out!
-
