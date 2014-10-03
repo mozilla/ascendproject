@@ -15,7 +15,7 @@ Agenda
 
 LUNCH 11:45 (food trucks)
 
-* Write your Week 3 blog post (use your progress reports) and submit a PR before EOD
+* Write your Week 4 blog post (use your progress reports) and submit a PR before EOD
 * Put in a paragraph with "What I will do when not working on my bug" - a commitment to yourself, and something to come back to later
 
 4:15pm Progress Reports
