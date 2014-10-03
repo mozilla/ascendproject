@@ -19,4 +19,5 @@ LUNCH 11:45 (food trucks)
 * Put in a paragraph with "What I will do when not working on my bug" - a commitment to yourself, and something to come back to later
 
 4:15pm Progress Reports
+
 4:30pm Checkout
