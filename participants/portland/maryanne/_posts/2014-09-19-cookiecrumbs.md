@@ -25,12 +25,13 @@ author: Mary Anne Thygesen
 
 
 ![alt text](images/Screen Shot 2014-09-18 at 11.08.42 AM.png)
-	![alt text](images/Screen Shot 2014-09-18 at 11.10.22 AM.png)
-	 ![alt text](images/Screen Shot 2014-09-18 at 11.11.22 AM.png)
+![alt text](images/Screen Shot 2014-09-18 at 11.10.22 AM.png)
+![alt text](images/Screen Shot 2014-09-18 at 11.11.22 AM.png)
 ![alt text](images/Screen Shot 2014-09-18 at 11.11.40 AM.png)
 ![alt text](images/Screen Shot 2014-09-18 at 11.12.35 AM.png)
 ![alt text](images/Screen Shot 2014-09-18 at 11.28.52 AM.png)
 
-![cake]participants/portland/maryanne/images/cake.png
+![alt text](images/cake.png)
+
 [cake badge]
 (http://toolness.github.io/chicago-badge-studio/studio.html?bg=color&bg-color=6D33B0&bg-subtlepattern=flowers.png&bg-url=&glyph=noun&glyph-noun=Cake.png&glyph-url=&glyph-scale=1.2&glyph-mask=true&glyph-mask-color=FFAA54&gloss=false)
