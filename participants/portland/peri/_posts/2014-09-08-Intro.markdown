@@ -3,6 +3,7 @@ layout: post
 title:  "Intro to Ascend"
 date:   2014-09-08
 categories: peri
+author: peri ahmadi
 ---
 
 ##How I learned to stop worrying and love the puter

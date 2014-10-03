@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Tina
 title:  "Second Week Roundup"
 date:   2014-09-19
 categories: tina

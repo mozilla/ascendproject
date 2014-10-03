@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Beginning to Ascend"
+author: Lisa Hewus Fresh
 date:   2014-09-08
 categories: lisa 
 ---

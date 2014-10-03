@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Patching bugs?"
+date:   2014-09-29
+author: Adam
+categories: adam
+---
+
+A major part of the Ascend Project is getting to the point where you can make contributions to open source projects. As part of that we were asked to come up with a list of bugs that we might want to work on and do a blog post about them. I was at an appointment during part of that so while I didn't come up with a list I did find one bug that I excited about working and I will talk about it here.
+
+The bug that I want to work on is [Bug 1025925](https://bugzilla.mozilla.org/show_bug.cgi?id=1025925) - refactoring some of the code in Fjord to make sure that naming conventions are consistant. This requires changing the names of individual files as well as delving into the code and making sure that the paths are correct. The bug sounds pretty straight forward (Which is probably why it's marked "good first bug"), but at the same time it's requires being detail oriented which is part of what drew me to this bug. Additionally it looks like much of the code is written in Python which is a language that I have almost no background but one that I am very eager to learn for various reasons.
+
+I've read through much of the Fjord documentation and am very excited to set up my dev enviornment start working on the bug!
