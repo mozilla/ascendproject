@@ -2,7 +2,7 @@
 layout:     post
 author:     Tina
 title:      "Fixing my first Bug"
-date:       2014-09-11
+date:       2014-09-30
 categories: tina
 ---
 
