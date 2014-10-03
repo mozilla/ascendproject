@@ -34,4 +34,5 @@ We call this "version control" because the Git system helps to ensure accuracy w
 
 People who use Git to track changes to files can store their team projects and their own independent work on a resource website called GitHub.
 
-Here's a picture from https://github.com
+Here's a picture from [GitHub](https://github.com):
+
