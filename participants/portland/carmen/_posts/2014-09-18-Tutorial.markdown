@@ -68,24 +68,76 @@ When we learned to use GitHub, our teachers said to me:
 
 1) Fork your own Repo,
 
+![alt text](images/forking.png)
+
+"Forking" means copying a repository of files to your personal GitHub account.
+
 2) git checkout your branches,
+
+![alt text](images/branches.png)
+
+This is a command I typed into my Terminal, which you can find on a Mac by typing Command-Space and writing "Terminal".
+
+Using "git checkout" will make a new branch of files for you to work with.  Making a new branch means you can make your changes as you like, without altering the main team's files.  If something happens that you don't want to save, it doesn't have to risk your team's files, because it's on a different branch.  I'm still learning about how to merge branches.
 
 3) Edit your files,
 
+My text editor is [Sublime Text](http://www.sublimetext.com/).  Most of us downloaded it in Ascend.  When you open a file here and write in it, you are editing the code!
+
 4) git add to the stage,
+
+![alt text](images/git_add.png)
+
+Typing "git add ." with a period at the end (as shown) will tell Git to track all the changed files in your current directory!  That means that all the changes you have made (like additions and deletions) are just a step away from being committed as final!
 
 5) Review your git status,
 
+![alt text](images/git_status.png)
+
+As you work with Git, "git status" will be your good friend!  Lisa taught me that it's important to check your git status often, to make sure that you're only going to commit the changes you want, and to make sure that committed files have made it past the stage to the final production.  As you type various commands, git status will be your road-map for what you're doing.
+
 6) git commit the changes,
+
+Typing "git commit" will finalize your staged changes, making them ready to be sent on to GitHub!
 
 7) Write a comment for your team,
 
+![alt text](images/comment.png)
+
+Using the format of git commit -m "comment" will tell your project leaders why you made your commit.
+
 8) Push to your fork!
+
+A great way to figure out where your files can go is to type "git remote -v" into your Terminal.  This will show you the symbolic name for your team's main repo, as well as the symbolic name for your independent working version.
+
+The format for pushing your modified files to your own working repo is as follows, without parentheses:
+
+git push (repo name) (branch name)
+
+For instance, "git push fruits orange" would push all the modified files in the orange branch into the fruits repo.  As I'm working on my own independent copy of the fruits repo, I can update my repo by pushing my changes on the orange branch into my GitHub profile's repo, fruits.
 
 9) Log into GitHub,
 
 10) Go to your profile,
 
+You can click your own username to visit your profile page!
+
 11) Find the team repo,
 
+![alt text](images/team_repo.png)
+
+Click the team repo to view its files!
+
 12) Make a pull request to send files up the tree!
+
+When you're looking at your forked copy of the team repo on GitHub, there's a category button off to the right side of your screen:
+
+![alt text](images/pull_request)
+
+When you click that category, you'll see a button for creating a pull request!
+
+![alt text](images/pull_request_create)
+
+You can also write comments to talk about your changes and how they can be included in the team's files.
+
+Again, these are basic steps, and the more in-depth tutorials online will provide extra details about troubleshooting.  I hope this framework helps!
