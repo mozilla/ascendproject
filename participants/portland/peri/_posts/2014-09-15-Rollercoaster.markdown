@@ -3,6 +3,7 @@ layout: post
 title:  "Rollercoaster"
 date:   2014-09-15
 categories: peri
+author: peri ahmadi
 ---
 AAAAAHHHHHH!! I guess I'm in the appropriate frame of my for a beginner programmer (I hope?). This week was a rollercoaster ride of headaches and emotions.  After I got over my initial bout with self-doubt, I put in a good couple days worth of work and thought, "I'm totally competent and capable and I can get through this." But then we had our first day of solid programming work (learning terminal commands, git, and github) and I was lost. I had no mental framework for all of this vocabulary I was learning and I couldn't quite map the computer in my mind in order to visualise what my commands were doing. I went home that day not feeling so great but still thinking, "baby steps."
 

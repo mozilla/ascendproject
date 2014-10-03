@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Tina
 title:  "Ascend Project First Week"
 date:   2014-09-12
 categories: tina

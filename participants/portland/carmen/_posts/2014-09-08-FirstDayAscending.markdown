@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "First Day **Ascending** the Spiral Staircase"
+title:  "First Day Ascending the Spiral Staircase"
 date:   2014-09-08
+author: Carmen Cordis
 categories: carmen
 ---
-
-# First Day **Ascending** the Spiral Staircase
-## September 8, 2014
 
 People have often told me that computers were not for me.  I was not "that kind of person" and programming was "too intense" for me to understand.  Last week, I made a change in my life by believing that I could **learn** more, **do** more, **be** more, and **change** more.
 
