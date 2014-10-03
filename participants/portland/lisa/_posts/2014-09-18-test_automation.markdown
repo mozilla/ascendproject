@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Test Automation"
+author: Lisa Hewus Fresh
 date:  2014-09-18
 categories: lisa
 ---
