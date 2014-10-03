@@ -23,8 +23,6 @@ Workwise, we've covered a lot this week.  I like to give a little taste of it in
 
 ![pic of firefox fox](img/mobileHeroes2.jpg "pic of mobile heroes")
 
- <img src="img/mobileHeroes2.jpg" alt="pic of mobile heroes" class="inline"/> 
-
 Join in!
 
 [Bugzilla](https://bugzilla.mozilla.org/) * [Moztrap](https://moztrap.mozilla.org/runtests/) * [CrashMe Addon](https://code.google.com/p/crashme/) * [about:about](about:about) * [Persona Account](https://www.mozilla.org/en-US/persona/) * [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) * jekyll server * Add Ons - try [this!](https://github.com/bwinton/whimsy)
