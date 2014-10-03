@@ -36,3 +36,56 @@ People who use Git to track changes to files can store their team projects and t
 
 Here's a picture from [GitHub](https://github.com):
 
+![alt text](images/github_bootcamp)
+
+GitHub has been such a useful tool for our work in Ascend!
+
+A repository is a collection of files which has been made available on the GitHub site.  One person or team creates the repository of files, and other people around the world can read these files, import them onto their own computers, and suggest changes for the original author or team to review and approve.
+
+A repository will sometimes be called a repo, for short.  We've certainly used this term a lot!
+
+GitHub works in the following way:
+
++ Contributors to the main repo will get the files on their own machines and make changes that improve the collection of files.
+
++ Contributors will then need to finalize their changes through the Git process.  This includes adding individual changes to the "stage" of changes, kind of like an audition.  Then, when you're absolutely sure the changes are playing the role you want them to, you can commit those changes to be final.  Afterwards, contributors should update their own version of the main repo by "pushing" the committed changes to GitHub.  Doing so will update their repo version.
+
++ The next step is to submit a "Pull Request" via the GitHub site.  A pull request is saying, "Project leaders, will you please pull my new files over to your main file collection and include my changes in the main file collection?"  The project leaders will then merge the new files with the older ones.
+
+Version control is really useful because we can actually reverse the process of deleting files if we deleted them by accident!
+
+I spoke with K about how she accidentally lost some picture files from her local computer, and it was frustrating to try to figure how to get them back.  It turns out that her GitHub repo still had the files saved, and she got them back by retrieving them from GitHub!  Yay!
+
+I wanted to help myself and others remember the basic format for making changes with Git and GitHub.  It's very basic, and there are many resources to help online, like [this one](https://dl.dropboxusercontent.com/u/8332480/Git%20Index%20Cheat%20Sheet.pdf), but here's a **Git Song** I wrote, set to the tune of the popular "12 Days of Christmas" song.
+
+It's in reverse order, but it kind of follows the song, and Step 8 is like "Five Golden Rings".
+
+**The Twelve Steps of Git**
+
+When we learned to use GitHub, our teachers said to me: Make a pull request to send files up the tree!
+
+When we learned to use GitHub, our teachers said to me:
+
+1) Fork your own Repo,
+
+2) git checkout your branches,
+
+3) Edit your files,
+
+4) git add to the stage,
+
+5) Review your git status,
+
+6) git commit the changes,
+
+7) Write a comment for your team,
+
+8) Push to your fork!
+
+9) Log into GitHub,
+
+10) Go to your profile,
+
+11) Find the team repo,
+
+12) Make a pull request to send files up the tree!
