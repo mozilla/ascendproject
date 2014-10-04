@@ -27,7 +27,7 @@ You can browse packages on the Atom [website](https://atom.io/packages), as well
 * Open Atom, and open the preferences menu (Atom -> Preferences)
 * Open the Packages tab located on the left.
 
-![packages](https://ascendproject.org/participants/portland/david/images/packages.png)
+![packages](/participants/portland/david/images/packages.png)
 
 * Find the Package you are looking for and click the blue install button underneath it.
 
