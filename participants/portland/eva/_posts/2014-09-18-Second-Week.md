@@ -13,4 +13,4 @@ The first sign that this week was a much more jam packed one is the minimal amou
 
 You can see an example of a automatic test bug report, you can see one [here](http://mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3b92b3 "testing_link").
 
-In other news, I also wrote a tutorial on creating multiple profiles for Firefox [here](http:/ascendproject.org/participants/portland/eva/2014-09-19-Firefox_Profile_Tutorial "testing_link")
+In other news, I also wrote a tutorial on creating multiple profiles for Firefox [here](http://ascendproject.org/participants/portland/eva/2014-09-19-Firefox_Profile_Tutorial "testing_link")
