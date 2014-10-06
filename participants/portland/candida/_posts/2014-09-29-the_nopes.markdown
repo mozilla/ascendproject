@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Bug Stories: The Nopes"
+date:   2014-09-29
+categories: candida
+---
+
+
+As I started looking for bugs, I decided to lead with two questions:
+1. What do I want to learn how to do?
+2. What products do I find interesting?
+
+I also made an extra effort not to simply choose technology that felt familiar as I explored. These are the bugs that caught my attention but did not make the cut. I call them “The Nopes.”
+
+(https://bugzilla.mozilla.org/show_bug.cgi?id=996870 “Bug 996870”) : The __heartbeat__ check should verify that the db is healthy      
+
+This bug sounded like a great opportunity to learn about databases and security. I also believe that automation is part of the magic of computing, so if I could run an automated test, I would gain “street cred” for participating in the infamous “Heartbeat” fix. I found the code base pretty easily on GIthub, but then I saw a list  of installations that promised to make me miserable. Also, I was confusing “Heartbeat” with “Heartbleed.” But that might be okay since other people have made and/or found ways to address the fact that it is a common error like in (http://www.forbes.com/sites/jameslyne/2014/04/08/heartbeat-heartbleed-bug-breaks-worldwide-internet-security-again-and-yahoo/“this article.”)  Or maybe it is not an error. I will leave this one for the parking lot - I will return to it later… maybe.
+
+
+(https://bugzilla.mozilla.org/show_bug.cgi?id=632204 “Bug 632204”):   Remove reCAPTCHA from Demo Studio submission form      
+
+This would have been a great opportunity to take part in the just and righteous campaign against captchas, but the last action on the bug was in March 2014, and I was worried that no one really cared anymore. Also, the word “triage” seemed to confirm that idea.
+
+
+(https://bugzilla.mozilla.org/show_bug.cgi?id=1003236 “Bug 1003236”) - [Meta] Transition BzAPI consumers to the native REST API      
+I want to learn to build an API for my personal data, so i thought this bug would immerse me in how-to-build-an-api world. It also involved code migration, which is quite a marketable skill. It is also a headache for experienced developers so as a first bug, it might not be such a great idea. Not only is there a lot to learn (which is great, actually), but there may be product and process decisions that might hold up the code. Since the Ascend Project is only six weeks long, I decided that I could not make the best contribution at this time.
+
+Then I found Sea Monkey. 
+
+https://www.youtube.com/watch?v=bW7Op86ox9g
