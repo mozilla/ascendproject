@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bug Stories: The Nopes"
+author: Candida Haynes
 date:   2014-09-29
 categories: candida
 ---
