@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "first bug landed! and other week 4 notes"
+date:   2014-10-03
+author: "Barbara Miller"
+categories: barbara
+---
+
+My [first bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1069325) [landed!](https://hg.mozilla.org/qa/mozmill-tests/rev/f17ca5e4fae9)
+
+Earlier this week, we enjoyed great talks by [Marina Zhurakhinskaya](https://wiki.gnome.org/MarinaZhurakhinskaya) about [Gnome’s](http://www.gnome.org/) [Outreach Program](http://www.gnome.org/opw/) and by [Lars Lohn](http://www.twobraids.com/) about Firefox crash reporting and analysis, based on his [Open Source Bridge](http://opensourcebridge.org/) talk, [When Firefox Faceplants&mdash;what the fox says and who is listening](http://opensourcebridge.org/sessions/1319).
+
+And I found out a lot more about the Outreach Program, on IRC, #opw on irc.gimp.net, many thanks to mvolz and fhocutt!
