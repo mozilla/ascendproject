@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week 2 in Review"
+author: amanda houle
 date:   2014-Sept-19
 categories: amanda
 ---

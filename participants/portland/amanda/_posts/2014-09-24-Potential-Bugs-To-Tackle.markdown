@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Potential Bugs to Tackle"
+author: amanda houle
 categories: amanda
 ---
 
