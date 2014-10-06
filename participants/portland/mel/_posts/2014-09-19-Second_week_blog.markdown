@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SECOND Week Blog"
-author: "Mel Reslor"
+author: Mel Reslor
 date:   2014-09-19
 categories: Mel
 ---
