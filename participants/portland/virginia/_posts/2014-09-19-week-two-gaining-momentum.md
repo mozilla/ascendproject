@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week Two: Gaining Momentum"
-date: {}
+date: 2014-09-19
 categories: virginia
 published: true
 ---
@@ -37,7 +37,7 @@ Revisited agreements of how to be with each other.
 Catching up, checking on bugs. [The first bug I reported](https://bugzilla.mozilla.org/show_bug.cgi?id=1068896) (Persona login issue in Bugzilla) was marked a duplicate of an open bug from Apr 2012.
 lunch: Thai Peacock
 
-MozMill installation instructions were confusing, so I edited the instructions in [the documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Mozmill#Installation), using clearer language. 
+MozMill installation instructions were confusing, so I edited the instructions in [the documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Mozmill#Installation), using clearer language.
 
 Running test suites in MozMill!
 
@@ -49,17 +49,17 @@ Running automated testing with MozMill Automation. Here are the reports!
 
 [Endurance test of Nightly](http://mozmill-crowd.blargon7.com/#/endurance/report/2f982f72826307fed840a3b11c3c4026)
 
-I really like running automated tests! It makes your browser do a lot of stuff on its own and collects data on the functionality as it goes, so you get stuff done without really doing much. Plus, it makes your computer look haunted. 
+I really like running automated tests! It makes your browser do a lot of stuff on its own and collects data on the functionality as it goes, so you get stuff done without really doing much. Plus, it makes your computer look haunted.
 
 
-Fri 9/19 
+Fri 9/19
 week 2 day 5
 
 morning: catching up, writing blog posts including tutorial with screenshots
 
 Lunch: Cha Taqueria nachos
 
-afternoon: played with the Tilt add-on for Firefox, where you can see the layers of a webpage. Very interesting! 
+afternoon: played with the Tilt add-on for Firefox, where you can see the layers of a webpage. Very interesting!
 
 Began looking at ["good first bugs" in Bugzilla](https://bugzilla.mozilla.org/buglist.cgi?list_id=11296293&o1=equals&status_whiteboard_type=allwordssubstr&status_whiteboard=good%20first%20bug&f1=cf_tracking_firefox33&resolution=---&query_format=advanced&bug_status=NEW), walking through a particular bug together on the screen. We can fix a bug! ...But not today.
 
