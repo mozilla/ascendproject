@@ -3,6 +3,7 @@ layout: post
 title:  "How I Start Over: Notes on Recovering from Bad Code"
 date:   2014-09-24
 categories: candida
+author: Candida Haynes
 ---
 
 
