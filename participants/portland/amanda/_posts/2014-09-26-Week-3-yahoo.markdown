@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week 3 Monday Quick Report"
+author: amanda houle
 categories: amanda
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week 2 in Review"
+author: amanda houle
 date:   2014-Sept-19
 categories: amanda
 ---
@@ -22,8 +23,6 @@ Speaking of weight gain, perhaps all of the great food is counter balanced a bit
 Workwise, we've covered a lot this week.  I like to give a little taste of it in the lists below.  The rest of the time relegated to writing, I will be working on a tutorial for filing your first bug in Firefox.  This weekend, I look forward to setting up my new 1Password account - thank you @EvaCatHerder and [AgileBits](https://agilebits.com/).  
 
 ![pic of firefox fox](img/mobileHeroes2.jpg "pic of mobile heroes")
-
- <img src="img/mobileHeroes2.jpg" alt="pic of mobile heroes" class="inline"/> 
 
 Join in!
 
