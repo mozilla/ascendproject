@@ -56,7 +56,7 @@ And behold the computer runs tests for you faster than you could.
 
 If you could get this working then go ahead and award yourself a badge! 
 
-![Image of Badge](http://chart.apis.google.com/chart?chl=https%3A%2F%2Fbadges.mozilla.org%2Fen-US%2Fbadges%2Fclaim%2Fkvcw3t&chs=200x200&cht=qr&choe=UTF-8) 
+![Image of Badge](https://raw.githubusercontent.com/jmarlena/ascendproject/gh-pages/participants/portland/jessica/images/MozMillTestBadge.png) 
 
 You can use this code **kvcw3t** at to redeem your badge [here](https://badges.mozilla.org/). 
 

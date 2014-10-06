@@ -3,6 +3,7 @@ layout: post
 title:  "First Week Recap"
 date:   2014-09-15
 categories: david
+author: David
 ---
 
 Man did we have a week, a lot of git hub stuff has been thrown around and it's been confusing for many people. I've been glad I could get help.

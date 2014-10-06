@@ -1,16 +1,17 @@
 ---
 layout: post
 title:  "Tutorial: How to Report a Bug"
+author: amanda houle
 date:   2014-Sept-19
 categories: amanda
 ---
-
+<br>
 Having issues with your Firefox browswer?  Want to help with the next version of Firefox?  Want to learn something fun and new? 
 
 
 Report a Bug:
 
-<img src="img/2004_security_bug.jpg" alt="Pic of a bug" style="width:304px;height:228px">
+![Pic of a Bug](http://ascendproject.org/participants/portland/amanda/img/2004_security_bug.jpg" "Pic of a bug")
 
 
 ### Test your bug
@@ -31,20 +32,19 @@ After you have completed these tests, head on over to [Bugzilla@Mozilla](https:/
 
 * Click on "File a Bug"
 
-<img src="img/Screen_Shot_Bugzilla.png" alt="screen shot of bugzilla main page" style="width:608px;height:456px">
+![Bugzilla main page](http://ascendproject.org/participants/portland/amanda/img/Screen_Shot_Bugzilla.png "Bugzilla main page screenshot")
 
 * Scroll down the list and find the service that you want to report a bug on (ie if you were using Nightly, then click on "Firefox" which is first on the list)
 
-<img src="img/screen_shot_bugzilla_1_of_3.png" alt="screen shot of bugzilla main page" style="width:608px;height:456px">
-
+![screen shot of bugzilla main page](http://ascendproject.org/participants/portland/amanda/img/screen_shot_bugzilla_1_of_3.png "Bugzilla main page screenshot")
 
 * Type short summary of the issue in the white box just before hitting "find similar issues.”  You'll want to see if someone else has already filed this bug.
 
-<img src="img/screen_shot_bugzilla_2_of_3.png" alt="screen shot of step 2 of 3" style="width:608px;height:456px">
+![screen shot of step 2 of 3](http://ascendproject.org/participants/portland/amanda/img/screen_shot_bugzilla_2_of_3.png "screen shot of step 2 of 3")
 
 * scroll through issues
 
-<img src="img/screen_shot_bugzilla_2_of_3_a.png" alt="screen shot of step 2 of 3 part a" style="width:608px;height:456px">
+![screen shot of step 2 of 3 a](http://ascendproject.org/participants/portland/amanda/img/screen_shot_bugzilla_2_of_3_a.png "screen shot of step 2 of 3 a")
 
 * If you don’t see your issue listed, continue on by clicking on the button "My issue is not listed (see the above/previous screen shot)."
 * Fill in report
@@ -57,7 +57,7 @@ concise, descriptive language as you are guiding someone else on how to follow w
     * Again, be clear on explaining what the actual results you attained.
   * Fill in the next whitebox for "What should have happened?."
 
-<img src="img/screen_shot_bugzilla_3_of_3.png" alt="screen shot of bugzilla filling out a report" style="width:608px;height:456px">
+![screen shot of bugzilla filling out a report](http://ascendproject.org/participants/portland/amanda/img/screen_shot_bugzilla_3_of_3.png "screen shot of bugzilla filling out a report")
 
 ### Claim Your Badge!
 

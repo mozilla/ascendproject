@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Guido Needs a New Picture"
@@ -6,6 +5,7 @@ author: Lisa Hewus Fresh
 date:   2014-09-29
 categories: lisa
 ---
+
 I woke up sort of panicked thinking I had overslept. At least I was wide awake. I was ready to get my day started and see if my patch and comment were acceptable so I was up, dressed and out the door. It was overcast and cool which was a really nice change. I grabbed some sweet cherry tomatoes and a few sprigs of purple basil out of the garden to eat on my way to the Max.
 
 My neighbor Jessika barely made it to the train. I hadn't seen her in several days so it was nice to start the week off by catching up with her on our short trip over the river. Each morning after I get off the Max I walk past Ground Kontrol arcade. I love how they have speakers outside that broadcast the sounds of a classic arcade. On the next block there is usually an older gentleman sitting outside. I say good morning to him each day and at first he would just ignore me but now he looks at me and says good morning. He hasn't been there the last few times I have walked by though.

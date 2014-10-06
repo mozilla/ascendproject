@@ -6,11 +6,10 @@ author: "Barbara Miller"
 categories: barbara
 ---
 
-WORK IN PROGRESS
 
 finding and running MozTrap tests for the Firefox web browser
 
-![MozTrap home](images/moztrap-home.png "MozTrap home page")
+![MozTrap home](/participants/portland/barbara/images/moztrap-home.png "MozTrap home page")
 
 on your mark
 ------------
@@ -23,7 +22,7 @@ on your mark
 get set: find a test suite to run
 ---------------------------------
 
-![finding a MozTrap test suite to run](images/moztrap-find-test-suite.png "Finding a MozTrap Test Suite")
+![finding a MozTrap test suite to run](/participants/portland/barbara/images/moztrap-find-test-suite.png "Finding a MozTrap Test Suite")
 
 1. On the next page, select from Products "Desktop Firefox".
 2. Select from Versions the version you will test... Nightly will be latest, at the end of the list (35 as of 2014-09-17), preceded by Aurora (currently 34), preceded by Beta (currently 33), preceded by the current release (currently 32).
@@ -36,7 +35,7 @@ get set: find a test suite to run
 go! run a test
 --------------
 
-![run a MozTrap test](images/run-moztrap-test.png)
+![run a MozTrap test](/participants/portland/barbara/images/run-moztrap-test.png)
 
 1. On the next page, in the list of tests available in your selection, click the little arrow button at the left end of a test line to show its detailed steps.
 2. For each step in a test, you can report a failure with the pink button to the left. Reporting a failed step marks the whole test as failed.
@@ -50,4 +49,11 @@ need help?
 
 Check #qa on irc, at irc.mozilla.org.
 
+
+get a badge!
+------------
+
+![MozTrapper](https://badges.mozilla.org/media/uploads/badge/3/d/3ddd35aa33237f64289684aeb309069e_image_1412277144_0379.png)
+
+[claim the MozTrapper badge](https://badges.mozilla.org/en-US/badges/claim/4c7vmv)
 
