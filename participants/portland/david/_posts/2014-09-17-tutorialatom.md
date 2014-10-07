@@ -3,9 +3,7 @@ layout: post
 title:  "Guide to Customizing Atom"
 date:   2014-09-17
 categories: david
----
-####by David H
-
+author: David
 ---
 
 ##What is Atom?
@@ -27,7 +25,7 @@ You can browse packages on the Atom [website](https://atom.io/packages), as well
 * Open Atom, and open the preferences menu (Atom -> Preferences)
 * Open the Packages tab located on the left.
 
-![packages](/participants/portland/david/images/packages.png)
+![packages](http://ascendproject.org/participants/portland/david/images/packages.png)
 
 * Find the Package you are looking for and click the blue install button underneath it.
 
@@ -42,12 +40,12 @@ You can browse themes on the Atom [website](https://atom.io/themes), as well as 
 * Open the Themes tab located on the left.
 * Find the Theme you're looking for and click the blue install button.
 
-![themes tab](https://ascendproject.org/participants/portland/david/images/themes1)
+![themes tab](http://ascendproject.org/participants/portland/david/images/themes1.png)
 
 * Above the search bar there are 2 drop down lists, one is the UI theme, the other is the Syntax theme. Your downloaded theme will have components in these drop down lists. Select them
 and your Atom will load your theme.
 
-![themes menu](https://ascendproject.org/participants/portland/david/images/themes2)
+![themes menu](http://ascendproject.org/participants/portland/david/images/themes2.png)
 
 
 If you completed these steps then you've earned yourself this [badge!](https://badges.mozilla.org/en-US/badges/claim/7kv3nw)

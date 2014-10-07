@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Tutorial: How to Report a Bug"
+author: amanda houle
 date:   2014-Sept-19
 categories: amanda
 ---
-
+<br>
 Having issues with your Firefox browswer?  Want to help with the next version of Firefox?  Want to learn something fun and new? 
 
 
