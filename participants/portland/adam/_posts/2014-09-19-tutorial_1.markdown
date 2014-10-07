@@ -10,27 +10,27 @@ In this blog post I will be showing how to download the Crash Me Firefox extensi
 
 First you will want to go to the website that hosts the Crash Me extension which can be found [here](https://code.google.com/p/crashme/). Click the link that says, "Download the latest version" and chose the option to save file in a directory of your choice.
 
-<img src="images/crashme_website.jpg" alt="Crash Me website screenshot" class="inline"/> 
+<img src="http://www.ascendproject.org/participants/portland/adam/images/crashme_website.jpg" alt="Crash Me website screenshot" class="inline"/> 
 <br>
 
 Next you will want to find the file that you have downloaded, crashme.xpi, and drag it to an open window of Firefox.
 
-<img src="images/Screenshot_9_19_14__11_30_AM.png" alt="Crash Me Dragging" /> 
+<img src="http://www.ascendproject.org/participants/portland/adam/images/Screenshot_9_19_14__11_30_AM.png" alt="Crash Me Dragging" /> 
 <br>
 
 A window will pop up asking you if you want to install the plug in and the "install" button will have a coundown ticker which will eventually coundown to zero and allow you to click it. Once the button counts down click "install" and choose to restart your browser when it prompts you to do so.
 
-<img src="images/crashme_-_Crash_me_now__extension_for_Firefox_-_Google_Project_Hosting.png" />
+<img src="http://www.ascendproject.org/participants/portland/adam/images/crashme_-_Crash_me_now__extension_for_Firefox_-_Google_Project_Hosting.png" alt="Crash Me" />
 <br>
 
 Once your browser restarts you will be able to go to Tools -> Add-ons and that will bring up the extentions add-ons tab. Click "Extentions" if it isn't already selected and click the "preferences" button that's in the "Crash Me Now" section.
 
-<img src="images/tools.png">
+<img src="http://www.ascendproject.org/participants/portland/adam/images/tools.png" alt="Tools" />
 <br>
 
 
 Press "Crash me!" and you will have crashed your browser on command.
 
-<img src="images/Add-ons_Manager_and_MoPad__catsup.png">
+<img src="http://www.ascendproject.org/participants/portland/adam/images/Add-ons_Manager_and_MoPad__catsup.png" alt="Addons Manager and MoPad" />
 <br>
 Now you can get your mozilla Crash Me Badge [here](https://badges.mozilla.org/en-US/badges/claim/puecmn)!
