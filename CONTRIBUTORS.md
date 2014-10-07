@@ -18,6 +18,10 @@ Thank you to everyone who has helped Ascend come to be:
 * Adbul Rauf
 * Carol Willing
 * Mozilla Portland
+* David Humphrey
+* Kronda Adair
+* Shawna Scott
+* Claire Anderson
 
 
 And to all those who shared tweets, promoted the project, and otherwise offered to help (even if you haven't been taken up on it *yet*).
