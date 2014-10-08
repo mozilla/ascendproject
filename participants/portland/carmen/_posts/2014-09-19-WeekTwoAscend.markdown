@@ -34,7 +34,11 @@ Here's a lovely link to show the results of my automated Mozmill tests in the Ni
 
 [Carmen's Mozmill tests!](http://mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3bce2e)
 
-+ [Bugzilla](https://bugzilla.mozilla.org/) is the main venue where Mozillians talk to each other about possible bugs, confirmed bugs, bugs that have been assigned to specific people as their personal projects, and bugs that have been fixed.  Often times, people will report a bug that's actually a duplicate of another report.  When I filed my first few bugs, some of these were marked as duplicates.  I felt a little disheartened by the duplication, but, at the same time, I realized that multiple reports about the same bug will bring attention to the need for the bug to be fixed.  Bugzilla has resources for sorting bugs, searching for bugs to help with, and contributing patches to fix the code.
++ [Bugzilla](https://bugzilla.mozilla.org/) (also called BMO) is the main venue where Mozillians talk to each other about possible bugs, confirmed bugs, bugs that have been assigned to specific people as their personal projects, and bugs that have been fixed.
+
+Often times, people will report a bug that's actually a duplicate of another report.  When I filed my first few bugs, some of these were marked as duplicates.  I felt a little disheartened by the duplication, but, at the same time, I realized that multiple reports about the same bug will bring attention to the need for the bug to be fixed.
+
+Bugzilla has resources for sorting bugs, searching for bugs to help with, and contributing patches to fix the code.
 
 The Whiteboard tag [good first bug] means that someone reviewing the bug believes that a new contributor could fix it, with enough research, context, and time.
 
@@ -42,6 +46,4 @@ Different bugs are in different programming languages, so people with varying ex
 
 We also searched for bugs with the designation "steps wanted", which means that a team of people are working to reproduce the bug, so that it can be fixed through trial and error.
 
-
 + There's also a helpful page about [making contributions to Mozilla](http://whatcanidoformozilla.org) where you can review various ways to help out!
-
