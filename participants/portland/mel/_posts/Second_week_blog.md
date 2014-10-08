@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "SECOND Week Blog"
+author: Mel Reslor
 date:   2014-09-19
 categories: Mel
 ---
@@ -22,4 +23,7 @@ Thurs 9/18
     this is the results of the Mozmill automated testing on Thurs 9-18:
     http://mozmill-crowd.blargon7.com/db/2f982f72826307fed840a3b11c3bedbf
 
-Fri  9/19   to be cont.
+Fri  9/19   
+    One thing I wanted to do was to log into IRC outside of class.  Will check into this.
+    Today we were looking into the Mozmill test.   How to make repetitive tasks easier and a great tool for testing sites and debugging.  And Crash Me  and program that actually crashes the browser.
+    
