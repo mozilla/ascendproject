@@ -38,9 +38,9 @@ In English, that means:
 
 Follow the instructions in the next few panels.
 
-![Profile Manager Screen and Terminal Shot](/participants/portland/candida/images/Intro_to_ffox.png "Introduction to Profile Manager screen")
+![Profile Manager Screen and Terminal Shot](/participants/portland/candida/images/intro_to_ffox.png "Introduction to Profile Manager screen")
 
-![Screen with newly created profile](/participants/portland/candida/images/Normal_Firefox.png "the new profile")
+![Screen with newly created profile](/participants/portland/candida/images/normal_firefox.png "the new profile")
 
 I named the new profile for this tutorial ’Normal_Firefox’ (without the quotes).
 
