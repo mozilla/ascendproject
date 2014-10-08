@@ -25,7 +25,7 @@ A window will pop up asking you if you want to install the plug in and the "inst
 
 Once your browser restarts you will be able to go to Tools -> Add-ons and that will bring up the extentions add-ons tab. Click "Extentions" if it isn't already selected and click the "preferences" button that's in the "Crash Me Now" section.
 
-<img src="/participants/portland/adam/images/tools.png" alt="Tools" />
+<img src="/participants/portland/adam/images/Tools.png" alt="Tools" />
 <br>
 
 
