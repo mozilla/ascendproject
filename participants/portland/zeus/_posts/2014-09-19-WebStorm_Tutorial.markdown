@@ -40,19 +40,19 @@ By the end of this tutorial you should have Java 6 installed and WebStorm, and y
 - Mozilla Firefox, just because it rocks and rules!
 
 ##STEPS FOR THE SAVY
-1. Go to http://www.jetbrains.com/webstorm/](WebStorm link). Download and install. May God Bless you.
+1. Go to [WebStorm Link](http://www.jetbrains.com/webstorm/). Download and install. May God Bless you.
 2. Accept to install Java when prompted.
 3. Figure out the Buttons by your self.
 4. Have a nice day, you are so smart! Look at you!.
-5. Go give yourself  a [https://badges.mozilla.org/en-US/badges/badge/WebStorm-User/claims/1411164154.82-3530](WebStorm badge).
+5. Go give yourself  a [WebStorm Badge](https://badges.mozilla.org/en-US/badges/badge/WebStorm-User/claims/1411164154.82-3530).
  
 
 ~~~ What, what what! ~~~
 
 
 ##STEPS as TUTORIAL:
-1. Open [https://www.mozilla.org/en-US/firefox/new/](Mozilla Firefox).
-2. Go to download the App [http://www.jetbrains.com/webstorm/](WebStorm here).
+1. Open [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/).
+2. Go to download the App [WebStorm Here](http://www.jetbrains.com/webstorm/).
 3. Click on the BIG BLUE Button “GET WEBSTORM “.
 4. A pop up window will show up, then click in the OK, to keep downloading it.
 
@@ -71,7 +71,7 @@ Once dowloaded click on the blue arrow, when it shows the download list, click o
 we have just downloaded.
 ~~~
 
-5. Drag Image Logo from left to right and drop it into the applications image. Here is a drag and drop video tutorial is this is too hard for you. [http://www.youtube.com/watch?v=D_t6e3ZAIWA](Drag and Drop Tutorial)/
+5. Drag Image Logo from left to right and drop it into the applications image. Here is a drag and drop video tutorial is this is too hard for you. [Drag and Drop Tutorial](http://www.youtube.com/watch?v=D_t6e3ZAIWA)/
 
 ~~~
  It will appear that nothing happened. But in reality the WS logo and name should be inside your Applications inside your Finder.
@@ -107,4 +107,3 @@ If you are in the Regular Development Environment and you skipped the entrance w
 /home/user/sites/ascendproject
 So, go 
 
-![Download Progress Bar]({{ site.url }}/assets/screenshot.jpg)

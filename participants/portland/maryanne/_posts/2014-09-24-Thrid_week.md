@@ -16,4 +16,4 @@ I went following links to find out more about what was wanted. I found that this
 
 This looks like a good bug to start with current with lots of people available.
 
-![alt text](http://www.ascendproject.org/participants/portland/maryanne/images/bugflower.jpg)
+![alt text](http://ascendproject.org/participants/portland/maryanne/images/bugflower.jpg)

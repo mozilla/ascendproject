@@ -25,7 +25,7 @@ My week two
 
      [X]Start here: https://developer.mozilla.org/en-US/docs/Simple_Firefox_build/Linux_and_MacOS_build_preparation and get the bootstrap script to run (you might have to use curl instead of wget)
 
-![1](Users/ninaalcaras/Sites/ascendproject/participants/portland/k/images/a.png)
+![1](/participants/portland/k/images/a.png)
 ![1](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/a.png)
 
 ![2](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/ao.png)
