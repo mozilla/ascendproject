@@ -1,0 +1,143 @@
+---
+layout: post
+title:  "Tutorial"
+date:   2014-09-18
+author: Carmen Cordis
+categories: carmen
+---
+
+Our Week Two goals for Ascend include writing an instructive guide to help new contributors on their journey through Open Source learning.
+
+Because Open Source is open, there's so much to learn, and there are so many resources to help people learn.  During Ascend, we've all been choosing topics to turn into teaching moments.  These tutorials will be readily available for anyone who is starting fresh or who wants a refresher.
+
+As part of my own learning process, I am going to learn how to embed images into a blog post using Markdown format.  Screenshots are great for visual learners.
+
+I pondered for quite some time about possible topics for my tutorial, and it's become clear to me that modern technology allows teams of people to work on the same projects and contribute to each other's work.
+
+My tutorial will focus on how one person can use the Git interface to contribute their own independent work to an entire team's main project.  It will be at the basic level, because I am still learning things, but I hope it helps.
+
+The first step to using Git to contribute to your team is to understand some vocabulary!
+
+What is Git?  Here's a picture directly from the source, git-scm.com :
+
+![alt text](images/git_scm_site.png)
+
+![alt text](images/git_explanation.png)
+
+Programmers (and people who use computers) make changes to files all the time.  When people work together, they're all making changes to files, and then those files will be combined into the team's project.  Git is a system designed to help people be more aware of how each team member changes the files.
+
+"Version control" means tracking the changes made to a file or set of files over time.
+
+It's important for programmers to be able to keep track of which version of a program they're using, what the features or files looked like in older versions, and making sure the proper changes are added to newer versions.
+
+We call this "version control" because the Git system helps to ensure accuracy when making changes to files, and we can also reverse any unwanted changes by using the right techniques in Git.
+
+People who use Git to track changes to files can store their team projects and their own independent work on a resource website called GitHub.
+
+Here's a picture from [GitHub](https://github.com):
+
+![alt text](images/github_bootcamp)
+
+GitHub has been such a useful tool for our work in Ascend!
+
+A repository is a collection of files which has been made available on the GitHub site.  One person or team creates the repository of files, and other people around the world can read these files, import them onto their own computers, and suggest changes for the original author or team to review and approve.
+
+A repository will sometimes be called a repo, for short.  We've certainly used this term a lot!
+
+GitHub works in the following way:
+
++ Contributors to the main repo will get the files on their own machines and make changes that improve the collection of files.
+
++ Contributors will then need to finalize their changes through the Git process.  This includes adding individual changes to the "stage" of changes, kind of like an audition.  Then, when you're absolutely sure the changes are playing the role you want them to, you can commit those changes to be final.  Afterwards, contributors should update their own version of the main repo by "pushing" the committed changes to GitHub.  Doing so will update their repo version.
+
++ The next step is to submit a "Pull Request" via the GitHub site.  A pull request is saying, "Project leaders, will you please pull my new files over to your main file collection and include my changes in the main file collection?"  The project leaders will then merge the new files with the older ones.
+
+Version control is really useful because we can actually reverse the process of deleting files if we deleted them by accident!
+
+I spoke with K about how she accidentally lost some picture files from her local computer, and it was frustrating to try to figure how to get them back.  It turns out that her GitHub repo still had the files saved, and she got them back by retrieving them from GitHub!  Yay!
+
+I wanted to help myself and others remember the basic format for making changes with Git and GitHub.  It's very basic, and there are many resources to help online, like [this one](https://dl.dropboxusercontent.com/u/8332480/Git%20Index%20Cheat%20Sheet.pdf), but here's a **Git Song** I wrote, set to the tune of the popular "12 Days of Christmas" song.
+
+It's in reverse order, but it kind of follows the song, and Step 8 is like "Five Golden Rings".
+
+**The Twelve Steps of Git**
+
+When we learned to use GitHub, our teachers said to me: Make a pull request to send files up the tree!
+
+When we learned to use GitHub, our teachers said to me:
+
+1) Fork your own Repo,
+
+![alt text](images/forking.png)
+
+"Forking" means copying a repository of files to your personal GitHub account.
+
+2) git checkout your branches,
+
+![alt text](images/branches.png)
+
+This is a command I typed into my Terminal, which you can find on a Mac by typing Command-Space and writing "Terminal".
+
+Using "git checkout" will make a new branch of files for you to work with.  Making a new branch means you can make your changes as you like, without altering the main team's files.  If something happens that you don't want to save, it doesn't have to risk your team's files, because it's on a different branch.  I'm still learning about how to merge branches.
+
+3) Edit your files,
+
+My text editor is [Sublime Text](http://www.sublimetext.com/).  Most of us downloaded it in Ascend.  When you open a file here and write in it, you are editing the code!
+
+4) git add to the stage,
+
+![alt text](images/git_add.png)
+
+Typing "git add ." with a period at the end (as shown) will tell Git to track all the changed files in your current directory!  That means that all the changes you have made (like additions and deletions) are just a step away from being committed as final!
+
+5) Review your git status,
+
+![alt text](images/git_status.png)
+
+As you work with Git, "git status" will be your good friend!  Lisa taught me that it's important to check your git status often, to make sure that you're only going to commit the changes you want, and to make sure that committed files have made it past the stage to the final production.  As you type various commands, git status will be your road-map for what you're doing.
+
+6) git commit the changes,
+
+Typing "git commit" will finalize your staged changes, making them ready to be sent on to GitHub!
+
+7) Write a comment for your team,
+
+![alt text](images/comment.png)
+
+Using the format of git commit -m "comment" will tell your project leaders why you made your commit.
+
+8) Push to your fork!
+
+A great way to figure out where your files can go is to type "git remote -v" into your Terminal.  This will show you the symbolic name for your team's main repo, as well as the symbolic name for your independent working version.
+
+The format for pushing your modified files to your own working repo is as follows, without parentheses:
+
+git push (repo name) (branch name)
+
+For instance, "git push fruits orange" would push all the modified files in the orange branch into the fruits repo.  As I'm working on my own independent copy of the fruits repo, I can update my repo by pushing my changes on the orange branch into my GitHub profile's repo, fruits.
+
+9) Log into GitHub,
+
+10) Go to your profile,
+
+You can click your own username to visit your profile page!
+
+11) Find the team repo,
+
+![alt text](images/team_repo.png)
+
+Click the team repo to view its files!
+
+12) Make a pull request to send files up the tree!
+
+When you're looking at your forked copy of the team repo on GitHub, there's a category button off to the right side of your screen:
+
+![alt text](images/pull_request)
+
+When you click that category, you'll see a button for creating a pull request!
+
+![alt text](images/pull_request_create)
+
+You can also write comments to talk about your changes and how they can be included in the team's files.
+
+Again, these are basic steps, and the more in-depth tutorials online will provide extra details about troubleshooting.  I hope this framework helps!
