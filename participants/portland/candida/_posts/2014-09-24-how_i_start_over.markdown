@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "How I Start Over: Notes on Recovering from Bad Code"
+author: Candida Haynes
 date:   2014-09-24
 categories: candida
-author: Candida Haynes
+
 ---
 
 
