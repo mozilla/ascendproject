@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How I Got Over - The Catch-Up*"
+author: Candida Haynes
 date:   2014-09-15
 categories: candida
 ---
