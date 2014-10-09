@@ -1,10 +1,10 @@
 # Ascend Project Best Practices and Examples
 
-*   Case sensitivity for images, filenames, file paths, urls, etc. is critical. For example, My_image.jpg is not the same as my_image.jpg and /sites is not the same as /Sites.
+*   Case sensitivity for images, filenames, file paths, urls, etc. is critical. For example, <code>My_image.jpg</code> is not the same as <code>my_image.jpg</code> and <code>/sites</code> is not the same as <code>/Sites</code>.
 
 *   Never put spaces in filenames, image names or directory names. Using the Finder to create or edit files and directories makes it very easy to make this mistake. Use the command line and use dashes, camelcase or underscores in your file and directory names.
 
-    For example my_file.txt or my-file.txt or myFile.txt
+    For example <code>my_file.txt</code> or <code>my-file.txt</code> or <code>myFile.txt</code>
 
 *   The file path for your participant image directory is <code>/participants/location/user/image_dir/image_name.</code> It starts with a forward slash and follows the path from the root Ascend Project directory.
 
