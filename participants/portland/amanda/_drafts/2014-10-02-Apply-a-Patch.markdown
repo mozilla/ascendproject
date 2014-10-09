@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Apply a Patch"
+author: amanda
 categories: amanda
 ---
-
-Start with your VM already built (see ***).
 
 1. sudo apt-get install git (use password "firefox-dev" w/o the quotes)
 git clone into home directory
