@@ -53,7 +53,6 @@ The rest is up to you. Read everything on the screen and decide which choices ar
 Link to I’m in Charge! [coming soon]
 
 
+Now, create another profile with a different name and a different version of Forefox. Were you able to make profiles for your different versions of Firefox? If so, go claim your [badge](https://badges.mozilla.org/en-US/badges/claim/94x9wp)!
 
-Now, create another profile with a different name and a different version of Forefox. Were you able to make profiles for your different versions of Firefox? If so, go claim your [badge](http://toolness.github.io/chicago-badge-studio/studio.html?bg=subtlepattern&bg-color=5270E9&bg-subtlepattern=back_pattern.png&bg-url=https%3A%2F%2Fgithub.com%2FTheLady%2Fascendproject%2Fblob%2F3699316001abfd3fd451d46ee3694d91cd641ed2%2Fparticipants%2Fportland%2Fcandida%2Fimages%2Fintro_to_ffox.png&glyph=noun&glyph-noun=Anchor.png&glyph-url=&glyph-scale=1.0&glyph-mask=true&glyph-mask-color=000000&gloss=true)!
-
-[Claim My Badge!](http://toolness.github.io/chicago-badge-studio/studio.html?bg=subtlepattern&bg-color=5270E9&bg-subtlepattern=back_pattern.png&bg-url=https%3A%2F%2Fgithub.com%2FTheLady%2Fascendproject%2Fblob%2F3699316001abfd3fd451d46ee3694d91cd641ed2%2Fparticipants%2Fportland%2Fcandida%2Fimages%2Fintro_to_ffox.png&glyph=noun&glyph-noun=Anchor.png&glyph-url=&glyph-scale=1.0&glyph-mask=true&glyph-mask-color=000000&gloss=true)
+[Claim My Badge!]https://badges.mozilla.org/en-US/badges/claim/94x9wp)

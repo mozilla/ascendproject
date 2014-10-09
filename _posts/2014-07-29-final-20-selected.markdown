@@ -28,7 +28,7 @@ application that collected interest.
 * June 30th:  Applications closed
 * July 1st:  Email to applicants (44) regarding step 2*
 * July 20th:  Close of step 2 time window
-* July 22-25th:  Interviews with applicants who completed [step 2](update/2014/07/01/application-closed-time-for-round-2/) (24)
+* July 22-25th:  Interviews with applicants who completed [step 2](/update/2014/07/01/application-closed-time-for-round-2/) (24)
 * July 25th:  Notification of selection decision
 * July 29th: Open House @ Mozilla with selected participants
 
