@@ -5,7 +5,6 @@ rvm:
 # branch whitelist
 branches:
   only:
-  - travis       # test the travis branch
   - gh-pages     # test the gh-pages branch
   - /pages-(.*)/ # test every branch which starts with "pages-"
 
