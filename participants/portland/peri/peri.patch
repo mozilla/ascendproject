@@ -1,0 +1,24 @@
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..9661b1e 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+ 
+ <!ENTITY backCmd.label                "Back">
+-<!ENTITY backButton.tooltip           "Go back one page">
++<!ENTITY backButton.tooltip           "Go back 18 pages">
+ <!ENTITY forwardCmd.label             "Forward">
+ <!ENTITY forwardButton.tooltip        "Go forward one page">
+ <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+@@ -762,8 +762,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
+      a CSS length value. -->
+ <!ENTITY pluginNotification.width "28em">
+ 
+-<!ENTITY tabCrashed.header "Tab crashed">
+-<!ENTITY tabCrashed.message "Well, this is embarrassing. We tried to display this Web page, but it's not responding.">
++<!ENTITY tabCrashed.header "Tab done crashed">
++<!ENTITY tabCrashed.message "I done messed up yer browser. We tried to display this Web page, but it's not responding.">
+ <!ENTITY tabCrashed.checkSendReport "Tell &vendorShortName; about this crash so they can fix it.">
+ <!ENTITY tabCrashed.tryAgain "Try Again">
+ 

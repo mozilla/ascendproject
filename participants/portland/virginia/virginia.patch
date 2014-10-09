@@ -1,0 +1,41 @@
+diff --git a/browser/base/content/tabbrowser.xml b/browser/base/content/tabbrowser.xml
+index b7f829c..924f1a7 100644
+--- a/browser/base/content/tabbrowser.xml
++++ b/browser/base/content/tabbrowser.xml
+@@ -1593,6 +1593,13 @@
+ 
+             this.tabContainer.appendChild(t);
+ 
++            // Start of move tab patch =lukas =virginia
++            // Get the index of the current tab
++            var newIndex;  
++            oldIndex = this.mTabContainer.selectedIndex;
++            // the new index will be one to the left
++            newIndex = oldIndex - 1;
++
+             // If this new tab is owned by another, assert that relationship
+             if (aOwner)
+               t.owner = aOwner;
+@@ -1705,6 +1712,9 @@
+             evt.initEvent("TabOpen", true, false);
+             t.dispatchEvent(evt);
+ 
++            //Making the move of the tab at the end of method =lukas =virginia
++            this.moveTabTo(t, newIndex);
++
+             // If we didn't swap docShells with a preloaded browser
+             // then let's just continue loading the page normally.
+             if (!docShellsSwapped && !uriIsAboutBlank) {
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..d09b149 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+ <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+ <!ENTITY reloadCmd.label              "Reload">
+-<!ENTITY reloadButton.tooltip         "Reload current page">
++<!ENTITY reloadButton.tooltip         "EXCELSIOR!">
+ <!ENTITY stopCmd.label                "Stop">
+ <!ENTITY stopCmd.macCommandKey        ".">
+ <!ENTITY stopButton.tooltip           "Stop loading this page">

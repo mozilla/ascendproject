@@ -1,0 +1,3 @@
+My first bug simply entailed extending the `about:` whitelist to include itself and a few other items. At first I was tempted to refactor such a long long long regex literal, but I let that go. So, I test my fix in a VM, it works, but when I want to create a patch via git diff > output.patch, I trip myself up: I committed the patch before attempting to use diff. Thus, I learned the importance of avoiding premature committment (and `git diff --staged`).
+
+Now o_O
