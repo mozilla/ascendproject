@@ -39,7 +39,7 @@ So far. I have only been able able to compile firefox, but I got stuck in the pr
 
 Today we also got to install MozMill as a test tool that makes testing automatic. We got to make some testing and have public results. After some hours trying to figure it out. I got the results in the that I like: 
 
-[http://mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3bc466](test results)
+[test results](http://mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3bc466)
 
 Not that I understand them.
 

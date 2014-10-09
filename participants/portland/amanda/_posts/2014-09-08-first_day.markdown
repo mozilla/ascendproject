@@ -1,8 +1,0 @@
----
-layout: post
-title:  "First Day - test blog post"
-categories: amanda
----
-
-Here we are on the second day of Ascend.  Revisit this space to read my Week 1 blog!
-

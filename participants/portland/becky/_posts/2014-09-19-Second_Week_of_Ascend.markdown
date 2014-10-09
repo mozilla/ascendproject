@@ -18,6 +18,6 @@ Thursday we needed to figure out how to run a Mozmill test but once I got it goi
 
 The really cool [report!](http://mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3bd408)
 
-Friday we've been working on our blog posts and [tutorial](participants/portland/becky/2014/09/19/How_to_do_a_Thing/) and probably something exciting and new!
+Friday we've been working on our blog posts and [tutorial](/participants/portland/becky/2014/09/19/How_to_do_a_Thing/) and probably something exciting and new!
 
 
