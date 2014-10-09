@@ -30,7 +30,7 @@ guest speakers from SuMo user advocacy team (from Monday): Gregg, Ilana, Chang. 
 lunch: out to food carts again (I got Indian again because it's awesome)
 [FILED FIRST BUG](https://bugzilla.mozilla.org/show_bug.cgi?id=1068896)! and then [two](https://bugzilla.mozilla.org/show_bug.cgi?id=1068818) [more](https://bugzilla.mozilla.org/show_bug.cgi?id=1068993) bugs! Feeling accomplished!
 
-Upon reflection, have determined that my frustration with Popcorn Maker [last Friday](http://ascendproject.org/participants/portland/virginia/2014/09/12/Making-is-Hard/) probably stems from issues/bugs with Popcorn Maker more than any shortcomings of my own. Interesting that I blamed myself first before blaming the application. I’ve tried a bit more to fix it, still not able to achieve desired results. Would like to spend some time at some point learning more about Popcorn Maker, identify and report particular bugs if I can. I may end up remaking my project altogether because I can't seem to make it work as it is.
+Upon reflection, have determined that my frustration with Popcorn Maker [last Friday](/participants/portland/virginia/2014/09/12/Making-is-Hard/) probably stems from issues/bugs with Popcorn Maker more than any shortcomings of my own. Interesting that I blamed myself first before blaming the application. I’ve tried a bit more to fix it, still not able to achieve desired results. Would like to spend some time at some point learning more about Popcorn Maker, identify and report particular bugs if I can. I may end up remaking my project altogether because I can't seem to make it work as it is.
 
 Thu 9/18
 week 2 day 4
@@ -66,6 +66,6 @@ Began looking at ["good first bugs" in Bugzilla](https://bugzilla.mozilla.org/bu
 
 Found another broken link, [filed bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1070069).
 
-Wrote a tutorial blog with screenshots; could be about anything we've learned this week. I chose [installing Mozmill](http://ascendproject.org/participants/portland/virginia/2014-09-19-mozmill-installation-tutorial) because the instructions in MDN were not very clear to me when I was trying to install it yesterday.
+Wrote a tutorial blog with screenshots; could be about anything we've learned this week. I chose [installing Mozmill](/participants/portland/virginia/2014/09/19/mozmill-installation-tutorial) because the instructions in MDN were not very clear to me when I was trying to install it yesterday.
 
 Closed out the day/week with a Mozilla Cantina! Invited friends to party with us in the office, played Rock Band. :) I feel so grateful to be here; every day I'm reminded of what an amazing opportunity this is, and I appreciate Lukas and Kronda and Mozilla so much! This is a pretty amazing time to be a woman transitioning into the tech industry, and even though my career future after Ascend is still unclear to me, I feel optimistic.

@@ -16,7 +16,7 @@ Personally, I found the set up to be really fun (you can probably find quite a f
 
 ### Register a Domain
 
-So... yes, website registration.  I did a bit of research (admittedly, I did a day or two of research previously) and decided to go with [NameCheap](www.namecheap.com).  They are running a couple of [specials this month](https://www.namecheap.com/promos/coupons.aspx) - download their iOS app and use code [NCIOS](https://www.namecheap.com/mobile.aspx) for a price which is roughly half off the price of a domain for a year.  
+So... yes, website registration.  I did a bit of research (admittedly, I did a day or two of research previously) and decided to go with [NameCheap](https://www.namecheap.com).  They are running a couple of [specials this month](https://www.namecheap.com/promos/coupons.aspx) - download their iOS app and use code [NCIOS](https://www.namecheap.com/mobile.aspx) for a price which is roughly half off the price of a domain for a year.  
 
 I had picked out a couple of toddler inspired domains (kittycatninjawitch, Mangkin, whalessayoo-oo-oo, ...) and ultimately went with just my own plain given name.  [www dot amanda houle dot com](http://www.amandahoule.com).  (I guess it also didn't sound good to use my IRC nickname as a web address:  "Yes, you can find me online at www.ahoule.com!").  Go ahead, try and say it outloud:  "I'm at A-HOOL dot com."  Maybe I'll register that domain for my not-so-happy rants later on.  
 
