@@ -30,8 +30,8 @@ Join in!
 
 This week's links:
 
-* I'm writing a tutorial for reporting a bug!  [check it_](../_posts/2014-09-19_Report_a_Bug_Tutorial.md)
-* I ran some automation today!  [What to see?](mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3b84a1)
+* I'm writing a tutorial for reporting a bug!  [check it_](/participants/portland/amanda/2014/09/19/Report_a_Bug_Tutorial)
+* I ran some automation today!  [What to see?](http://mozmill-crowd.blargon7.com/#/functional/report/2f982f72826307fed840a3b11c3b84a1)
 * My first bug report:  [on Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1068376)
 
 
