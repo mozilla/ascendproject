@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Insert Title Here"
+title:  "Progress"
 author: Lisa Hewus Fresh
-date:   2014-
+date:   2014-10-06
 categories: lisa
 ---
 
