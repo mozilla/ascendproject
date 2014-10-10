@@ -118,8 +118,11 @@ GEM
       hitimes
     toml (0.1.1)
       parslet (~> 1.5.0)
+<<<<<<< HEAD
     typhoeus (0.6.9)
       ethon (>= 0.7.1)
+=======
+>>>>>>> a81736a31b7c723665da374da6690186ac3d4b25
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     yajl-ruby (1.1.0)

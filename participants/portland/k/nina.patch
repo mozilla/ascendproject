@@ -7,7 +7,7 @@ index b7f829c..2241087 100644
  
              this.tabContainer.appendChild(t);
 +            
-+           // Start of move tab patch =lukas
++           // Start of move tab patch = k Alcaraz
 +            // Get the index of the current tab
 +            var newIndex;  
 +            oldIndex = this.mTabContainer.selectedIndex;
@@ -23,10 +23,10 @@ index b7f829c..2241087 100644
              evt.initEvent("TabOpen", true, false);
              t.dispatchEvent(evt);
 +            
-+            // Making the move of the tab at the end of method =lukas 
++            // Making the move of the tab at the end of method = k Alcaraz
 +            this.moveTabTo(t, newIndex);
 +
-+
++ 
  
              // If we didn't swap docShells with a preloaded browser
              // then let's just continue loading the page normally.
@@ -43,3 +43,4 @@ index 1d9c509..ef4a2e7 100644
  <!ENTITY navbarOverflow.label                "More tools…">
  
  <!-- Tab context menu -->
+  
