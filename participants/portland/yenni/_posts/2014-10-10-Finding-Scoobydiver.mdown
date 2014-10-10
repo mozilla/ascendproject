@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Finding Scoobydiver"
+author: Yenni
+date: 2014-10-10
+cetegories: yenni
+---
+
+Being a part of a community is a great feeling- having a unified sense of identity, or at least knowing you are all working towards a common goal. I suppose an analogy can be made about a drop in a bucket or an ocean to signify the magnitude of the experience, but I will leave that for the rhetoric lovers of the group. Ascend has given me a fast lane pass to joining a community that transends space and time. I see it more as a movement, and in other parts of the world it is.
+
+The Open Source and Open Web World is one of the biggest movements of human existance. Bold statement. I'll let you sit with that for a bit. It really is though. We, the Ascenders and I, were fortunate enough to have a visitor in our space last week. Michael Hoye, whom is a long time contributor for the movement and currently the Engineering Community Manager. He was kind enough to hold space for our questions about being first time contributors. Michael mentioned that Bugzilla can be considered a social network, and ultimately how the world would be changed by saving the open web. Noble goal. 
+
+I have been fixated on learning the motivation behind those that are in the Open Source community. How they got exposed, how long they've been involved, and what it means to them. Unfortunately, I have found that those invloved in the Open Source community have an unspoken understanding of the importance of the movement, and seldom share their story. 
+
+I waited till the questions in the room died down, since my questions were less technical and more related to passion. I asked him a question about the demographics of those contributing to the movement, something I have been fascinated with since Ascenders are made to change the face of it all- or at least make a slight impact in those regards. 
+
+He gave an eloquent response that reminded me of every other rant I've heard about the lack of diversity, until it wasn't. Until he mentioned a contributor that has made a significant impact on multiple levels of Firefox. This contributor, known as ScoobyDiver, has an unknown identity. Apparently, this code magician has been known to fix bugs, contribute to documentation, and overall functionality of Mozilla products. Michael mentioned that multiple people have wanted to identify the magical contributor and unearth their origins without sucess. There have been many that attempt to follow time stamps of contributions in attempts of associating with location of waking work hours. Stories have been made of this contributor, this legend. Some speculate that it may be a group of people that work together.
+
+Whatever te case may be, Scoobydiver has made a notable impact to a massive movement and their story should be known. In my opinion, the legend, is doing a disservice to all who are in the community and all whom wish to join by remaining undesclosed. 
+
+The movement is so important, that every voice needs to be heard. Every journey leading up to becoming a citizen of the community is one worth documenting and sharing. 
+
+If you're out there Scoobydiver, tell us who you are and why you do it. Inspire the next legend. 

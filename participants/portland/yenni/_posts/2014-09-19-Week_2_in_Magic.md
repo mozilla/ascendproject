@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Reality of Magic"
+author: Yenni
 date: 2014-09-19
 cetegories: yenni
 ---
