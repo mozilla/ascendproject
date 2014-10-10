@@ -3,6 +3,7 @@ layout: post
 title:  "Third Week"
 date:   2014-09-24
 categories: maryanne
+author: Mary Anne Thygesen
 ---
 
 #Third Week Middle of Light
