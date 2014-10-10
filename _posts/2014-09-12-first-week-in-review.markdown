@@ -98,7 +98,7 @@ daily push/pull requests in order to keep this knowledge fresh in their minds.  
 now more blog posts up and once I push this one I'm going to go get them attached to people's bios on
 the participants page.
 
-[agreements]: https://github.com/mozilla/ascendproject/blob/gh-pages/course_materials/class_agreements.md
+[agreements]: https://github.com/mozilla/ascendproject/blob/gh-pages/course_materials/policies/_posts/2014-09-08-class-agreements.md 
 [strength_finder]: https://strengths.gallup.com
 [hack]: https://github.com/mozilla/ascendproject/commit/1693aaa4600d1324e49742568cb173f10c2dd3e0
 [ascendrepo]: http://github.com/mozilla/ascendproject
