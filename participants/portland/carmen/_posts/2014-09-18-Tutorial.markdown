@@ -20,9 +20,9 @@ The first step to using Git to contribute to your team is to understand some voc
 
 What is Git?  Here's a picture directly from the source, git-scm.com :
 
-![alt text](images/git_scm_site.png)
+![alt text](/participants/portland/carmen/images/git_scm_site.png)
 
-![alt text](images/git_explanation.png)
+![alt text](/participants/portland/carmen/images/git_explanation.png)
 
 Programmers (and people who use computers) make changes to files all the time.  When people work together, they're all making changes to files, and then those files will be combined into the team's project.  Git is a system designed to help people be more aware of how each team member changes the files.
 
@@ -36,7 +36,7 @@ People who use Git to track changes to files can store their team projects and t
 
 Here's a picture from [GitHub](https://github.com):
 
-![alt text](images/github_bootcamp)
+![alt text](/participants/portland/carmen/images/github_bootcamp.png)
 
 GitHub has been such a useful tool for our work in Ascend!
 
@@ -68,13 +68,13 @@ When we learned to use GitHub, our teachers said to me:
 
 1) Fork your own Repo,
 
-![alt text](images/forking.png)
+![alt text](/participants/portland/carmen/images/forking.png)
 
 "Forking" means copying a repository of files to your personal GitHub account.
 
 2) git checkout your branches,
 
-![alt text](images/branches.png)
+![alt text](/participants/portland/carmen/images/branches.png)
 
 This is a command I typed into my Terminal, which you can find on a Mac by typing Command-Space and writing "Terminal".
 
@@ -86,13 +86,13 @@ My text editor is [Sublime Text](http://www.sublimetext.com/).  Most of us downl
 
 4) git add to the stage,
 
-![alt text](images/git_add.png)
+![alt text](/participants/portland/carmen/images/git_add.png)
 
 Typing "git add ." with a period at the end (as shown) will tell Git to track all the changed files in your current directory!  That means that all the changes you have made (like additions and deletions) are just a step away from being committed as final!
 
 5) Review your git status,
 
-![alt text](images/git_status.png)
+![alt text](/participants/portland/carmen/images/git_status.png)
 
 As you work with Git, "git status" will be your good friend!  Lisa taught me that it's important to check your git status often, to make sure that you're only going to commit the changes you want, and to make sure that committed files have made it past the stage to the final production.  As you type various commands, git status will be your road-map for what you're doing.
 
@@ -102,7 +102,7 @@ Typing "git commit" will finalize your staged changes, making them ready to be s
 
 7) Write a comment for your team,
 
-![alt text](images/comment.png)
+![alt text](/participants/portland/carmen/images/comment.png)
 
 Using the format of git commit -m "comment" will tell your project leaders why you made your commit.
 
@@ -124,7 +124,7 @@ You can click your own username to visit your profile page!
 
 11) Find the team repo,
 
-![alt text](images/team_repo.png)
+![alt text](/participants/portland/carmen/images/team_repo.png)
 
 Click the team repo to view its files!
 
@@ -132,11 +132,11 @@ Click the team repo to view its files!
 
 When you're looking at your forked copy of the team repo on GitHub, there's a category button off to the right side of your screen:
 
-![alt text](images/pull_request)
+![alt text](/participants/portland/carmen/images/pull_request.png)
 
 When you click that category, you'll see a button for creating a pull request!
 
-![alt text](images/pull_request_create)
+![alt text](/participants/portland/carmen/images/pull_request_create.png)
 
 You can also write comments to talk about your changes and how they can be included in the team's files.
 

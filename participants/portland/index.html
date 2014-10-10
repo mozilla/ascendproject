@@ -30,9 +30,9 @@ title: Bio Page for Portland Ascend Participants
 
 			<div class="pic" style="display:inline">
 				{% if participant.image %}
-					<img src="/images/portland_participants/{{ participant.image }}" width="400" />
+                <img src="/images/portland_participants/{{ participant.image }}" width="400" alt="Picture of {{ participant.name }}" />
 				{% else %}
-				  <img src="/images/ascend_one_color_image_placeholder.png" width="150" />
+				  <img src="/images/ascend_one_color_image_placeholder.png" width="150" alt="Placeholder" />
 				 {% endif %}
 			</div>
 

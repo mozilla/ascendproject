@@ -28,6 +28,6 @@ From day one to day five, anxiety transforms into excitement, confidence and it'
 
 Links to some of this week's work:
 
-* Appmaker - [How I Got Here](https://far-mine-545.webmak.es/install/) app (in progress)
+* Appmaker - [How I Got Here](https://far-mine-545.webmak.es/) app (in progress)
 * GitHub - [Ascend Project](https://github.com/whyqqqqq/ascendproject)  - Look at my code!
 * Badge - [Removing Obstacles Reward](https://badges.mozilla.org/en-US/badges/claim/f4jvup) - I made this!

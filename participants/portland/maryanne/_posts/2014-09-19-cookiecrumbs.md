@@ -24,6 +24,7 @@ author: Mary Anne Thygesen
 
 
 
+<<<<<<< HEAD
 ![alt text](images/Screen Shot 2014-09-18 at 11.08.42 AM.png)
 ![alt text](images/Screen Shot 2014-09-18 at 11.10.22 AM.png)
 ![alt text](images/Screen Shot 2014-09-18 at 11.11.22 AM.png)
@@ -33,5 +34,15 @@ author: Mary Anne Thygesen
 
 ![alt text](images/cake.png)
 
+=======
+![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-08-42.png)
+![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-10-22.png)
+![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-11-22.png)
+![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-11-40.png)
+![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-12-35.png)
+![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-28-52.png)
+
+![cake](/participants/portland/maryanne/images/cake.png)
+>>>>>>> b4af0d3f502e2da05840b648f06b4f5707e926c4
 [cake badge]
 (http://toolness.github.io/chicago-badge-studio/studio.html?bg=color&bg-color=6D33B0&bg-subtlepattern=flowers.png&bg-url=&glyph=noun&glyph-noun=Cake.png&glyph-url=&glyph-scale=1.2&glyph-mask=true&glyph-mask-color=FFAA54&gloss=false)
