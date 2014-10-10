@@ -2,6 +2,7 @@
 layout: post
 title:  "end of the first week"
 date:   2014-09-12
+author: "Barbara Miller"
 categories: barbara
 ---
 

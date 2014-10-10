@@ -2,6 +2,7 @@
 layout: post
 title:  "first day at ascend project"
 date:   2014-09-08
+author: "Barbara Miller"
 categories: barbara
 ---
 

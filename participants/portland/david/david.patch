@@ -1,0 +1,219 @@
+diff --git a/browser/base/content/tabbrowser.xml b/browser/base/content/tabbrowser.xml
+index b7f829c..76786ae 100644
+--- a/browser/base/content/tabbrowser.xml
++++ b/browser/base/content/tabbrowser.xml
+@@ -1593,6 +1593,13 @@
+ 
+             this.tabContainer.appendChild(t);
+ 
++            //start of move tab patch =david
++            // Get the index of the current tab
++            var newIndex;
++            oldIndex = this.mTabContainer.selectedIndex;
++            //the new index will be one to the left
++            newIndex = oldIndex - 1;
++
+             // If this new tab is owned by another, assert that relationship
+             if (aOwner)
+               t.owner = aOwner;
+@@ -1705,6 +1712,9 @@
+             evt.initEvent("TabOpen", true, false);
+             t.dispatchEvent(evt);
+ 
++            // Making the move of the tab at the end of method =david
++            this.moveTabTo(t, newIndex);
++
+             // If we didn't swap docShells with a preloaded browser
+             // then let's just continue loading the page normally.
+             if (!docShellsSwapped && !uriIsAboutBlank) {
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..e54935c 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -3,7 +3,7 @@
+    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+ 
+ <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
++<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+ 
+ <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+ <!ENTITY mainWindow.title "&brandFullName;">
+@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+ <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+ <!ENTITY reloadCmd.label              "Reload">
+-<!ENTITY reloadButton.tooltip         "Reload current page">
++<!ENTITY reloadButton.tooltip         "fwdfresh">
+ <!ENTITY stopCmd.label                "Stop">
+ <!ENTITY stopCmd.macCommandKey        ".">
+ <!ENTITY stopButton.tooltip           "Stop loading this page">
+@@ -177,7 +177,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY locationItem.title           "Location">
+ <!ENTITY searchItem.title             "Search">
+ 
+-<!-- Toolbar items --> 
++<!-- Toolbar items -->
+ <!ENTITY homeButton.label             "Home">
+ 
+ <!ENTITY tabGroupsButton.label        "Tab Groups">
+@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY historySidebarCmd.commandKey   "h">
+ 
+ <!ENTITY toolsMenu.label              "Tools">
+-<!ENTITY toolsMenu.accesskey          "T"> 
++<!ENTITY toolsMenu.accesskey          "T">
+ 
+ <!ENTITY keywordfield.label           "Add a Keyword for this Search…">
+ <!ENTITY keywordfield.accesskey       "K">
+@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
+ <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+ 
+-<!ENTITY fileMenu.label         "File"> 
++<!ENTITY fileMenu.label         "File">
+ <!ENTITY fileMenu.accesskey       "F">
+ <!ENTITY newNavigatorCmd.label        "New Window">
+ <!ENTITY newNavigatorCmd.key        "N">
+@@ -290,47 +290,47 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY newPrivateWindow.label     "New Private Window">
+ <!ENTITY newPrivateWindow.accesskey "W">
+ 
+-<!ENTITY editMenu.label         "Edit"> 
+-<!ENTITY editMenu.accesskey       "E"> 
+-<!ENTITY undoCmd.label            "Undo">  
+-<!ENTITY undoCmd.key            "Z">  
+-<!ENTITY undoCmd.accesskey          "U"> 
+-<!ENTITY redoCmd.label            "Redo">  
+-<!ENTITY redoCmd.key            "Y">  
+-<!ENTITY redoCmd.accesskey          "R"> 
+-<!ENTITY cutCmd.label           "Cut">  
+-<!ENTITY cutCmd.key             "X">  
+-<!ENTITY cutCmd.accesskey         "t"> 
+-<!ENTITY copyCmd.label            "Copy">  
+-<!ENTITY copyCmd.key            "C">  
+-<!ENTITY copyCmd.accesskey          "C"> 
+-<!ENTITY pasteCmd.label           "Paste">  
+-<!ENTITY pasteCmd.key           "V">  
+-<!ENTITY pasteCmd.accesskey         "P"> 
+-<!ENTITY deleteCmd.label          "Delete">  
+-<!ENTITY deleteCmd.key            "D">  
+-<!ENTITY deleteCmd.accesskey        "D"> 
+-<!ENTITY selectAllCmd.label         "Select All">  
+-<!ENTITY selectAllCmd.key         "A">  
+-<!ENTITY selectAllCmd.accesskey       "A"> 
++<!ENTITY editMenu.label         "Edit">
++<!ENTITY editMenu.accesskey       "E">
++<!ENTITY undoCmd.label            "Undo">
++<!ENTITY undoCmd.key            "Z">
++<!ENTITY undoCmd.accesskey          "U">
++<!ENTITY redoCmd.label            "Redo">
++<!ENTITY redoCmd.key            "Y">
++<!ENTITY redoCmd.accesskey          "R">
++<!ENTITY cutCmd.label           "Cut">
++<!ENTITY cutCmd.key             "X">
++<!ENTITY cutCmd.accesskey         "t">
++<!ENTITY copyCmd.label            "Copy">
++<!ENTITY copyCmd.key            "C">
++<!ENTITY copyCmd.accesskey          "C">
++<!ENTITY pasteCmd.label           "Paste">
++<!ENTITY pasteCmd.key           "V">
++<!ENTITY pasteCmd.accesskey         "P">
++<!ENTITY deleteCmd.label          "Delete">
++<!ENTITY deleteCmd.key            "D">
++<!ENTITY deleteCmd.accesskey        "D">
++<!ENTITY selectAllCmd.label         "Select All">
++<!ENTITY selectAllCmd.key         "A">
++<!ENTITY selectAllCmd.accesskey       "A">
+ <!ENTITY preferencesCmd2.label       "Options">
+ <!ENTITY preferencesCmd2.accesskey     "O">
+ <!ENTITY preferencesCmdUnix.label       "Preferences">
+-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
++<!ENTITY preferencesCmdUnix.accesskey     "n">
+ 
+ <!ENTITY clearRecentHistory.label               "Clear Recent History…">
+ 
+ <!ENTITY privateBrowsingCmd.commandkey          "P">
+ 
+-<!ENTITY viewMenu.label         "View"> 
+-<!ENTITY viewMenu.accesskey       "V"> 
++<!ENTITY viewMenu.label         "View">
++<!ENTITY viewMenu.accesskey       "V">
+ <!ENTITY viewTabGroups.label            "Tab Groups">
+ <!ENTITY viewTabGroups.accesskey        "G">
+-<!ENTITY viewToolbarsMenu.label       "Toolbars"> 
+-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
++<!ENTITY viewToolbarsMenu.label       "Toolbars">
++<!ENTITY viewToolbarsMenu.accesskey     "T">
+ <!ENTITY viewSidebarMenu.label "Sidebar">
+ <!ENTITY viewSidebarMenu.accesskey "e">
+-<!ENTITY viewCustomizeToolbar.label       "Customize…"> 
++<!ENTITY viewCustomizeToolbar.label       "Customize…">
+ <!ENTITY viewCustomizeToolbar.accesskey     "C">
+ 
+ <!ENTITY historyMenu.label "History">
+@@ -362,7 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+ <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+      same context menu as menubarCmd and personalbarCmd, so they should have
+-     different access keys. customizeMenu.moveToToolbar and 
++     different access keys. customizeMenu.moveToToolbar and
+      customizeMenu.moveToPanel are mutually exclusive, so can share access
+      keys.  -->
+ <!ENTITY customizeMenu.moveToPanel.label "Move to Menu">
+@@ -379,7 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY urlbar.accesskey             "d">
+ <!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+ 
+-<!-- 
++<!--
+   Comment duplicated from browser-sets.inc:
+ 
+   Search Command Key Logic works like this:
+@@ -424,7 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY reloadFrameCmd.accesskey     "R">
+ <!ENTITY viewPartialSourceForSelectionCmd.label "View Selection Source">
+ <!ENTITY viewPartialSourceForMathMLCmd.label    "View MathML Source">
+-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
++<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
+          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+ <!ENTITY viewPartialSourceCmd.accesskey "e">
+ <!ENTITY viewPageSourceCmd.label      "View Page Source">
+@@ -488,7 +488,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
+ <!ENTITY copyImageCmd.label           "Copy Image Location">
+ <!ENTITY copyImageCmd.accesskey       "o">
+ <!ENTITY copyImageContentsCmd.label   "Copy Image">
+-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
++<!ENTITY copyImageContentsCmd.accesskey  "y">
+ <!ENTITY copyVideoURLCmd.label        "Copy Video Location">
+ <!ENTITY copyVideoURLCmd.accesskey    "o">
+ <!ENTITY copyAudioURLCmd.label        "Copy Audio Location">
+@@ -574,19 +574,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
+ 
+ <!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
+ 
+-<!ENTITY quitApplicationCmdWin.label       "Exit"> 
++<!ENTITY quitApplicationCmdWin.label       "Exit">
+ <!ENTITY quitApplicationCmdWin.accesskey   "x">
+ <!ENTITY quitApplicationCmdWin.tooltip     "Exit &brandShortName;">
+ <!ENTITY goBackCmd.commandKey "[">
+ <!ENTITY goForwardCmd.commandKey "]">
+-<!ENTITY quitApplicationCmd.label       "Quit"> 
++<!ENTITY quitApplicationCmd.label       "Quit">
+ <!ENTITY quitApplicationCmd.accesskey   "Q">
+ <!ENTITY quitApplicationCmdMac.label    "Quit &brandShortName;">
+ <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+ <!ENTITY quitApplicationCmdUnix.key     "Q">
+ 
+-<!ENTITY closeCmd.label                 "Close">  
+-<!ENTITY closeCmd.key                   "W">  
++<!ENTITY closeCmd.label                 "Close">
++<!ENTITY closeCmd.key                   "W">
+ <!ENTITY closeCmd.accesskey             "C">
+ 
+ <!ENTITY pageStyleMenu.label "Page Style">
+@@ -772,4 +772,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
+ <!ENTITY appMenuSidebars.label         "Sidebars">
+ 
+ <!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
+-
