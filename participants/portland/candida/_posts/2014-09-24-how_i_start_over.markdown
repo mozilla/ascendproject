@@ -30,5 +30,5 @@ $git push
 
 To commit the changes that I had rescued, I used pop then the normal push process (git add. , etc.) and followed the pull request process on Github.
 
-There is a caveat to this blog post: As with real life, I have to make mistakes publicly because my inner circle is not always equipped to offer the help I need. If there is anything wrong with these steps, feel free to suggest changes the changes you believe I need to make. I may push back if there is a nuance that your suggestion misses or if I need to understand better, but I welcome constructive feedback.
+There is a caveat to this blog post: As with real life, I have to make mistakes publicly because my inner circle is not always equipped to offer the help I need. If there is anything wrong with these steps, feel free to suggest the changes you believe I need to make. I may push for more information if I need to understand better, but I welcome constructive feedback.
 
