@@ -3,6 +3,7 @@ layout: post
 title:  "first_week"
 date:   2014-09-12
 categories: maryanne
+author: Mary Anne Thygesen
 ---
 
 #First Week
