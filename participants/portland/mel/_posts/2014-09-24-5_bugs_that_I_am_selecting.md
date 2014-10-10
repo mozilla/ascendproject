@@ -1,0 +1,19 @@
+---
+layout: post
+title:  5 bugs
+date:   2014-09-24
+categories: Mel
+author: Mel
+---
+
+
+
+
+5 bugs -
+658179* Firefox Bookmarks
+732529 Add-ons  Public Pages
+1053798 Thunderbird Folder & Msg
+917094 Core Video/Audio
+822459* Mozilla QA  Moz tests
+
+* on e-mail CC: list

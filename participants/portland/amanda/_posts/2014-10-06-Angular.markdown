@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Anecdote"
+categories: amanda
+---
+
+Feeling a bit confused, yet happy about that confusion as I think it portrays what experienced developers tell you.
+
+I studied Python and then I went to code school to learn Javascript (full stack: node.js, backbone.js, front end "stuff:" HTML, CSS, bootstrap, etc).  
+
+backbone.js - an MV* - was my weakest link and today:
+
+I am working on a bug in Angular.js!!!!  I plan to revise that statement to read:  "...fixed bug working in Angular.js"   It's something that I would've thought I needed a week to work on due to my lack of ability with front end frameworks.  Let's see! 

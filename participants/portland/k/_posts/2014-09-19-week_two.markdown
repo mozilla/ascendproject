@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "week two"
+date:   2014-09-19
+author: ninja k
+categories: k
+---
+
+My week two
+=====
+----Tuesday
+
+         This  week is going much smoother. I'm feeling much better and more capable. Things are making sense. I feel my mind is opening up and excepting the information we are receiving. I'm feeling very content.
+
+----Wednesday
+
+         Today was a fun day we looked for bugs. I really enjoyed learning this. It was also nice to get out for lunch. It was refreshing. My partner today was good to work with.  I learned alot from here it was nice. 
+
+         http://mozmill-crowd.blargon7.com/db/2f982f72826307fed840a3b11c3c1e1f
+         This is the results from my Autimated testing.
+ 
+-----Thursday
+
+     This is my tutorial. I really liked this one.
+
+     [X]Start here: https://developer.mozilla.org/en-US/docs/Simple_Firefox_build/Linux_and_MacOS_build_preparation and get the bootstrap script to run (you might have to use curl instead of wget)
+
+![1](/participants/portland/k/images/a.png)
+![1](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/a.png)
+
+![2](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/ao.png)
+
+![3](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/bash2.png)
+
+
+[ ] Then https://developer.mozilla.org/en-US/docs/Simple_Firefox_build
+
+[ ]Get the code from git. from your home ~ directory, run:  
+git clone https://git.mozilla.org/integration/gecko-dev.git
+
+
+
+![4](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/bash3.png
+
+![5](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/bash4.png)
+
+![6](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/bash5.png)
+
+c[ ]Cd into gecko-dev repo
+
+![7](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/bash6.png)
+
+[ ]'./mach'
+'./mach build' and if successful --- takes about 1-2 hours
+'./mach run'
+
+![8](https://raw.githubusercontent.com/ninaalcaras/ascendproject/gh-pages/participants/portland/k/images/Fi.png)
+ 
+
+ Well this project that i thought would be simple was not. I lost my pics thankfully lisa helped me retrieve from git-hub they were in my folder under my name participantes. Yet another problem came along. We could not get the pictures to go on to my blog. Thats when Jessica showed me how that was done. We went into my repo and copy the images from there and that took care of the problem. Thank you ladies for all your help today.  
+
+
+
+
+
+
+
+                  
