@@ -26,7 +26,7 @@ Make sure none of the Firefox browsers are open. Then open Terminal. Type in:
 
 After you hit enter it will bring up a profile window like this:
 
-<img src="https://www.evernote.com/shard/s146/sh/a840508b-a019-4530-8594-cdcbd1a14798/a48e2d44a9706cfdc3d2cbdb041a17af/deep/0/Firefox---Choose-User-Profile.png">
+<img src="https://www.evernote.com/shard/s146/sh/a840508b-a019-4530-8594-cdcbd1a14798/a48e2d44a9706cfdc3d2cbdb041a17af/deep/0/Firefox---Choose-User-Profile.png" alt="profile">
 
 Click the "Create a profile" to the left and make one named "aurora", "nightly", "beta", and then you can use your "default" profile for Firefox. Now when you open a browser it will ask you which profile you'd like to use.
 
