@@ -1,12 +1,13 @@
 ---
 layout: post
+author: Tina
 title:  "Dive Into Bugs!"
 author:     Tina
 date:   2014-09-24
 categories: tina
 ---
 
-So we're looking at bugs listed on [bugzilla](bugzilla.mozilla.org) as "good first bugs."
+So we're looking at bugs listed on [bugzilla](https://bugzilla.mozilla.org) as "good first bugs."
 I've found a few that I think seem interesting to work on.
 
 * [1015647](https://bugzilla.mozilla.org/show_bug.cgi?id=1015647) -

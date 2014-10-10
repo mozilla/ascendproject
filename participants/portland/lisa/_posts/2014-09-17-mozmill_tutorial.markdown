@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mozmill Tutorial"
+author: Lisa Hewus Fresh
 date: 2014-09-17
 categories: lisa
 ---

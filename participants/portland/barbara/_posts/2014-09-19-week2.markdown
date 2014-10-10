@@ -2,6 +2,7 @@
 layout: post
 title:  "week two"
 date:   2014-09-19
+author: "Barbara Miller"
 categories: barbara
 ---
 
@@ -9,7 +10,7 @@ This week we got a local fork of the web site running on our machines, and we’
 
 I've written a quick tutorial on using MozTrap to do manual testing.
 
-[how to moztrap](2014/09/17/how-to-moztrap/)
+[how to moztrap](/participants/portland/barbara/2014/09/17/how-to-moztrap/)
 
 Thursday afternoon ended with automated mozmill Firefox testing, and flying Firefox windows! 
 

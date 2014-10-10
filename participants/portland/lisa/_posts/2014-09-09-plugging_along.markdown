@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Plugging Along"
+author: Lisa Hewus Fresh
 date:  2014-09-09 
 categories: lisa 
 ---

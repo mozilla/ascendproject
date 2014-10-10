@@ -10,7 +10,7 @@ This is a pilot project and as it is being developed this repo will hold all the
 * Budgets
 * Resources & Materials
 
-The point is to have all of this in the open and available to anyone who wants to see it, contribute to it, test it, or fork it.
+The point is to have all of this in the open and available to anyone who wants to see it, contribute to it, test it, or fork it. This repo also acts as a sandbox for participants to learn git and build up experience working in a shared project while also providing valuable archiving of assets for the project.
 
 Check out the [homepage][ascend_homepage] for more information.
 
