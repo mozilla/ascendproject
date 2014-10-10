@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dive Into Bugs!"
+author:     Tina
 date:   2014-09-24
 categories: tina
 ---
