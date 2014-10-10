@@ -9,3 +9,5 @@ Agenda
 9-9:30am Breakfast
 
 9:30am Checkin & announcements
+
+* Final presentation practice with K & L in 1:1
