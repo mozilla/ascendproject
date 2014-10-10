@@ -4,6 +4,7 @@ layout: post
 title:  "Cookie Crumbs"
 date:   2014-09-18
 categories: maryanne
+author: Mary Anne Thygesen
 ---
 
 #Cookie Crumbs
@@ -19,7 +20,8 @@ categories: maryanne
 	spell check is under view spell check
 
 
-##
+
+
 
 
 
@@ -31,5 +33,6 @@ categories: maryanne
 ![alt text](/participants/portland/maryanne/images/Screen-Shot-2014-09-18-at-11-28-52.png)
 
 ![cake](/participants/portland/maryanne/images/cake.png)
+
 [cake badge]
 (http://toolness.github.io/chicago-badge-studio/studio.html?bg=color&bg-color=6D33B0&bg-subtlepattern=flowers.png&bg-url=&glyph=noun&glyph-noun=Cake.png&glyph-url=&glyph-scale=1.2&glyph-mask=true&glyph-mask-color=FFAA54&gloss=false)
