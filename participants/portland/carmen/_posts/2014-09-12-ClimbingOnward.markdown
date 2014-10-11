@@ -15,9 +15,7 @@ What's great about the Ascend Project is that we're all taking in the energy of 
 
 It's been a long time since I've had such a jam-packed schedule as I do with Ascend.  I've become accustomed to independent projects, and my schedule has always been flexible.  Making the 9 to 5 schedule each day has made me feel a little more sleep-deprived, but every time I walk to the office, I feel a rush of inspiration about the new day.  In one short week, I have learned so much, and each day brings new challenge with new hope. 
 
-So far, I've learned how to use Vim, debugged the Evil Snowperson's photo theft, explored the command line prompts, researched various topics for presentations, explored Mozilla's latest innovations, solved problems with my classmates, contributed to the Etherpad, participated in several teaching moments, identified some bugs, and started designing an HTML page with Webmaker's Thimble!  Here's the draft of my page (which I'll need to improve when I can):
-
-https://heartsongpurple.makes.org/thimble/LTIwOTEzMTkwNDA=/heartsongpurple-carmens-awesome-ascend-webpage-project-fri-sep-12-2014
+So far, I've learned how to use Vim, debugged the Evil Snowperson's photo theft, explored the command line prompts, researched various topics for presentations, explored Mozilla's latest innovations, solved problems with my classmates, contributed to the Etherpad, participated in several teaching moments, identified some bugs, and started designing an HTML page with Webmaker's Thimble!  Here's the draft of [my page](https://heartsongpurple.makes.org/thimble/LTIwOTEzMTkwNDA=/heartsongpurple-carmens-awesome-ascend-webpage-project-fri-sep-12-2014) (which I'll need to improve when I can).
 
 On Friday this week, we had an amazing Maker Party, where we paired up and researched resources from Mozilla Webmaker to teach back to the class.
 

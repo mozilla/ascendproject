@@ -22,9 +22,9 @@ Running the calls in Aurora helped us to identify some bugs, and to explore what
 
 Here are some Mozilla resources we used to help us identify, report, and reproduce bugs:
 
-+ [MozTrap](https://moztrap.mozilla.org) can show you a list of tests you can run in your own Firefox browser.  When you specify your build and browser version, you can mark each specific test as passing or failing.  If the instructions are unclear, you can even write in comments to ask for clarity.  MozTrap is a great starting point to get an idea of what a test looks like.  The site helped us understand how a "bug" is a specific browser activity that's not working correctly.
++	[MozTrap](https://moztrap.mozilla.org) can show you a list of tests you can run in your own Firefox browser.  When you specify your build and browser version, you can mark each specific test as passing or failing.  If the instructions are unclear, you can even write in comments to ask for clarity.  MozTrap is a great starting point to get an idea of what a test looks like.  The site helped us understand how a "bug" is a specific browser activity that's not working correctly.
 
-+ [Mozmill](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Mozmill_tests) helped us set up our own automated testing!  We mostly chose to work in Git for this.  We each had interesting discussions about how to write the most accurate code lines in our terminals to get the automated testing to work.
++	[Mozmill](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Mozmill_tests) helped us set up our own automated testing!  We mostly chose to work in Git for this.  We each had interesting discussions about how to write the most accurate code lines in our terminals to get the automated testing to work.
 
 It took several tries for me to finally understand how the file-path worked, and I wondered if I was the only person who really didn't understand.  When it finally became clear how to make the code line work, I felt so relieved.  I'm thankful for the Ascenders who stuck with me to help me understand.  Then, I got to help another person understand, too!
 
