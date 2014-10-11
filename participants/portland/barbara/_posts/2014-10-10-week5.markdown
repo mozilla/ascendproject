@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Week 5"
+date:   2014-10-10
+author: "Barbara Miller"
+categories: barbara
+---
+
+It’s already Friday?!? 
+
+We had a great day, Tuesday-ish, learning presentation tools with Dia Bondi (I 
+probably haven’t gotten her name quite right).
+
+I’m waiting to hear more on my second patch submission, and I made a third 
+today that I should probably revise a bit, since it splits one file into 
+two new ones, and the patch properly shows only the two new added files.
+
+I aspire to get going on an OPW application this weekend...
