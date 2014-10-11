@@ -18,7 +18,7 @@ would feel comfortable signing.
 We then did a designed alliance - which means everyone gets to speak out
 about what they needed from our shared space to be able to learn and feel
 safe being here.  We have those agreements digitized now and they are located
-in the repo's [https://github.com/mozilla/ascendproject/blob/gh-pages/course_materials/class_agreements.md][course_materials/class_agreements.md].
+in the repo's [https://github.com/mozilla/ascendproject/blob/gh-pages/course_materials/policies/_posts/2014-09-08-class-agreements.md][course_materials/class_agreements.md].
 
 Debbie was here in Portland for the first day and a half and she helped run
 the Strengths Finder portion.  This involved having the cohort do an online

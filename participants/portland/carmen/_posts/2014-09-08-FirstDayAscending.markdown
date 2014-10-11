@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "First Day **Ascending** the Spiral Staircase"
+title:  "First Day Ascending the Spiral Staircase"
 date:   2014-09-08
+author: Carmen Cordis
 categories: carmen
 ---
 

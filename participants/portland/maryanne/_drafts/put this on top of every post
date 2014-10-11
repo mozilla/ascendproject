@@ -1,0 +1,16 @@
+
+---
+layout: post
+title:  "Title of Your Post"
+date:   YEAR-MONTH-DAY
+categories: your-participant-name
+author: Mary Anne Thygesen
+---
+
+%%%example
+---
+layout: post
+title:  "Monday Septmeber 15 2014"
+date:   2014-09-15
+categories: maryanne
+---

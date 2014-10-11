@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bug Hunting"
+author: Lisa Hewus Fresh
 date:  2014-09-17
 categories: lisa
 ---

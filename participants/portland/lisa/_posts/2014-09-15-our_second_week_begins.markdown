@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Our Second Week Begins"
+author: Lisa Hewus Fresh
 date:   2014-09-15
 categories: lisa
 ---
