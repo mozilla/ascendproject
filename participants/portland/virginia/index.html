@@ -1,8 +1,9 @@
 ---
 layout: blogs
 title: "It's Me, Virginia!"
+author: Virginia Thayer
 ---
- 
+
 <div>
 <ul class="posts">
 {% for post in site.posts %}
@@ -10,7 +11,7 @@ title: "It's Me, Virginia!"
 {% if cat == 'virginia' %}
 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 <span>{{ post.date | date_to_string }}</span> &raquo;
- 
+
 {{ post.content }}
 <hr />
 {% endif %}
