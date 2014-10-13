@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Insert Title Here"
+title:  "Only One More Week"
 author: Lisa Hewus Fresh
-date:   2014-
+date:   2014-10-10
 categories: lisa
 ---
 

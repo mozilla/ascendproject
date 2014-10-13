@@ -19,3 +19,15 @@
 *   Pay attention to spelling. The computer only does what you tell it to do so if you are trying to navigate somewhere or a link you embedded in your blog post claims to be invalid make sure everything is spelled correctly. Close enough won't work. The computer requires the spelling to be exact.
 
 *   Test links in your web browser to make sure they lead to the page you were expecting. If you are still unsure you can always ask another participant to browse to the link on their computer.
+
+*   Make sure your markdown header is formatted correctly and filled out completely. An example of a correctly formatted markdown header looks like:
+
+    <code> 
+    ---  
+    layout: post  
+    title:  "insert title here within quotes"  
+    author: author name  
+    date:   YYYY-MM-DD  
+    categories: participant directory name  
+    ---
+    </code>
