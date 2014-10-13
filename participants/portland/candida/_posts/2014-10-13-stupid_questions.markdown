@@ -12,7 +12,7 @@ categories: candida
 This project – Ascend and specifically, user experience in support of software development – made me realize that I needed to explore the difference between Javascript and HTML5. Here is what I saw on Stack Overflow (a web site created to efficiently answer questions about programming) after a Google search:
 
 1.  Question Closed: Developers, who validate and reject questions and answers on the site using a voting system, had deemed this question invalid.
- ![Question closed.](/participants/portland/candida/images/question_closed.png)
+![Question closed.](/participants/portland/candida/images/question_closed.png)
 
 
 2. I kept reading anyway and discovered that someone else was looking to understand Javascript and HTML5 as well. 
@@ -48,10 +48,16 @@ Websockets](/participants/portland/candida/images/html5_technologies.png)
 
 I don't even know if this answer is right, but it changed my own approach to the question. Is HTML5 a language? A stack? Right now, I don't know, but I am looking forward to going down this rabbit hole when I finish this blog post. So I leave you with this:
 
-As a teacher who adores the [Socratic method] (http://en.wikipedia.org/wiki/Socratic_method), I value questions as part of the learning process. Wikipedia says that the Socratic method “is a form of inquiry and discussion between individuals, based on asking and answering questions to stimulate critical thinking and to illuminate ideas.”
+As a teacher who adores the [Socratic method](http://en.wikipedia.org/wiki/Socratic_method), I value questions as part of the learning process. Wikipedia says that the Socratic method “is a form of inquiry and discussion between individuals, based on asking and answering questions to stimulate critical thinking and to illuminate ideas.”
 
-My inspiration for applying user experience principles to open source development has a lot to do with my passion for questions and their power to move things forward and solving problems that pervade the technology community. A safe environment for questions is not only more pleasant, but it is more responsible and productive to move conversations forward. 
+My inspiration for applying user experience principles to open source development has a lot to do with my passion for questions and their power to solve problems that pervade the technology community. A safe environment for questions is not only more pleasant, but it is a more responsible approach to work. 
   
 [null](/participants/portland/candida/images/html5_technologies.png)be_constructive
 
-We all want to get things done. What does it mean that the quest for answers might continue from here?
+We all want to get things done. What does it mean that the quest for answers might continue from here? It is heartening to see that members of StackOverflow asserted more useful ideas into the conversation. Perhaps we should start with Jayden Lawson's words:
+
+"Be constructive, please."
+
+Such nice manners.
+
+
