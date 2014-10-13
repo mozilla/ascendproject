@@ -3,7 +3,7 @@ layout: post
 title: "How to MozTrap"
 author: Yenni
 date: 2014-09-19
-cetegories: tutorial
+categories: yenni
 ---
 MozTrap sounds intimidating, doesn't it? Something about that name, maybe the Trap part, that makes me not trust it.
 It really is a great thing, and you may not believe it... 

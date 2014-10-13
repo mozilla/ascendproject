@@ -3,7 +3,7 @@ layout: post
 title: "Behind the File Name"
 author: Yenni
 date: 2014-10-02
-cetegories: yenni
+categories: yenni
 ---
 
 There was a week of radio silence in my blogging due to what I like to call -pain brain- it's when my chronic pain becomes so unmanageable that my neurotransmitters decide to focus on causing me to be aware of pain instead of allowing me to think, learn, and generally be productive. Coming out of that state and back in the running of the Ascend pack has been no easy feat. There's So.Much.Learning!

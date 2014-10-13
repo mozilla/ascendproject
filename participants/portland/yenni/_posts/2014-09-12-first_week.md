@@ -3,7 +3,7 @@ layout: post
 title: "A week in wonder"
 author: Yenni
 date: 2014-09-12
-cetegories: yenni
+categories: yenni
 ---
 
 ## A week in wonder.
