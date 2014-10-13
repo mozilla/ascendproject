@@ -2,6 +2,8 @@
 
 *   Case sensitivity for images, filenames, file paths, urls, etc. is critical. For example, <code>My_image.jpg</code> is not the same as <code>my_image.jpg</code> and <code>/sites</code> is not the same as <code>/Sites</code>.
 
+*   Image links need an alt text attribute. If you are using markdown the syntax looks like this <code>![alternate text goes here](path/to/your/image.png)</code> and if you are using html the syntax looks like this <code><img src="path/to/image.jpg" alt="alternate text goes here"></code>
+
 *   Never put spaces in filenames, image names or directory names. Using the Finder to create or edit files and directories makes it very easy to make this mistake. Use the command line and use dashes, camelcase or underscores in your file and directory names.
 
     For example <code>my_file.txt</code> or <code>my-file.txt</code> or <code>myFile.txt</code>
