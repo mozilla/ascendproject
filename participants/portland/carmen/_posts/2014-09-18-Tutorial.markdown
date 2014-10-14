@@ -56,7 +56,7 @@ Version control is really useful because we can actually reverse the process of 
 
 I spoke with K about how she accidentally lost some picture files from her local computer, and it was frustrating to try to figure how to get them back.  It turns out that her GitHub repo still had the files saved, and she got them back by retrieving them from GitHub!  Yay!
 
-I wanted to help myself and others remember the basic format for making changes with Git and GitHub.  It's very basic, and there are many resources to help online, like [this one](https://dl.dropboxusercontent.com/u/8332480/Git%20Index%20Cheat%20Sheet.pdf), but here's a **Git Song** I wrote, set to the tune of the popular "12 Days of Christmas" song.
+I wanted to help myself and others remember the basic format for making changes with Git and GitHub.  It's very basic, and there are many resources to help online but here's a **Git Song** I wrote, set to the tune of the popular "12 Days of Christmas" song.
 
 It's in reverse order, but it kind of follows the song, and Step 8 is like "Five Golden Rings".
 
