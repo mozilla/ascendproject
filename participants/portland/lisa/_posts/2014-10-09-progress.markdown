@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Progress!"
+author: Lisa Hewus Fresh
+date:   2014-10-09
+categories: lisa
+---
+
+Today it was a bit cooler out and it was overcast. It's nice to see the weather changing a bit. Andrew, Michael and I walked together to the Max. Michael is here for a conference and it was starting bright and early. I love that most of the tech conferences we go to start a bit later.
+
+I couldn't wait to get going this morning and honestly the day was kind of a blur so this is possibly completely out of order. I needed to write up a preliminary Best Practices document to add to the Ascend repo so I could finally submit a pull request and get Travis implemented on the mozilla/ascendproject repo. I kind of wrote up the basics of what I remembered having to fix in participant pages and got everything pushed up.
+
+It was a busy day and before I knew it lunch was there. We were having amazing dumplings from The Dump Truck! I just love the curry potato filled ones. I ate a <em>reasonable</em> amount and then it was back to work for me. I had just a bit of time to work on stuff before a guest speaker was coming.
+
+Lennon from Urban Airship came in to talk to us about the company and the two internship opportunities they were going to be providing for Ascenders! This is a really amazing opportunity. I loved what he had to say and love how it will be set up. It's like the perfect landing spot for someone right out of this program. I had already applied to UA before Ascend and never even got a rejection email so I was thinking they didn't want me before so why would they want me now? Anyway it was awesome to hear that they are willing to step up and take two of us on.
+
+I was late for my coaching session with Dino! He was supposed to be here this week but had something unavoidable come up and will be here next week. We had a great session and I can't wait to see him. He's someone I'd totally hang out with and not just because of Ascend.
+
+After coaching I came back to my computer and noticed a comment on my bug. I read it and, uh oh. Jim, who works here at Mozilla and has been a huge help to me, jumped on it and stuck up for me. He was really firm with the code reviewer. Like a lot more firm than I could ever imagine myself being. Yikes. I took my laptop so I could show Lukas and Kronda telling them that I have had a wonderful but short career here at Mozilla. Lukas read it first, commenting with "oh wow" here and there. Kronda read it and there was a bit of silence. Lukas said I shouldn't worry about it at all and that we would just see how things went. Me worry??
+
+At some point Lukas merged in my huge pull request and Travis was alive on Ascend! Woo! Lots of hard work that actually had a beneficial ending. It felt good to finally accomplish something useful. <a href="https://travis-ci.org/mozilla/ascendproject/builds/37538033" target="_blank">Here is our first successful build</a> after merging my PR.
+
+After school I headed down to meet Andrew. We'd be heading to the Portland Perl Monger's meeting where Andrew would be giving his first talk. It was something about turning a CGI app into a Plack app. I don't know what any of this means and none of it became any clearer during or  after. He did a great job though and didn't seem nervous at all. Lots of questions were asked at the end so I guess that's good.
+
+<a href="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-09-19.18.45-e1413001723121.jpg"><img class="aligncenter wp-image-252 size-large" src="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-09-19.18.45-e1413001723121-576x1024.jpg" alt="Andrew speaking at Perl Monger's" width="576" height="1024" /></a>
+
+After Andrew's talk we headed over to Lucky Lab for some dinner and conversation. We had a nice time talking to everyone.
+
+Today I learned how to highlight code blocks in markdown. Not too exciting or complicated I know but it's all I've got at the moment.
