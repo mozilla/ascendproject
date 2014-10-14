@@ -22,8 +22,12 @@ In the morning most the people working on bugs for webmaker got together to talk
 
 Talking with Kate Hudson and Scott Downe
 
-    -So grateful they were able to take the time to meet with us and help set up dev environments.
-    -Jessica and I played musical rooms until we were able to connect with Scott Downe and got some good feed back. Apparently when I submit my patch I'm supposed to click a feedback or a review box to tell the person indicated they should look at it. I didn't know/remember that. So I was holding my breathe thinking it was wrong or the didn't have time to deal with such matters. But now I understand the ? + - for review and feedback.
+*    So grateful they were able to take the time to meet with us and help set up dev environments. 
+*    Jessica and I played musical rooms until we were able to connect with Scott Downe and  
+got some good feed back. Apparently when I submit my patch I'm supposed to click a  
+feedback or a review box to tell the person indicated they should look at it. I didn't  
+now/remember that. So I was holding my breath thinking it was wrong or the didn't have  
+time to deal with such matters. But now I understand the ? + - for review and feedback.
 
 While we were in our webmaker/popcorn meeting we missed a presentation on wordpress which I may need to get a better idea of what I missed.
 
