@@ -1,4 +1,5 @@
-# Welcome to the Ascend Project
+# Welcome to the Ascend Project [![Build Status](https://travis-ci.org/mozilla/ascendproject?branch=gh-pages)](https://travis-ci.org/mozilla/ascendproject)
+
 
 The Ascend Project is a 6 week, full time training program that provides financial support, equipment, meals, transit, and childcare reimbursement in order to remove many of the barriers to immersive learning in Open Source technology.  The goal is to allow participants time and support as they focus on learning common open source practices: IRC, bug trackers, code review, version control, creating & committing patches, as well as the larger opportunities available to those who can leverage the tools and be developers of the open web. 
 
