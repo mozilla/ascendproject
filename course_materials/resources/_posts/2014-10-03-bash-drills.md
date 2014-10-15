@@ -2,6 +2,7 @@
 layout: post
 title:  "Bash Drills"
 date:   2014-10-03
+categories: resources
 ---
 This is a compiled series of exercises from Zed Shaw's [Command Line Crash Course] [1] so we have a one hour drills session to do together. 
 
