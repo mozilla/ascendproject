@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "Week Two: Gaining Momentum"
+title: "Week 2: Gaining Momentum"
 date: 2014-09-19
 categories: virginia
 published: true
