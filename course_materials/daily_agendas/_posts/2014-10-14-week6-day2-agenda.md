@@ -10,7 +10,8 @@ Agenda
 
 9:30am Checkin & announcements
 
-* Kronda - Take your WP site with you
-* 10-12pm Hope HR/Resume skill building
+* 10-12:30pm Hope HR/Resume skill building
+
+LUNCH (Food Carts)
+
 * Working on bug(s)
-* 1hr of presentation prep EOD
