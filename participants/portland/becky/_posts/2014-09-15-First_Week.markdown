@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Week"
+title:  "Week 1"
 author: Becky
 date:   2014-09-15
 categories: becky

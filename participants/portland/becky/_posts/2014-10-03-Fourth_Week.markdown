@@ -25,16 +25,15 @@ You may notice in that image it says assigned to: RebeccaScheffler....because...
 
 The next day I set up my environment. I googled webmaker github and found instructions [here](https://github.com/mozilla/popcorn.webmaker.org). After cloning popcorn I had a very big problem with node. I forgot that we had installed homebrew on our computers earlier. So I googled how to install node and installed it from source. Which took a long time and I kept getting errors. It was all extremely frustrating. My screen was full of errors, by the end of the day I was pretty sure I was going to cry.
 
+<img src="https://www.evernote.com/shard/s146/sh/8a7d4dc0-84da-42c5-a187-bee2c1e36ca3/18dda03d286be6217ee2ac8f73db63a6/deep/0/errors-galore-2.png" alt="errors%20galore%202" />
+
 The next day I worked with Lisa a lot and she helped me walk through the list of errors and actually after we fixed one or two the rest went away too.
-
-
-PUT Screen shots here of all the the errors.
 
 Things ran way more smooth after that. I was able to run "node server" and get a local working popcorn page. That was pretty cool. Really pretty cool.
 
 <img src="https://www.evernote.com/shard/s146/sh/7293e211-92c5-4d5e-a4ec-4460641c6655/db7f73a0722d6b5a6bf98323c0214aa9/deep/0/14,-2-29-PM-(PNG-Image,-1365---681-pixels)---Scaled-(83-).png" alt="14,%202:29%20PM%20(PNG%20Image,%201365%C2%A0%C3%97%C2%A0681%20pixels)%20-%20Scaled%20(83%25)" />
 
-So I started dinking around...right clicked the pop up box and chose the Inspect Element option. There I could hover over code and see where I was working. It took me a bit to find out where I wanted to be. I started with changing the px but I was worried if the text got bigger the box would stay the same and the font would out grow out of the box. I vaguely remember talking about ems at the beginning of Ascend. I tried that out and it seemed to work out well. See?!
+So I started dinking around...right clicked the pop up box and chose the Inspect Element option. There I could hover over code and see where I was working. It took me a bit to find out where I wanted to be. I started with changing the px but I was concerned if the text got bigger the box would stay the same and the font would out grow out of the box. I vaguely remember talking about ems at the beginning of Ascend. I tried that out and it seemed to work out well. See?!
 
 <img src="https://www.evernote.com/shard/s146/sh/e072dc63-d7bb-4625-9697-6285f6993b62/873205c2787b9d2caca9107e98c0d753/deep/0/the-change-on-element-inspector.png" alt="the%20change%20on%20element%20inspector" />
 
@@ -44,8 +43,3 @@ But now I had to find the real code instead of just changing it temporarily  on 
 By the end of week 4 both of them were ready to go and ready to make a second patch.
 
 <img src="https://www.evernote.com/shard/s146/sh/45cdfc9d-cf00-4416-9246-db734b6c93f1/7cf0e2955d08a5bfdb584df2bb417c9b/deep/0/Popcorn-Maker-and-popcorn.webmaker.org---node---123-28.png" alt="Popcorn%20Maker%20and%20popcorn.webmaker.org%20%E2%80%94%20node%20%E2%80%94%20123%C3%9728" />
-
-
-
-
-

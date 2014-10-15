@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Third week"
+title:  "Week 3 - So many configs"
 author: Becky
 date:   2014-09-26
 categories: becky
