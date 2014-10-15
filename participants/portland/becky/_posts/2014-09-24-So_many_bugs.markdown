@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So many bugs"
+title:  "Weeek 3 - So many bugs"
 author: Becky
 date:   2014-09-24
 categories: becky
