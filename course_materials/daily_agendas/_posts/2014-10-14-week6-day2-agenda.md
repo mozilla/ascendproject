@@ -9,3 +9,9 @@ Agenda
 9-9:30am Breakfast
 
 9:30am Checkin & announcements
+
+* 10-12:30pm Hope HR/Resume skill building
+
+LUNCH (Food Carts)
+
+* Working on bug(s)

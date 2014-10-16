@@ -55,5 +55,5 @@ Link to I’m in Charge! [coming soon]
 
 Now, create another profile with a different name and a different version of Forefox. Were you able to make profiles for your different versions of Firefox? If so, go claim your [badge](https://badges.mozilla.org/en-US/badges/claim/94x9wp)!
 
-[Claim My Badge!]https://badges.mozilla.org/en-US/badges/claim/94x9wp)
+[Claim My Badge!](https://badges.mozilla.org/en-US/badges/claim/94x9wp)
 

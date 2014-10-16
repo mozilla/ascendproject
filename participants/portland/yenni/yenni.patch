@@ -1,0 +1,41 @@
+diff --git a/browser/base/content/tabbrowser.xml b/browser/base/content/tabbrowser.xml
+index b7f829c..655953f 100644
+--- a/browser/base/content/tabbrowser.xml
++++ b/browser/base/content/tabbrowser.xml
+@@ -1593,6 +1593,13 @@
+ 
+             this.tabContainer.appendChild(t);
+ 
++            //Start of move tab patch =lukas
++            //Get the index of te current tab 
++            var newIndex;
++            oldIndex = this.mTabContainer.selectedIndex;
++            // the new index will be one to the left
++            newIndex = oldIndex - 1;
++
+             // If this new tab is owned by another, assert that relationship
+             if (aOwner)
+               t.owner = aOwner;
+@@ -1705,6 +1712,9 @@
+             evt.initEvent("TabOpen", true, false);
+             t.dispatchEvent(evt);
+ 
++            // Making the move of the tab at the end of method =lukas
++            this.moveTabTo(t, newIndex);
++
+             // If we didn't swap docShells with a preloaded browser
+             // then let's just continue loading the page normally.
+             if (!docShellsSwapped && !uriIsAboutBlank) {
+diff --git a/browser/locales/en-US/chrome/browser/browser.dtd b/browser/locales/en-US/chrome/browser/browser.dtd
+index 1d9c509..afbec59 100644
+--- a/browser/locales/en-US/chrome/browser/browser.dtd
++++ b/browser/locales/en-US/chrome/browser/browser.dtd
+@@ -15,7 +15,7 @@
+                                                                 inside the private browsing mode -->
+ <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+ 
+-<!ENTITY appmenu.tooltip                     "Open menu">
++<!ENTITY appmenu.tooltip                     "Open App Menu">
+ <!ENTITY navbarOverflow.label                "More tools…">
+ 
+ <!-- Tab context menu -->

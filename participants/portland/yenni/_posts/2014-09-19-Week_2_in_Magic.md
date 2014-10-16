@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "The Reality of Magic"
+author: Yenni
 date: 2014-09-19
-cetegories: yenni
+categories: yenni
 ---
 
 It's hard conceptualize how much I've actually learned. Not only from the material we are being introduced to, but from my peers and mentors as well. I pinch myself daily, thinking this_isn't_real. That somehow I fabricated this reality where people are encouraging of failure because they know it leads to learning. Where my personal life is considered as a part of my daily interactions with everyone in this journey. 
