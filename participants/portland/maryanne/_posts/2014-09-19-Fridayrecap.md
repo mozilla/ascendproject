@@ -3,6 +3,7 @@ layout: post
 title:  "Friday recap"
 date:   2014-09-19
 categories: maryanne
+author: Mary Anne Thygesen
 ---
 #Friday September 19, 2014
 

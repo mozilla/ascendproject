@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Week 5 Monday, OMFgoodness"
+author: amanda houle
+categories: amanda
+---
+<br>
+Update to this blog:  It's Monday morning and I've just edited for typos.  Totally proved my point about Friday afternoon meltdown....
+<br>
+Towards the beginning of last week, I got my virtual environment up and running - no problem.  Edits and patch made - no major problems there either.  Then, I had two afternoons of stuckness to figure out how to apply said patch.  
+To be fair, Friday afternoon is a hard period of time to have high expectations of oneself.  It's the end of a long week of input, input, input.... the brain just gets too plain tired to take on anymore.  That would be a good day to work on something tedious, like counting pennies!  Even better, why doesn't every dev shop have four day weeks like [Treehouse](https://teamtreehouse.com/jobs/at-treehouse-26f5fe0d-f84d-4989-9be1-3884d8faaa31)?
+So Friday, I went home with the intention of coming back fresh on Monday.  
+
+My subconscious must've done some major neural connecting because I ran one stinking command and there she was:  my beautifully altered Firefox Nightly browser running in full glory!  
+
+			./mach run
+
+
+After you pick yourself up off of the floor from laughing so hard.....
+
+I hope someone else gets to writing up this tutorial before I get a chance to.  I broke this task up over four days and now, I can't remember the work flow.  Will try again.  
+
+rinse
+
+repeat
+
+
+
+

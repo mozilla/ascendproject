@@ -6,7 +6,7 @@ author: "Barbara Miller"
 categories: barbara
 ---
 
-update 2014-09-29: still looking at [Bug 1069325](https://bugzilla.mozilla.org/show_bug.cgi?id=1069325), where I submitted by first patch, wondering if I’ve missed the memo detailing how mozmill tests get updated
+update 2014-10-03: first bug patch landed! for [Bug 1069325](https://bugzilla.mozilla.org/show_bug.cgi?id=1069325)
 
 additional mozmill (testing) bugs
 ---------------------------------
