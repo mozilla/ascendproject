@@ -22,5 +22,4 @@ So yeah, here we are. I just gave my final presentation earlier today, so I gues
 
 "I think it's gonna be alright. Yeah, the worst is over now. The morning sun is shining like a red rubber ball."
 
-
-<object width="480" height="385"><param name="movie" value="https://www.youtube.com/watch?feature=player_detailpage&v=EbDKN0dk54M"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/watch?feature=player_detailpage&v=EbDKN0dk54M" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<iframe width="420" height="315" src="//www.youtube.com/embed/EbDKN0dk54M" frameborder="0" allowfullscreen></iframe>
