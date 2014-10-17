@@ -54,3 +54,7 @@ Five weeks ago, I would've been in a post meeting session with whomever was avai
 [Slide:  How to get in touch with me]
 
 Put me in front of a machine and I will figure it out.
+
+**********************
+
+Update:  link <iframe src="https://air.mozilla.org/amanda-houle-ascend/video/" width="640" height="380" frameborder="0" allowfullscreen>link</iframe>to shortened version and actual presentation
