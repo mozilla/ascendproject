@@ -24,11 +24,11 @@ In the middle of reading my Strengths assessment, I felt like I was **reading my
 
 My Top 5 Strengths are: Learner, Context, Individualization, Connectedness, and Relator.  Each of these strengths empowers the others, and I love that I've found a way to explain my personality through these strengths.
 
-* As a **Learner**, I relate to the world by learning as much as I can.  I'm not perfect by any means, and we all have differing phases of memory, but I love exploring new ideas and learning new things.  I also learn by teaching, when I can.
-* In terms of **Context**, I seek to understand why things are the way they are, based on historical events that may have caused them to be the way they are.  The StrengthsFinder accurately identified that I love researching ancient history!
-* **Individualization** isn't what it sounds like.  I didn't like the name at first, but I agree with the Strength as one of my top 5.  I strive to empower people as individuals, with unique lives, lenses, and experiences.  In order to work well with multiple people, I make it a priority to validate their individuality.
-* **Connectedness** seems related to Context.  I see events as connected to each other, and I seek out the "webs" connecting things.  My learning style involves linking concepts together to create new things.
-* The **Relator** strength involves deconstructing information, to make it understandable for multiple types of people.  I love this one, because I've been very inspired in my life to support people through tutoring and teaching.  I really enjoy presenting information, creating concept maps, finding different ways to explore ideas, and brainstorming through creative methods!
+*	As a **Learner**, I relate to the world by learning as much as I can.  I'm not perfect by any means, and we all have differing phases of memory, but I love exploring new ideas and learning new things.  I also learn by teaching, when I can.
+*	In terms of **Context**, I seek to understand why things are the way they are, based on historical events that may have caused them to be the way they are.  The StrengthsFinder accurately identified that I love researching ancient history!
+*	**Individualization** isn't what it sounds like.  I didn't like the name at first, but I agree with the Strength as one of my top 5.  I strive to empower people as individuals, with unique lives, lenses, and experiences.  In order to work well with multiple people, I make it a priority to validate their individuality.
+*	**Connectedness** seems related to Context.  I see events as connected to each other, and I seek out the "webs" connecting things.  My learning style involves linking concepts together to create new things.
+*	The **Relator** strength involves deconstructing information, to make it understandable for multiple types of people.  I love this one, because I've been very inspired in my life to support people through tutoring and teaching.  I really enjoy presenting information, creating concept maps, finding different ways to explore ideas, and brainstorming through creative methods!
 
 One of my course goals is to share my Strengths with the combined Strengths of my fellow participants.  We are forming a bond of learning which is changing us all.
 

@@ -24,10 +24,10 @@ According to this page on [Installing Olympia](http://olympia.readthedocs.org/en
 
 These include:
 
-+ Python
-+ Node
-+ MySQL
-+ libxml2
++	Python
++	Node
++	MySQL
++	libxml2
 
 My first question to myself was "How do I get Python?"  I mean, I know it's a language, and I even learned how to write a bit of code in Python via [Codecademy](http://www.codecademy.com/), but I didn't know if I had it on my Ascend laptop.  I guess I figured that "getting Python" was something only attempted by programmers who'd been programming for 30 years.
 
@@ -51,5 +51,9 @@ It turns out that typing:
 
 **python --version**
 
-into my Terminal will show me exactly which version of Python I have!  This has been amazingly helpful for me as I learn more about 
+into my Terminal will show me exactly which version of Python I have!  This has been amazingly helpful for me as I learn more about virtual environments.
+
+[Here](https://developer.mozilla.org/en-US/docs/Python/Virtualenv) is a Mozilla article on using Virtualenv for Python.  Thanks to Barbara for pointing me to this wonderful resource!
+
+I have another blog post in the works about my understanding of the "-a" flag when making virtual environments.
 

@@ -1,0 +1,54 @@
+Raven is not configured (logging is disabled). Please see the documentation for more information.
+10:48:12 z.celery:ERROR CELERY FAIL: [Errno 61] Connection refused :/Users/Carmen/.virtualenvs/olympia/src/nuggets/celeryutils.py:24
+Traceback (most recent call last):
+  File "./manage.py", line 93, in <module>
+    execute_from_command_line(sys.argv)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/django/core/management/__init__.py", line 399, in execute_from_command_line
+    utility.execute()
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/django/core/management/__init__.py", line 392, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/django/core/management/base.py", line 242, in run_from_argv
+    self.execute(*args, **options.__dict__)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/django/core/management/base.py", line 285, in execute
+    output = self.handle(*args, **options)
+  File "/Users/Carmen/Sites/olympia/apps/users/management/commands/activate_user.py", line 33, in handle
+    profile.update(confirmationcode='')
+  File "/Users/Carmen/Sites/olympia/apps/amo/models.py", line 286, in update
+    result = super(OnChangeMixin, self).update(_signal=signal, **kw)
+  File "/Users/Carmen/Sites/olympia/apps/amo/models.py", line 391, in update
+    created=False)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/django/dispatch/dispatcher.py", line 185, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/Users/Carmen/Sites/olympia/apps/users/models.py", line 498, in user_post_save
+    tasks.index_users.delay([instance.id])
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/celery/app/task.py", line 357, in delay
+    return self.apply_async(args, kwargs)
+  File "/Users/Carmen/.virtualenvs/olympia/src/nuggets/celeryutils.py", line 22, in apply_async
+    return super(Task, self).apply_async(args, kwargs, **options)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/celery/app/task.py", line 474, in apply_async
+    **options)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/celery/app/amqp.py", line 250, in publish_task
+    **kwargs
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/messaging.py", line 164, in publish
+    routing_key, mandatory, immediate, exchange, declare)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/connection.py", line 470, in _ensured
+    interval_max)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/connection.py", line 396, in ensure_connection
+    interval_start, interval_step, interval_max, callback)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/utils/__init__.py", line 217, in retry_over_time
+    return fun(*args, **kwargs)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/connection.py", line 246, in connect
+    return self.connection
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/connection.py", line 761, in connection
+    self._connection = self._establish_connection()
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/connection.py", line 720, in _establish_connection
+    conn = self.transport.establish_connection()
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/kombu/transport/pyamqp.py", line 115, in establish_connection
+    conn = self.Connection(**opts)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/amqp/connection.py", line 136, in __init__
+    self.transport = create_transport(host, connect_timeout, ssl)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/amqp/transport.py", line 264, in create_transport
+    return TCPTransport(host, connect_timeout)
+  File "/Users/Carmen/.virtualenvs/olympia/lib/python2.7/site-packages/amqp/transport.py", line 99, in __init__
+    raise socket.error(last_err)
+socket.error: [Errno 61] Connection refused
