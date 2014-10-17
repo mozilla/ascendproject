@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Last day at Mozilla's Ascend Project"
+date:   2014-10-17
+author: Adam
+categories: adam
+---
+
+<u>A summary of what I did during the Ascend Project</u>
+* Installed all of the Firefox channels (Aurora, Nightly, etc)
+* Learned how to use Git and GitHub
+* Set up my dev enviornment
+* Set up my blog of sorts on the Ascend Project website
+* Built Firefox in a VM
+* Learned how to make build patches
+* Fixed three bugs
+** Got really used to making git branches
+** Did lots of pull requests
+** Developed the start of a great working relationship with my mentor Will Kahn-Green
+** Met Mike Cooper
+* Set up a local Wordpress blog
+* Crashed things
+* Applied for OPW
+* Gave presentations
