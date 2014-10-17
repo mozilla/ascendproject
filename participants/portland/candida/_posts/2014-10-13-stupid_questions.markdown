@@ -53,4 +53,4 @@ We all want to get things done. What does it mean that the quest for answers mig
 
 Such nice manners.
 
-
+The screen shots in this blog came from [this site](http://git-scm.com/docs/git-stash)
