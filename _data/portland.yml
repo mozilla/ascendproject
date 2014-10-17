@@ -92,10 +92,11 @@
       bio: " I remember Logo in middle school!  Oh what fun.  After one year as an engineering major in college, I decided that I wasn't super excited about the boys club (we were still teenagers) and left tech altogether.  Fast forward almost 20 years later (OMG!), after a successful yoga teaching 'career' covering Asia and Europe, I have a small daughter to role model for.  I think the US is a better place for both of us to blossom into the powerful women that we will become and back in tech is where I want to be.  Here's to hoping that those tech-related neurons in my brain will still fire!"
     -
       name: "Barbara Miller"
+      url: "http://www.galgeek.com"
       role: "participant"
       blog_dir: "barbara"
       image: "barbara_miller.jpg"
-      bio: "Two truths and a lie: <ul><li>Last year as a volunteer I finished updating a non-profit's Drupal site.</li><li>This summer I've been paid to update some 2003 Visual Basic code.</li><li>I not only took this photo, I grew these wonderful daffodils.</li></ul>"
+      bio: "Barbara has used open source software for many years. She’s delighted now, thanks to the Ascend Project, to be a Mozilla contributor. She wishes she could honestly claim to have grown these daffodils, but alas, no!"
     -
       name: "David Hinojosa"
       role: "participant"
