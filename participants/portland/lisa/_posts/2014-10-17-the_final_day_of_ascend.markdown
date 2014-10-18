@@ -22,6 +22,6 @@ Now it was time for our official graduation where we would do the handshake and 
 
 I don't think I really need to sum up my time at Ascend since I have a TMI daily blog of it and my video kind of sums it up but I hope that anyone reading can see what an amazing opportunity we all were given. Sometimes when something seems too good to be true, it's not.
 
-[caption id="attachment_285" align="aligncenter" width="720"]<a href="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-17-15.41.17.jpg"><img class="size-large wp-image-285" src="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-17-15.41.17-1024x576.jpg" alt="These are some amazing people right here!" width="720" height="405" /></a> From left, Dino, me, Kronda, Lukas and Katt.[/caption]
+<a href="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-17-15.41.17.jpg"><img class="size-large wp-image-285" src="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-17-15.41.17-1024x576.jpg" alt="These are some amazing people right here!" width="720" height="405" /></a> From left, Dino, me, Kronda, Lukas and Katt.
 
 Thank you for reading about my coding adventure. If you would like to follow my full blog you can find me at http://lisa.hewus.com or on Twitter @bugZPDX
