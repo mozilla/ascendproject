@@ -24,4 +24,4 @@ I don't think I really need to sum up my time at Ascend since I have a TMI daily
 
 <a href="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-17-15.41.17.jpg"><img class="size-large wp-image-285" src="http://lisa.hewus.com/wp-content/uploads/2014/10/2014-10-17-15.41.17-1024x576.jpg" alt="These are some amazing people right here!" width="720" height="405" /></a> From left, Dino, me, Kronda, Lukas and Katt.
 
-Thank you for reading about my coding adventure. If you would like to follow my full blog you can find me at http://lisa.hewus.com or on Twitter @bugZPDX
+Thank you for reading about my coding adventure. If you would like to follow my full blog you can find me at <a href="http://lisa.hewus.com">http://lisa.hewus.com</a> or on Twitter <a href="https://twitter.com/bugZPDX">@bugZPDX</a>
