@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Refining Patches and Looking Forward"
+title:  "Week 5: Refining Patches and Looking Forward"
 date:   2014-10-10
 categories: virginia
 ---
