@@ -33,7 +33,7 @@ As for the create-an-app bug, I will have to review the documentation again to c
 
 [Dun-dun-dun!](https://www.youtube.com/watch?v=bW7Op86ox9g)
 
-It’s a cliff-hanger, y’all! 
+It’s a cliff-hanger, y’all!
 
 
 
