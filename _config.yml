@@ -28,6 +28,8 @@ navigation:
   url: /volunteers/index.html
 - title: FAQ
   url: /faq/index.html
+- title: Timeline
+  url: /timeline/index.html
 - title: Sponsors
   url: /sponsors/index.html
 
