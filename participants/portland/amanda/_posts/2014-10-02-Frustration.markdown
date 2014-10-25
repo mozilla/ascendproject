@@ -1,24 +1,20 @@
 ---
 layout: post
-title:  "Apply a Patch"
+title:  "Frustration, you say?"
 author: amanda
 categories: amanda
 ---
 
-1. sudo apt-get install git (use password "firefox-dev" w/o the quotes)
-git clone into home directory
-change to mozilla-central
-****  Google this - how to apply a patch *******
-figure out how to get the patch into the build
-be in moz-cen and give command to apply patch
+<br>
+List of random thoughts from this day:
 
-********
-flash cards - yay!  helped.  wow, lots of command line stuff
-worked on catch up stuff
-my bug - crickets
-soup for lunch
+flash cards of Command Line commands - yay!  helped.  wow, lots of command line stuff
+worked on catch up stuff from our Etherpads
+my bug - crickets (haven't heard anything back yet)
+soup for lunch 
 Kronda's talk from OSBridge
 wrestled with git inside Virtual Box alllllll afternoon.
+
 The rest of this blog will be called:  How to Deal with Frustration.
 I will use the same talk on myself that I use with my toddler: "Do we throw things when we are upset at them?  Noooooooo..... What are some other things that we can do instead?  Yes, that's good.  Deep breath.  A little deeper.... yes, that's it... uh.... uh... do I see a smile?  Nooooooo smiling....Hey!  I see that smile?  Can you think of other things that you can do to find the happy?"
 
@@ -30,7 +26,3 @@ In other words - I'm worn out.
 
 I'm usually a morning person and get my best work done then.  With Ascend, I've gotten used to meetings and such in the morning and then turning on the programming juice AFTER lunch.  Thank you, [focus@will](https://www.focusatwill.com) for hour-at-a-time concentrated work stretches.  At about 3:45pm, I get that frantic feel of pushing against a deadline (we do a quick debrief and then turn in our computers at 4:30pm) which is completely self-imposed.  This is probably as close to ... 
 
-Don't pay any attention to stuff below this line
-2.  git apply amanda.patch
-3. -- stat amanda.patch  (detects errors)
-4. git am --signoff < amanda.patch (applies patch)

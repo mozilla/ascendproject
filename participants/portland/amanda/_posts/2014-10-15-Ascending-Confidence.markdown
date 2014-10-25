@@ -20,13 +20,13 @@ Here is the spoiler for tomorrow's 5 minutes of (within-the-Ascend-Project) fame
 I've been regularly going to Meetups, attended two different code schools and have done quite a bit of networking-type, information gathering coffee and lunch meetings.  Those things all have their place but where I finally grew some confidence was with the Ascend Project.
 
 How, you ask?  What was different about Ascend?  
-Well, I have not yet had the time to process my Ascend Project experience yet, so the how and why is still a little fuzzy.  Let's acknowledge that I have found this confidence before we have completed!  I'll try to answer this question of "how?" from where I stand on our timeline 5 weeks in.
+Well, I have not yet had the time to process my Ascend Project experience, so the how and why is still a little fuzzy.  Let's acknowledge that I have found this confidence before we have completed!  I'll try to answer this question of "how?" from where I stand on our timeline 5 weeks in.
 
 [Slide:  Talking to Each other!  Scheduled, structured daily communication]
 
 Let's talk about talking to each other.  First, we had two days of intensive community building.  It was invaluable all the way from breaking the ice, to finding our own individual strengths to a self declared metamorphosis!  
-What continued to keep our group in cohesion, was a daily check in governed by our own code of conduct.  Our check ins had a specific purpose which was different than what I got out of it in regards to confidence building.  (Something about compassion, letting people know if we were in a particularly unpleasant mood, sharing information about the bug that we were working on, morning mishaps or whether we were awake yet or not...)
-What I got out it was a sense of connection and of where other people were on this journey to tech-awesomeness.  [Perhaps it is a weakness of my own that it helps me to guage my own progress based on where the group is at?  That can't completely be the reason because, as I mentioned before, over half of our daily check ins and check outs had nothing to do with our technical progress.]    
+What continued to keep our group in cohesion, was a daily check in governed by our own code of conduct.  Our check ins had a specific purpose which was different from what I got out of it in regard to confidence building.  (Something about compassion, letting people know if we were in a particularly unpleasant mood, sharing information about the bug that we were working on, morning mishaps or whether we were awake yet or not...)
+What I got out it was a sense of connection and of where other people were on this journey to tech-awesomeness.  [Perhaps it is a weakness of my own that it helps me to guage my own progress based on where the group is?  That can't completely be the reason because, as I mentioned before, over half of our daily check ins and check outs had nothing to do with our technical progress.]    
 
 [Slide:  Even with experience, there is still the work of a puzzle.]
 
