@@ -1,3 +1,14 @@
+---
+title: New Orleans needs a space
+layout: post
+excerpt: We're trying to bring the second pilot of the Ascend Project [http://ascendproject.org](http://ascendproject.org) to New Orleans in February
+date: 2014-12-08 15:23:14
+tags:
+ - ascend portland
+ - update
+published: true
+---
+
 We're trying to bring the second pilot of the Ascend Project [http://ascendproject.org](http://ascendproject.org) to New Orleans in February and am looking for a space to hold the program.  We have a small budget to rent space but would prefer to find a partnership and/or sponsor if possible to help keep costs low.
 
 The program takes 20 adults who are typically marginalized in technology/open source and offers them a 6 week accelerated learning environment where they build technical skills by contributing to open source - specifically, Mozilla. Ascend provides the laptops, breakfast, lunch, transit & childcare reimbursement, and a daily stipend in order to lift many of the barriers to participation.
